@@ -1,0 +1,59 @@
+{
+"name": "TV Online",
+"author": "อัพเดทล่าสุด25/8/24",
+"url": "https://tvmanthai.github.io/tvman/w3u/tv_online",
+"image": "https://cdn-icons-png.flaticon.com/512/1527/1527065.png",
+"groups": [ 
+
+{
+"name": "กด 1ครั้งเพื่ออัพเดต",
+"image": "https://media.lordicon.com/icons/wired/flat/227-arrow-16.gif",
+"url": "https://tvmanthai.github.io/tvman/w3u/tv_online"},
+
+{
+"name": "ช่องดิจิตอล",
+"image": "https://cdn-icons-png.freepik.com/512/4358/4358295.png",
+"url": "https://tvmanthai.github.io/tvman/w3u/digital_tv",
+"info": "Digital Channel",
+"import": false
+},
+
+{ "name": "ช่องกีฬา", 
+"image": "https://cdn-icons-png.flaticon.com/512/9192/9192699.png", 
+"url": "https://tvmanthai.github.io/tvman/w3u/sport_tv",
+"info": "Sport Channel",
+"import": false
+},
+
+{ "name": "ช่องกีฬาต่างประเทศ", 
+"image": "https://cdn-icons-png.flaticon.com/512/4471/4471827.png", 
+"url": "https://drive.google.com/uc?id=1OEqO7nKaLyGnBdTq2_w9Pea4NFpjYthG",
+"info": "Sport Channel 2",
+"import": false
+},
+
+{
+"name": "ช่องบันเทิง",
+"image": "https://cdn-icons-png.freepik.com/512/5224/5224784.png",
+"url": "https://tvmanthai.github.io/tvman/w3u/entertaiment_tv",
+"info": "Entertainment Channel",
+"import": false
+},
+
+{
+"name": "ช่องเด็ก",
+"image": "https://cdn-icons-png.freepik.com/512/1747/1747559.png",
+"url": "https://tvmanthai.github.io/tvman/w3u/kids_tv",
+"info": "Kids Channel",
+"import": false
+},
+
+{
+"name": "ช่องสาระความรู้",
+"image": "https://cdn-icons-png.freepik.com/512/6458/6458101.png",
+"url": "https://tvmanthai.github.io/tvman/w3u/knowledge_tv",
+"info": "Knowledge Channel",
+"import": false
+},
+]
+}
