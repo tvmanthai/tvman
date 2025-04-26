@@ -1,0 +1,190 @@
+{
+"name": "Entertainment",
+"author": "อัพเดทล่าสุด/01/12/24",
+"url": "https://pastebin.com/raw/D0WnpzzX",
+"image": "https://cdn-icons-png.flaticon.com/512/1527/1527065.png",
+"stations": [
+{
+"name": "TRUE FILM1 HD",
+"image": "https://img2.pic.in.th/pic/True-Film-1.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/truefilm1",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "TRUE FILM2 HD",
+"image": "https://img5.pic.in.th/file/secure-sv1/True-Film-2.png",
+"url": "https://dookeela.live/live-tv/truefilm2",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "TRUE MOVIE HITS",
+"image": "https://img5.pic.in.th/file/secure-sv1/True-Movie-hits.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/truemoviehits",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "TRUE SERIES",
+"image": "https://img2.pic.in.th/pic/True-Seies.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/trueseries",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "TRUE FILM ASIA",
+"image": "https://img5.pic.in.th/file/secure-sv1/True-Film-Asia.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/truefilmasia",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "TRUE THAI FILM",
+"image": "https://img2.pic.in.th/pic/True-Film-1.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/truethaifilm",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "TRUE ASIAN MORE",
+"image": "https://img2.pic.in.th/pic/True-Asian-More.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/trueasianmore",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "True X-Zyte",
+"image": "https://img5.pic.in.th/file/secure-sv1/True-X-Zyte.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/truex-zyte",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "HITS MOVIES",
+"image": "https://img2.pic.in.th/pic/Hits-Movies.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/hits-movies",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "HITS",
+"image": "https://img2.pic.in.th/pic/Hits.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/hits",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "HBO",
+"image": "https://img2.pic.in.th/pic/logo_hbo.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/hbo",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "HBO HITS",
+"image": "https://img5.pic.in.th/file/secure-sv1/logo_hbo-hits.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/hbo-hits",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "HBO FAMILY",
+"image": "https://img5.pic.in.th/file/secure-sv1/logo_hbo-family.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/hbo-family",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "HBO SIGNATURE",
+"image": "https://img2.pic.in.th/pic/logo_hbo-signature.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/hbo-signature",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "MONO29PLUS",
+"image": "https://img2.pic.in.th/pic/Mono-29-Plus.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/mono29plus",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv"
+},
+{
+"name": "3BB ASIAN",
+"image": "https://img5.pic.in.th/file/secure-sv1/Logo_3bbasian.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/3bbasian",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "AMC",
+"image": "https://img2.pic.in.th/pic/Logo_AMC.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/amc",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "PARAMOUNT NETWORK",
+"image": "https://img5.pic.in.th/file/secure-sv1/logo_paramount98347da0c994a9d7.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/paramount-network",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "CINEMAX",
+"image": "https://img2.pic.in.th/pic/logo_Cinemax.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/cinemax",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "ROCK ACTION",
+"image": "https://img2.pic.in.th/pic/Logo_Rockaction.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/rock-action",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "ROCK ENTERTAINMENT",
+"image": "https://img5.pic.in.th/file/secure-sv1/Logo_Rockentertainment.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/rock-entertainment",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "WARNER TV",
+"image": "https://img2.pic.in.th/pic/Logo_Warner.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/warnertv",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+{
+"name": "TLC",
+"image": "https://img5.pic.in.th/file/secure-sv1/TLC.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/tlc",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/"
+},
+]}
