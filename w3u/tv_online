@@ -27,7 +27,7 @@
 
 { "name": "ช่องกีฬาต่างประเทศ", 
 "image": "https://cdn-icons-png.flaticon.com/512/4471/4471827.png", 
-"url": "https://drive.google.com/uc?id=1OEqO7nKaLyGnBdTq2_w9Pea4NFpjYthG",
+"url": "https://tvmanthai.github.io/tvman/w3u/world_sport",
 "info": "Sport Channel 2",
 "import": false
 },
@@ -35,7 +35,7 @@
 {
 "name": "ช่องบันเทิง",
 "image": "https://cdn-icons-png.freepik.com/512/5224/5224784.png",
-"url": "https://tvmanthai.github.io/tvman/w3u/entertaiment_tv",
+"url": "https://tvmanthai.github.io/tvman/w3u/entertainment_tv",
 "info": "Entertainment Channel",
 "import": false
 },
