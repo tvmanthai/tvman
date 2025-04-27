@@ -127,8 +127,8 @@ https://cdn1.googlecdnforstreaming.live/live/bein10/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องกีฬา",True Sports 1
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tsp1/playlist.m3u8
-#https://playtvthai.github.io/m3u8/sports/truesport1/playlist.m3u8
+#https://cdn1.googlecdn.live/ballsod24hrs/tsp1/playlist.m3u8
+https://playtvthai.github.io/m3u8/sports/tsp1b.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ช่องกีฬา",True Sports 2
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -137,18 +137,18 @@ https://cdn1.googlecdn.live/ballsod24hrs/tsp2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องกีฬา",True Sports 3
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tsp3/playlist.m3u8
-#https://playtvthai.github.io/m3u8/sports/truesport3/playlist.m3u8
+#https://cdn1.googlecdn.live/ballsod24hrs/tsp3/playlist.m3u8
+#https://playtvthai.github.io/m3u8/sports/tsp3.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ช่องกีฬา",True Sports 5
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tsp5/playlist.m3u8
-#https://playtvthai.github.io/m3u8/sports/truesport5/playlist.m3u8
+#https://cdn1.googlecdn.live/ballsod24hrs/tsp5/playlist.m3u8
+https://playtvthai.github.io/m3u8/sports/tsp5.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องกีฬา",True Sports 7
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
-#https://playtvthai.github.io/m3u8/sports/truesport7/playlist.m3u8
+#https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
+https://playtvthai.github.io/m3u8/sports/tsp7.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 1
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
