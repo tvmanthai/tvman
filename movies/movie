@@ -1,4 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250425163256bEiJBcwdR4oOTCgstLkqTUja58p.jpg" group-title="MOVIE", Havoc (2025) ฝ่าหายนะครองเมือง
+https://m1free.inwstream.com:1936/movie4/Havoc_2025/Havoc_2025_TH_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250423184027qkTKtOHK9JEEOHgPQZ0dFtzs5ML.jpg" group-title="MOVIE", Bullet Train Explosion (2025) ระเบิดรถด่วนขบวนระห่ำ
+https://m1free.inwstream.com:1936/movie4/Bullet_Train_Explosion_2025/Bullet_Train_Explosion_2025_TH_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250418161507i7ptvi9Y5PFXVxCSbMyjcYEFOhU.jpg" group-title="MOVIE", ผู้บ่าวนิกะห์ (2024) Isan Nikah
+https://m1free.inwstream.com:1936/movie4/Isan_Nikah_2024/Isan_Nikah_2024_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250418152532ncoQ4NXC3QuFhUG5IA7NtnxsSLe.jpg" group-title="MOVIE", Oklahoma City Bombing: American Terror (2025) ระเบิดโอคลาโฮมาซิตี: ฝันร้ายของชนอเมริกัน
+https://m1free.inwstream.com:1936/movie4/Oklahoma_City_Bombing_American_Terror_2025/Oklahoma_City_Bombing_American_Terror_2025_TH_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250425003509t3YXnzkDugW6BCK4L7U9ctRfE4f.jpg" group-title="MOVIE", New Dragon Gate Inn (2024) เดชคัมภีร์แดนพยัคฆ์
+https://m1free.inwstream.com:1936/movie4/New_Dragon_Gate_Inn_2024/New_Dragon_Gate_Inn_2024_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250425003007bE7lspoxHOkZrwpR9v0NX9VjqvW.jpg" group-title="MOVIE", Kun in the Distant Ocean (2024) คุน สัตว์ประหลาดแห่งทะเลเหนือ
+https://m1free.inwstream.com:1936/movie4/Kun_in_the_Distant_Ocean_2024/Kun_in_the_Distant_Ocean_2024_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202503101634532XXDFGzlQHiqTjbDm15LOr1WiDm.jpg" group-title="MOVIE", Mickey 17 (2025) มิกกี้ 17
+https://m1free.inwstream.com:1936/movie4/Mickey_17_2025/Mickey_17_2025_th_1080.mp4/playlist.m3u8
+  
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250417181537ydSfPNULnjhfrZwUaIWK4Glmesr.jpg" group-title="MOVIE", Fist of Fury: Soul (2021) ไอ้หนุ่มซินตึ๊งล้างแค้น: จิตวิญญาณดวงใหม่
+https://m1free.inwstream.com:1936/movie3/Fist_of_Fury_Soul_2021/Fist_of_Fury_Soul_2021_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250417181302i088H220ab2IvcYJgvum556ssgY.jpg" group-title="MOVIE", Fate of Devil: Devastation (2023) ชะตากรรมหายนะปีศาจ
+https://m1free.inwstream.com:1936/movie4/Fate_of_Devil_Devastation_2023/Fate_of_Devil_Devastation_2023_th_1080.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2025041415021771xjlSIAqyhaFafM7IcChpqOBqT.jpg" group-title="MOVIE", ธี่หด (2025) Shrinking Tee
 https://m1free.inwstream.com:1936/movie4/Shrinking_Tee_2025/Shrinking_Tee_2025_th_1080.mp4/playlist.m3u8
 
