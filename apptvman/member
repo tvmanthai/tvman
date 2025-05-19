@@ -268,6 +268,10 @@ https://playtvthai.github.io/m3u8/movie/film1.m3u8
 #https://playtvthai.github.io/m3u8/movie/flim2.m3u8
 http://wandering-oldman.github.io/movies/true-film2hd.m3u8
 
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719803882.png" group-title="ความบันเทิง",HITS MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+http://wandering-oldman.github.io/movies/true-movie-hits.m3u8
+
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706539896.png" group-title="ความบันเทิง",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 https://playtvthai.github.io/m3u8/movie/truethaiflim.m3u8
@@ -307,10 +311,6 @@ http://wandering-oldman.github.io/movies/rock-entertain.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #https://playtvthai.github.io/m3u8/movie/warnerth.m3u8
 http://wandering-oldman.github.io/movies/true-warner.m3u8
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714100677.png" group-title="ความบันเทิง",HITS MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-http://wandering-oldman.github.io/movies/true-movie-hits.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="ความบันเทิง",afn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
