@@ -312,7 +312,7 @@ http://wandering-oldman.github.io/movies/true-warner.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 http://wandering-oldman.github.io/movies/true-movie-hits.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ความบันเทิง",afn
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="ความบันเทิง",afn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 http://wandering-oldman.github.io/document/afn.m3u8
 
@@ -372,7 +372,7 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH
 -------------------Kids---------------------------------------
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705504202.png" group-title="การ์ตูน ช่องเด็ก",Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
+https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
 
 
