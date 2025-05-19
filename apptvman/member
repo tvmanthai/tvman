@@ -268,7 +268,8 @@ https://playtvthai.github.io/m3u8/movie/film1.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/True-Film-2.png" group-title="ความบันเทิง",True Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://playtvthai.github.io/m3u8/movie/flim2.m3u8
+http://wandering-oldman.github.io/movies/true-film2hd.m3u8
+#https://playtvthai.github.io/m3u8/movie/flim2.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/True-Film-Asia.png" group-title="ความบันเทิง",True Film Asian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -289,11 +290,8 @@ https://cdn1.googlecdn.live/ballsod24hrs/mono29plus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Logo_Rockaction.png" group-title="ความบันเทิง",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a3f4f0914988cc2f6be128c28893fff:db158f0d2bb85efd8f06e38d483de19c
-#https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0166/DASH/V0166.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=966d196b994b2df325ccac75cd11e23f&chunkHttps=true&tmid=B0003&tpbk=t98wq0YsLuV1galG&rrt=1745187182&tmod=rfk&rsid=fa7642d1-3185-4833-8a42-0d516545b794&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=e762b4f59844c7f12be0be4701e8fdde&origin=anevia&tfa=f0-fc&tttl=1745273582
-https://playtvthai.github.io/m3u8/movie/rockaction.m3u8
+http://wandering-oldman.github.io/movies/rockaction.m3u8
+#https://playtvthai.github.io/m3u8/movie/rockaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Logo_Rockentertainment.png" group-title="ความบันเทิง",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
