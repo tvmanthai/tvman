@@ -7,7 +7,6 @@ https://fw4free.inwstream.com/fw4free/ch1.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dooflixtv.com/
 https://r3-sn-5fo-c37ed248.googleuservideo.com:8443/Premier1_720/index.m3u8?token=c2VydmVyX3RpbWU9MTAvMTYvMjAyNCAwMTo0MDozNiBBTSZoYXNoX3ZhbHVlPVU2b1J3VW5OaHdub1pUbjJTRi9YdGc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0wJmlkPXdlYi0xMzg1NzU=
 
-
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 2 
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch2.stream/playlist.m3u8
@@ -24,7 +23,6 @@ https://cdn1.googlecdnforstreaming.live/live/epl3/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://dooflixtv.com/
 https://r3-sn-5fo-c37ed248.googleuservideo.com:8443/Premier3_720/index.m3u8?token=c2VydmVyX3RpbWU9MTAvMTYvMjAyNCAwMTo0MDozNiBBTSZoYXNoX3ZhbHVlPVU2b1J3VW5OaHdub1pUbjJTRi9YdGc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0wJmlkPXdlYi0xMzg1NzU=
 
-
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 4 
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/epl4/chunks.m3u8
@@ -32,7 +30,6 @@ https://cdn1.googlecdnforstreaming.live/live/epl4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 4 สำรอง
 #EXTVLCOPT:http-referrer=https://dooflixtv.com/
 https://r3-sn-5fo-c37ed248.googleuservideo.com:8443/Premier4_720/index.m3u8?token=c2VydmVyX3RpbWU9MTAvMTYvMjAyNCAwMTo0MDozNiBBTSZoYXNoX3ZhbHVlPVU2b1J3VW5OaHdub1pUbjJTRi9YdGc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0wJmlkPXdlYi0xMzg1NzU=
-
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 5 
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -268,8 +265,8 @@ https://playtvthai.github.io/m3u8/movie/film1.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/True-Film-2.png" group-title="ความบันเทิง",True Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-http://wandering-oldman.github.io/movies/true-film2hd.m3u8
 #https://playtvthai.github.io/m3u8/movie/flim2.m3u8
+http://wandering-oldman.github.io/movies/true-film2hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/True-Film-Asia.png" group-title="ความบันเทิง",True Film Asian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -290,8 +287,8 @@ https://cdn1.googlecdn.live/ballsod24hrs/mono29plus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Logo_Rockaction.png" group-title="ความบันเทิง",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-http://wandering-oldman.github.io/movies/rockaction.m3u8
 #https://playtvthai.github.io/m3u8/movie/rockaction.m3u8
+http://wandering-oldman.github.io/movies/rockaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Logo_Rockentertainment.png" group-title="ความบันเทิง",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
