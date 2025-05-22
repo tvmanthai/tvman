@@ -341,7 +341,7 @@ http://wandering-oldman.github.io/document/discovery2.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1713231372.png" group-title="ความรู้และสารคดี",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://playtvthai.github.io/m3u8/movie/historyth.m3u8
+http://wandering-oldman.github.io/document/history.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1729286214.png" group-title="ความรู้และสารคดี",Love Nature 4K
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -362,7 +362,7 @@ http://wandering-oldman.github.io/document/trueexplorewild.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705536991.png" group-title="ความรู้และสารคดี",MySci
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=52299da99ad8305cb32d5b2578b88973&chunkHttps=true&tmid=B0022&tpbk=UmChQKWcigT5VeMX&rrt=1745470178&tmod=rfk&rsid=2544ff79-b38d-43ae-9963-5965356e6216&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=e762b4f59844c7f12be0be4701e8fdde&origin=anevia&tfa=f0-fc&tttl=1745556570
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/HLS/V0152.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dc2b2f75b5bfb42df614c67921a50ac8&chunkHttps=true&tmid=B0014&tpbk=GC6cA1gEed6tvnuG&rrt=1745088178&tmod=rfk&rsid=6f2ecda4-f908-42ee-95ef-7212ed88d186&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=17451745778
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714101765.png" group-title="ความรู้และสารคดี",DMAX
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
