@@ -11,6 +11,7 @@ https://r3-sn-5fo-c37ed248.googleuservideo.com:8443/Premier1_720/index.m3u8?toke
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch2.stream/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 2 สำรอง
 #EXTVLCOPT:http-referrer=https://dooflixtv.com/
 https://r3-sn-5fo-c37ed248.googleuservideo.com:8443/Premier2_720/index.m3u8?token=c2VydmVyX3RpbWU9MTAvMTYvMjAyNCAwMTo0MDozNiBBTSZoYXNoX3ZhbHVlPVU2b1J3VW5OaHdub1pUbjJTRi9YdGc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0wJmlkPXdlYi0xMzg1NzU=
@@ -288,7 +289,7 @@ http://wandering-oldman.github.io/document/true-xzyte.m3u8
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/amc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787733.png" group-title="ความบันเทิง",3BB ASIAN
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703829940.png" group-title="ความบันเทิง",ASIAN Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
@@ -344,8 +345,9 @@ http://wandering-oldman.github.io/document/discovery2.m3u8
 http://wandering-oldman.github.io/document/history.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1729286214.png" group-title="ความรู้และสารคดี",Love Nature 4K
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/lovenature4k/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d0b58f6ba324ad5bf123a8098e3ad2f:45906f0ddd1e4c28ba9e9dc138d75da8
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/501/501.mpd
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724166670.png" group-title="ความรู้และสารคดี",True Explore Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -380,7 +382,10 @@ https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344243.png" group-title="การ์ตูน ช่องเด็ก",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-http://wandering-oldman.github.io/sport/cartoon-network.m3u8
+#http://wandering-oldman.github.io/sport/cartoon-network.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344362.png" group-title="การ์ตูน ช่องเด็ก",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
