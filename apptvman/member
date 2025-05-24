@@ -387,6 +387,15 @@ https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1704039063.png" group-title="การ์ตูน ช่องเด็ก",cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1723200736.png" group-title="การ์ตูน ช่องเด็ก",DreamWorks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://playtvthai.github.io/m3u8/thai/dreamworks.m3u8
+
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344362.png" group-title="การ์ตูน ช่องเด็ก",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
@@ -397,8 +406,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1704039063.png" group-title="การ์ตูน ช่องเด็ก",cartoonito
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
-
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720723541.png" group-title="การ์ตูน ช่องเด็ก",True Spark Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://playtvthai.github.io/m3u8/thai/dreamworks.m3u8
+https://playtvthai.github.io/m3u8/thai/truespark.m3u8
