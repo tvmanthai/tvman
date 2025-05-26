@@ -345,9 +345,8 @@ http://wandering-oldman.github.io/document/discovery2.m3u8
 http://wandering-oldman.github.io/document/history.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1729286214.png" group-title="ความรู้และสารคดี",Love Nature 4K
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d0b58f6ba324ad5bf123a8098e3ad2f:45906f0ddd1e4c28ba9e9dc138d75da8
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/501/501.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724166670.png" group-title="ความรู้และสารคดี",True Explore Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
