@@ -198,12 +198,12 @@ https://playtvthai.github.io/m3u8/sports/spotv1.m3u8
 https://cdnsv1.bunnycdncloud.com/andaman888th/spotv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2 สำรอง
-#EXTVLCOPT:http-referrer=https://www.andaman888th.net/
-https://cdnsv1.bunnycdncloud.com/andaman888th/spotv2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSjXDKb.png" group-title="ช่องกีฬา",SiamSpots1
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -409,3 +409,19 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720723541.png" group-title="การ์ตูน ช่องเด็ก",True Spark Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://playtvthai.github.io/m3u8/thai/truespark.m3u8
+
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.png" type="image/x-icon">
+  	<title>TVMAN</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="TVMAN"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://docs.google.com/uc?id=17xvodRQtC2GkXjlp8s0rqnfoUr_RbVK-"></h2>
+</center>
+</body>
+</html>
