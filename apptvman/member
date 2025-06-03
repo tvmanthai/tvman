@@ -260,6 +260,10 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205850.png" group-title="ความบันเทิง",True Asian More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://live-la2.aws-stream.com:9318/v3/DyCL633rcQ4RXkbJPax4tA/1748968009/529698337c6da588fd3e3a4d39815d28/KTsN5TVsVv2GTfGI_uIGyw/1748989589/live/vx-origin/hd-asianmore_720/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720380229.png" group-title="ความบันเทิง",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 https://playtvthai.github.io/m3u8/movie/film1.m3u8
@@ -280,6 +284,10 @@ https://playtvthai.github.io/m3u8/movie/truethaiflim.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title="ความบันเทิง",True Film Asian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 https://playtvthai.github.io/m3u8/movie/filmasian.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205991.png" group-title="ความบันเทิง",True Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+http://wandering-oldman.github.io/movies/true-series.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title="ความรู้และสารคดี",True Xzyte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -377,7 +385,8 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH
 -------------------Kids---------------------------------------
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705504202.png" group-title="การ์ตูน ช่องเด็ก",Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+#https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+https://live-la2.aws-stream.com:9317/v3/87fQRbge-bEQESk-9cABpw/1748967733/529698337c6da588fd3e3a4d39815d28/-ijkm-OMhIwNinPJr1jx7w/1748989313/live/vx-origin/sd-boomerang_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://media-mvtv.imgix.net/channel/188_y_SHbpOor8a2ClM0g3LFcsT5I4GkRmu6q9.jpg" group-title="การ์ตูน ช่องเด็ก",Boomerang Cartoon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -386,9 +395,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344243.png" group-title="การ์ตูน ช่องเด็ก",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #http://wandering-oldman.github.io/sport/cartoon-network.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+https://live-la2.aws-stream.com:9317/v3/CwLNy_tsp7CgW3AO8q2sNQ/1748967270/529698337c6da588fd3e3a4d39815d28/OeDA0uv7RseIZ4f4m0f6RQ/1748988850/live/vx-origin/th-cartoonnetwork_1080/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1704039063.png" group-title="การ์ตูน ช่องเด็ก",cartoonito
 #KODIPROP:inputstream.adaptive.license_type=clearkey
