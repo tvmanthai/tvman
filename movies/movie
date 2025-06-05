@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Bad-Genius-2024.png" group-title="MOVIE", Bad Genius (2024) แบด จีเนียส
+https://vod1.ezmovie.co/Bad-Genius-2024-tha.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Teasing-Master-Takagi-san-Movie.png" group-title="MOVIE", Teasing Master Takagi-san (2024) แกล้งนัก รักนะรู้ยัง
+https://vod1.ezmovie.co/Teasing-Master-Takagi-san-Movie-2024-tha.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Panor-2025.png" group-title="MOVIE", พนอ (2025) PANOR
+https://vod1.ezmovie.co/Panor-2025-TH.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/03/The-Bayou.jpg" group-title="MOVIE", The Bayou (2025) มฤตยูงาบ
+https://vod1.ezmovie.co/The-Bayou-2025-TH.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/08/The-Crow.jpg" group-title="MOVIE", The Crow (2024) อีกาพญายม
+https://vod1.ezmovie.co/The-Crow-2024-TH.mp4.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/02/The-End-We-Start-From-2023.png" group-title="MOVIE", The End We Start From (2023) อุ้มลูกฝ่าวิปโยค
 https://m1free.inwstream.com:1936/movie4/The_End_We_Start_From_2023/The_End_We_Start_From_2023_th_1080.mp4/playlist.m3u8
 
@@ -20,7 +35,7 @@ https://m1free.inwstream.com:1936/movie4/Last_Bullet_2025/Last_Bullet_2025_TH_10
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2022/11/Lost-Bullet-2-2022.jpg" group-title="MOVIE", Lost Bullet 2: Back for More แรงทะลุกระสุน 2 (2022) NETFLIX
 https://m1free.inwstream.com:1936/movie3/Lost_Bullet_2_Back_for_More_2022/Lost_Bullet_2_Back_for_More_2022_th_1080p.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200620203654yJ1mWzlTPXteNulPZeFZLKNqyas-758x1137.jpg" group-title="MOVIE", Lost Bullet แรงทะลุกระสุน (2020) NETFLIX
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2022/11/lost-bullet-2020.jpg" group-title="MOVIE", Lost Bullet แรงทะลุกระสุน (2020) NETFLIX
 https://m1free.inwstream.com:1936/movie3/Lost_Bullet_2020/Lost_Bullet_2020_th_1080p_NF.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/The-Assessment.png" group-title="MOVIE", The Assessment (2025) ชีวิตลิขิตไม่ได้
@@ -204,13 +219,13 @@ https://m1free.inwstream.com:1936/movie4/Regretfully_At_Dawn_2024/Regretfully_At
 logo="https://www.v8-hd.com/wp-content/uploads/2025/03/Don-t-Sleep-2024.jpg" group-title="MOVIE", มึงนอน มึงตาย (2024) Don’t Sleep
 https://m1free.inwstream.com:1936/movie4/Don_t_Sleep_2024/Don_t_Sleep_2024_th_1080.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250202180801qSc0AUvs8mRy00R9y8QYEHWIAQ9.jpg" group-title="MOVIE", Weekend in Taipei (2025) เร็ว..แรง ทะลุไทเป
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/02/Weekend-in-Taipei.jpg" group-title="MOVIE", Weekend in Taipei (2025) เร็ว..แรง ทะลุไทเป
 https://m1free.inwstream.com:1936/movie4/Weekend_in_Taipei_2024/Weekend_in_Taipei_2024_th_1080_F.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2023/07/Born-to-Fly-2023.jpg" group-title="MOVIE", Born to Fly (2023) ปฏิบัติการจ้าวเวหา
 https://m1free.inwstream.com:1936/movie3/Born_to_Fly_2023/Born_to_Fly_2023_th_1080.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/02/Companion.jpgg" group-title="MOVIE", Companion (2025) คอมแพเนียน
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/02/Companion.jpg" group-title="MOVIE", Companion (2025) คอมแพเนียน
 https://m1free.inwstream.com:1936/movie4/Companion_2025/Companion_2025_th_1080_F.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/03/Plankton-The-Movie.jpg" group-title="MOVIE", Plankton: The Movie (2025) แพลงค์ตอน เดอะ มูฟวี่
@@ -219,7 +234,7 @@ https://m1free.inwstream.com:1936/movie4/Plankton_The_Movie_2025/Plankton_The_Mo
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/03/Eye-for-an-Eye-2.jpg" group-title="MOVIE", Eye for an Eye 2 (2024) ยอดกระบี่ไร้เทียมทาน 2
 https://m1free.inwstream.com:1936/movie4/Eye_for_an_Eye_2_2024/Eye_for_an_Eye_2_2024_TH_1080p.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20241207031143uTKfD1CdjCLMVITnzblaqVSTxma.jpg" group-title="MOVIE", Striking Rescue (2024) คนเดือด​ ซัดนรก
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/12/Striking-Rescue.jpg" group-title="MOVIE", Striking Rescue (2024) คนเดือด​ ซัดนรก
 https://m1free.inwstream.com:1936/movie4/Striking_Rescue_2024/Striking_Rescue_2024_th_1080.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/10/Doraemon-the-Movie-Nobita-s-Earth-Symphony.jpg" group-title="MOVIE", Doraemon the Movie: Nobita’s Earth Symphony (2024) โดราเอมอน เดอะ มูฟวี่ : โลกแห่งซิมโฟนี่ของโนบิตะ
@@ -656,16 +671,16 @@ https://m1free.inwstream.com:1936/movie4/Outside_2024/Outside_2024_th_1080.mp4/p
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/10/Brothers.jpg" group-title="MOVIE", Brothers (2024) บราเธอร์ส: ปล้นครั้งนี้เพื่อพี่ที่รัก
 https://m1free.inwstream.com:1936/movie4/Brothers_2024/Brothers_2024_th_1080.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202410171644536XnXvJ3bgT6vDIJKibldt0RTv89.jpg" group-title="MOVIE", รักวนลูป (2024) Love Stuck
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/10/Love-Stuck-2024.jpg" group-title="MOVIE", รักวนลูป (2024) Love Stuck
 https://m1free.inwstream.com:1936/movie4/Love_Stuck_2024/Love_Stuck_2024_th_1080.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20241017155137wrgcEz7En3yqe2ZvNQV5zKR3uuI.jpg" group-title="MOVIE", เทอม 3 (2024) Haunted Universities 3
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/10/Haunted-Universities-3-2024.jpg" group-title="MOVIE", เทอม 3 (2024) Haunted Universities 3
 https://m1free.inwstream.com:1936/movie4/Haunted_Universities_3_2024/Haunted_Universities_3_2024_th_1080.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20241004193332udfMAdiyKhgAS47dRXEnXo6tHt6.jpg" group-title="MOVIE", House of Spoils (2024) เชฟ บ้าน วิญญาณหลอน
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/10/House-of-Spoils.jpg" group-title="MOVIE", House of Spoils (2024) เชฟ บ้าน วิญญาณหลอน
 https://m1free.inwstream.com:1936/movie4/House_of_Spoils_2024/House_of_Spoils_2024_th_1080.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20241010222748wYf4Eq3c4iOa856tEwh3GHruHZW.jpg" group-title="MOVIE", Operation Blood Hunt (2024)
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/10/Operation-Blood-Hunt-2024.jpg" group-title="MOVIE", Operation Blood Hunt (2024)
 https://m1free.inwstream.com:1936/movie4/Operation_Blood_Hunt_2024/Operation_Blood_Hunt_2024_th_1080.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/08/Blink-Twice.jpg" group-title="MOVIE", Blink Twice (2024) บลิงก์ ทไวซ์ ซิกอันตราย
@@ -929,10 +944,10 @@ https://m1free.inwstream.com:1936/movie4/The_Comeback_2023/The_Comeback_2023_th_
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga.jpg" group-title="MOVIE",  Furiosa: A Mad Max Saga (2024) ฟูริโอซ่า: มหากาพย์ แมด แม็กซ์ 
 https://m1free.inwstream.com:1936/movie4/Furiosa_A_Mad_Max_Saga_2024/Furiosa_A_Mad_Max_Saga_2024_th_1080.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240522194921e7olqFmzcIX5c23kX4zSmLPJi8c.jpg" group-title="MOVIE",  The Fall Guy (2024) สตันท์แมนคนจริง 
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/05/The-Fall-Guy.jpg" group-title="MOVIE",  The Fall Guy (2024) สตันท์แมนคนจริง 
 https://m1free.inwstream.com:1936/movie4/The_Fall_Guy_2024/The_Fall_Guy_2024_th_1080.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240628201538bfXjFTytfFTdo9WeO7lYqzkHG7g.jpg" group-title="MOVIE", The Bank Job (2008) เปิดตำนานปล้นบันลือโลก 
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2019/10/20190412124123the-bank-job-532c7c7991169.jpg" group-title="MOVIE", The Bank Job (2008) เปิดตำนานปล้นบันลือโลก 
 https://m1free.inwstream.com:1936/movie3/The_Bank_Job_2008/The_Bank_Job_2008_th_1080.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/06/Baby-Shark-s-Big-Movie.jpg" group-title="MOVIE", Baby Shark’s Big Movie (2024)
@@ -971,10 +986,10 @@ https://m1free.inwstream.com:1936/movie3/Assassin_Club_2023/Assassin_Club_2023_t
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/06/Kleks-Academy-2023.jpg" group-title="MOVIE", Kleks Academy (2024) โรงเรียนมายาคุณเคล็กซ์
 https://m1free.inwstream.com:1936/movie3/The_Black_Phone_2021/The_Black_Phone_2021_th_1080.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240620085927lr11mCT85T1JanlgjMuhs9nMht4.jpg" group-title="MOVIE", The Black Phone () สายหลอน ซ่อนวิญญาณ
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2022/07/bxHZpV02OOu9vq3sb3MsOudEnYc.jpg" group-title="MOVIE", The Black Phone () สายหลอน ซ่อนวิญญาณ
 https://m1free.inwstream.com:1936/movie3/Kleks_Academy_2023/Kleks_Academy_2023_TH_1080p.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202406190749178xuannh2niAZWueTr3nRiFMTgUg.jpg" group-title="MOVIE", ไชน่าทาวน์ ชะช่า (2024) Chinatown Chacha
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/06/Chinatown-Chacha.jpg" group-title="MOVIE", ไชน่าทาวน์ ชะช่า (2024) Chinatown Chacha
 https://m1free.inwstream.com:1936/movie3/Chinatown_Chacha_2024/Chinatown_Chacha_2024_TH_1080p.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2019/10/The-Nice-Guys-2016.jpg" group-title="MOVIE", The Nice Guys (2016) กายส์… นายแสบมาก
@@ -983,28 +998,17 @@ https://m1free.inwstream.com:1936/movie2/The-Nice-Guys-2016/The-Nice-Guys-2016-T
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/06/How-to-Have-Sex.jpg" group-title="MOVIE", How to Have Sex (2023) ซิงนั้นสำคัญไฉน
 https://m1free.inwstream.com:1936/movie3/How_to_Have_Sex_2023/How_to_Have_Sex_2023_TH_1080p.mp4/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/06/Ultraman-Rising.jpg" group-title="MOVIE", Ultraman: Rising (2024) อุลตร้าแมน: ผงาด
-
 https://m1free.inwstream.com:1936/movie3/Ultraman_Rising_2024/Ultraman_Rising_2024_TH_1080p.mp4/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/06/Club-Zero-2023.jpg" group-title="MOVIE", Club Zero (2023) ชมรมหมายเลข..สูญ
 https://m1free.inwstream.com:1936/movie3/Club_Zero_2023/Club_Zero_2023_th_1080.mp4/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/06/Detective-Dee-The-Skeleton-General.jpg" group-title="MOVIE", Detective Dee: The Skeleton General (2022) ตี๋เหรินเจี๋ย ปริศนาโครงกระดูก
 https://m1free.inwstream.com:1936/movie3/Detective_Dee_The_Skeleton_General_2022/Detective_Dee_The_Skeleton_General_2022_th_1080.mp4/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/06/The-Price-of-Nonna-s-Inheritance.jpg" group-title="MOVIE", The Price of Nonna’s Inheritance (Ricchi a tutti i costi) (2024) มรดกคุณยาย
 https://m1free.inwstream.com:1936/movie3/The_Price_of_Nonna_s_Inheritance_2024/The_Price_of_Nonna_s_Inheritance_2024_th_1080.mp4/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/06/Under-Paris.jpg" group-title="MOVIE", Under Paris (Sous la Seine) (2024) มฤตยูใต้ปารีส
 https://m1free.inwstream.com:1936/movie3/Under_Paris_2024/Under_Paris_2024_th_1080.mp4/playlist.m3u8
@@ -1033,7 +1037,7 @@ https://m1free.inwstream.com:1936/movie3/Atlas_2024/Atlas_2024_th_1080.mp4/playl
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/05/The-Water-Flows-to-the-Sea.jpg" group-title="MOVIE", The Water Flows to the Sea (2023) ฝนตกวันนั้นผมแอบรักรุ่นพี่
 https://m1free.inwstream.com:1936/movie3/The_Water_Flows_to_the_Sea_2023/The_Water_Flows_to_the_Sea_2023_th_1080.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240521085043515151515.jpg" group-title="MOVIE", 4 Kings 2 (2023) 4 คิงส์ 2
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2023/12/4-Kings-II-2023.jpg" group-title="MOVIE", 4 Kings 2 (2023) 4 คิงส์ 2
 https://m1free.inwstream.com:1936/movie3/4_Kings_2_2023/4_Kings_2_2023_th_1080.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/05/Golden-Kamuy.jpg" group-title="MOVIE", Golden Kamuy (2024) โกลเดนคามุย
@@ -1062,8 +1066,6 @@ https://m1free.inwstream.com:1936/movie3/Godzilla_x_Kong_The_New_Empire_2024/God
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2023/06/Kandahar-2023.jpg" group-title="MOVIE", Kandahar (2023) กันดาฮาร์ ฝ่าสมรภูมิทรายเดือด
 https://m1free.inwstream.com:1936/movie3/Kandahar_2023/Kandahar_2023_th_1080.mp4/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/04/Ghostbusters-Frozen-Empire.jpg" group-title="MOVIE", Ghostbusters: Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง
 https://m1free.inwstream.com:1936/movie3/Ghostbusters_Frozen_Empire_2024/Ghostbusters_Frozen_Empire_2024_th_1080_T2.mp4/playlist.m3u8
