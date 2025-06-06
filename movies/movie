@@ -1,18 +1,60 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Bad-Genius-2024.png" group-title="MOVIE", Bad Genius (2024) แบด จีเนียส
-https://vod1.ezmovie.co/Bad-Genius-2024-tha.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/06/Lost-in-Starlight.png" group-title="MOVIE", Lost in Starlight (2025) เลือนหายในแสงดาว
+https://main.24playerhd.com/m3u8/eadac911baf7637108bffc5b/eadac911baf7637108bffc5b438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/06/A-Widow-s-Game.png" group-title="MOVIE", A Widow’s Game (2025) กลเกมแม่ม่าย
+#https://main.24playerhd.com/m3u8/21add325dd8a37f5d1838dd1/21add325dd8a37f5d1838dd1438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/06/Graduation-Trip-Mallorca.png" group-title="MOVIE", Graduation Trip: Mallorca (2025) จบทั้งทีต้องไปตี้ที่มาญอร์ก้า
+https://main.24playerhd.com/m3u8/08d2c0c6d103ddd775d25e23/08d2c0c6d103ddd775d25e23438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/The-Heart-Knows-2025.png" group-title="MOVIE", The Heart Knows (2025) หัวใจรู้เอง
+https://main.24playerhd.com/m3u8/1eac1a467b2ae2b8b1d50259/1eac1a467b2ae2b8b1d50259438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Until-Dawn.png" group-title="MOVIE", Until Dawn (2025) ต้องรอดก่อนย่ำรุ่ง
+https://main.24playerhd.com/m3u8/30f62c1a18e42851cda19097/30f62c1a18e42851cda19097438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/02/Captain-America-Brave-New-World-2025.jpg" group-title="MOVIE", Captain America: Brave New World (2025) กัปตัน อเมริกา: ศึกฮีโร่จักรวาลใหม่
+https://main.24playerhd.com/m3u8/21be93ff1a33fb9d2ed68df8/21be93ff1a33fb9d2ed68df8438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Fountain-of-Youth-2025.png" group-title="MOVIE", Fountain of Youth (2025) บรรยายไทย
+https://main.24playerhd.com/m3u8/b344100ee11322c90629762f/b344100ee11322c90629762f438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2021/03/f5eeb3e71af59c98a289ac89fb191ec6.jpg" group-title="MOVIE", Unbending Mr.Fang (2021) ฟางซื่ออวี้ ยอดกังฟูกระดูกเหล็ก
+https://main.24playerhd.com/m3u8/4d6e49403b969f41faa4864c/4d6e49403b969f41faa4864c438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Pengantin-Setan.png" group-title="MOVIE", The Devil’s Bride (2025) ชู้จากนรก
+#https://main.24playerhd.com/m3u8/21add325dd8a37f5d1838dd1/21add325dd8a37f5d1838dd1438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Ordinary-Angels.png" group-title="MOVIE", Ordinary Angels (2024) ปาฏิหาริย์สายใยรัก
+https://main.24playerhd.com/m3u8/4755b37155b495b20ef6a9d3/4755b37155b495b20ef6a9d3438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Fear-Street-Prom-Queen.png" group-title="MOVIE", Fear Street : Prom Queen (2025) ถนนอาถรรพ์: ราชินีงานพรอม
+https://main.24playerhd.com/m3u8/21add325dd8a37f5d1838dd1/21add325dd8a37f5d1838dd1438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Happy-Monday.png" group-title="MOVIE", สวัสดีวันจันทร์(ส) (2025) Happy Monday(s)
+#https://main.24playerhd.com/m3u8/21add325dd8a37f5d1838dd1/21add325dd8a37f5d1838dd1438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2023/03/John-Wick-4v2.jpg" group-title="MOVIE", John Wick: Chapter 4 (2023) จอห์น วิค แรงกว่านรก 4
+https://main.24playerhd.com/m3u8/d4ed07846921df1d4da4021c/d4ed07846921df1d4da4021c438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/09/Transformers-One.jpg" group-title="MOVIE", Transformers One (2024) ทรานส์ฟอร์เมอร์ส 1
+https://main.24playerhd.com/m3u8/21add325dd8a37f5d1838dd1/21add325dd8a37f5d1838dd1438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/04/A-Minecraft-Movie.png" group-title="MOVIE", A Minecraft Movie (2025) ไมน์คราฟต์ มูฟวี่
+https://main.24playerhd.com/m3u8/1665e5b013cc5472128215f5/1665e5b013cc5472128215f5438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Teasing-Master-Takagi-san-Movie.png" group-title="MOVIE", Teasing Master Takagi-san (2024) แกล้งนัก รักนะรู้ยัง
-https://vod1.ezmovie.co/Teasing-Master-Takagi-san-Movie-2024-tha.mp4.m3u8
+https://main.24playerhd.com/m3u8/9ede3b97b4bdfd84c0de4c9e/9ede3b97b4bdfd84c0de4c9e438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Panor-2025.png" group-title="MOVIE", พนอ (2025) PANOR
-https://vod1.ezmovie.co/Panor-2025-TH.mp4.m3u8
+https://main.24playerhd.com/m3u8/27f2eea731744d8a864e5c5a/27f2eea731744d8a864e5c5a438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/03/The-Bayou.jpg" group-title="MOVIE", The Bayou (2025) มฤตยูงาบ
-https://vod1.ezmovie.co/The-Bayou-2025-TH.mp4.m3u8
+https://main.24playerhd.com/m3u8/615f03f86d1f3dda6a238ce9/615f03f86d1f3dda6a238ce9438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/08/The-Crow.jpg" group-title="MOVIE", The Crow (2024) อีกาพญายม
-https://vod1.ezmovie.co/The-Crow-2024-TH.mp4.m3u8
+https://main.24playerhd.com/m3u8/b09126699cc146571e77d4a6/b09126699cc146571e77d4a6438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/02/The-End-We-Start-From-2023.png" group-title="MOVIE", The End We Start From (2023) อุ้มลูกฝ่าวิปโยค
 https://m1free.inwstream.com:1936/movie4/The_End_We_Start_From_2023/The_End_We_Start_From_2023_th_1080.mp4/playlist.m3u8
