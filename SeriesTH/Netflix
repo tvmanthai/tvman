@@ -1,0 +1,617 @@
+{
+  "name": "Netflix",
+  "author": "Update วันที่ 7 มีนาคม 2025",
+  "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+  "url": "https://tvmanthai.github.io/tvman/SeriesTH/Netflix",
+  "groups": [
+ {
+      "name": "Miss Night and Day (2024) มิส ไนท์ แอนด์ เดย์",
+      "info": "Thai Subtitle",
+      "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
+      "stations": [
+        {
+          "name": "Episode1",
+          "info": "Sub",
+          "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
+          "url": "https://ok-nah.com/hls/128f2ae741752bdda83bc415fe735664/master.m3u8",
+          "referer":"",
+        },
+        {
+          "name": "Episode2",
+          "info": "Sub",
+          "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
+          "url": "https://ok-nah.com/hls/418d52a0dcb922c4200d6d60727158f3/master.m3u8",
+          "referer":"",
+        },
+        {
+          "name": "Episode3",
+          "info": "Sub",
+          "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
+          "url": "https://ok-nah.com/hls/09b5d90c91dfaac7b09dce3c2c38af0c/master.m3u8",
+          "referer":"",
+        },
+        {
+          "name": "Episode4",
+          "info": "Sub",
+          "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
+          "url": "https://ok-nah.com/hls/06fa4d47f3382244acb19980b05aa61a/master.m3u8",
+          "referer":"",
+        },
+        {
+          "name": "Episode5",
+          "info": "Sub",
+          "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
+          "url": "https://ok-nah.com/hls/7c866fca79d4752a6eea82eb3706a0b5/master.m3u8",
+          "referer":"",
+        },
+        {
+          "name": "Episode6",
+          "info": "Sub",
+          "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
+          "url": "https://ok-nah.com/hls/b693a331ec227543b7e6bc3d622e12d1/master.m3u8",
+          "referer":"",
+        },
+        {
+          "name": "Episode7",
+          "info": "Sub",
+          "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
+          "url": "https://ok-nah.com/hls/3b1fb2ee81c6da72856065f8e4da3999/master.m3u8",
+          "referer":"",
+        }
+      ]
+    },
+
+    {
+      "name": "Miss Night and Day (2024) มิส ไนท์ แอนด์ เดย์",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "Episode1(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fc10301f-6d33-5be8-b09e-47f9cf4c748f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode2(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c2bbe308-b14e-5c16-8312-8106f55215ce.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode3(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/abe58451-4066-500b-8172-e667f6dcfc03.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode4(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a1c2c8c0-6f0d-5064-8baa-992f9e1f6325.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode5(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a866861b-670d-5de7-a49d-19a5a2413f0a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode6(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/70e3616e-814b-5e5b-b508-7327cfc087c6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode7(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ff2f7cc3-cd6c-5428-b43a-0ae334803b7f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode8(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7ed31148-a1b5-53a3-b289-fecf333abc5a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode9(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/78bfd3f6-a4e1-5387-9f74-781cb9ef2b45.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode10(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6f5e7ce4-f1ad-5323-8222-11e1ae09c9ae.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode11(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bcfd2113-a29d-50eb-9c07-e6cb3245bbe4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode12(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1c19cd12-d257-5471-a7ff-1973c36575a5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode13(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4db24bf5-61df-5378-b47b-190fd27ad884.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode14(Sub)",
+          "info": "Sub",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/Miss-Night-And-Day-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c7faca25-697d-5fda-8fff-7b9c3fc41404.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+
+    {
+      "name": "Love Scout (2025) รับจ้างจัดหารัก",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Love-Scout-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "Episode1(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Love-Scout-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/be7be41b9c42f144d1d6bb627678d340",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode2(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Love-Scout-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/610c315e3b1d0ed0c8fd3f794bd46a0b",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode3(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Love-Scout-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/8dbe58b79973da8c603ccfabf5271378",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode4(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Love-Scout-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/f7a503b7ac8aa8148ecb6e2180fa6e1b",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode5(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Love-Scout-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/4c1d812e1d2d5a17f0e076286edf31d6",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode6(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Love-Scout-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/a882ad906ab13dabc1604248b5d19ebb",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode7(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Love-Scout-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/82fdd26afe206b998f8fac08abe973ea",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode8(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Love-Scout-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/eb81717c28cf360fb82574d4a78e9297",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode9(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Love-Scout-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/d491147078500138ddf990aa4559ebfe",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode10(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Love-Scout-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/3194921ed4d437e747bedbb5635d3696",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode11(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Love-Scout-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/f229c2155a2ef15e5ed3fd0a6d8913dc",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode12(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Love-Scout-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/3c8b284dcd1c9c40bb47d3b96051a72c",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+
+    {
+      "name": "Surviving Black Hawk Down (2025) ฝ่าสมรภูมิแบล็ค ฮอว์ค ดาวน์",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Surviving-Black-Hawk-Down-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "Episode1(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Surviving-Black-Hawk-Down-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/7382d9caaac69890b7fb45080d3c5065",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode2(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Surviving-Black-Hawk-Down-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/fc42e49b5b70fc346a88cee9b0b9145d",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode3(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Surviving-Black-Hawk-Down-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/31c2295ae3de98b1fd453155af019ce1",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+
+    {
+      "name": "Shafted (2025) ยอดชายนายซูเปอร์",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Shafted-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "Episode1(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Shafted-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/3b88201d61af60f9b4578ebdaa1533ad",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode2(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Shafted-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/02436c0b3efbfc67c0f8207985ff7b0d",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode3(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Shafted-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/533c6274302dd449f015f3719d05d751",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode4(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Shafted-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/924f37cf0480b5ba1c458945d797a038",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode5(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Shafted-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/ba28fb54dd147185dd76476b2752627e",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode6(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Shafted-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/c92b4a28aab27d85c8a97356d761bf3d",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+
+    {
+      "name": "Melo Movie (2025) หัวใจตึกตัก หนังรักใจฟู",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Melo-Movie-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "Episode1(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Melo-Movie-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/a539b6e7f392bf333e345a0d97f46b3b",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode2(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Melo-Movie-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/90e6e392ca9b0f61e7599ff651e86067",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode3(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Melo-Movie-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/4c75398e072bd5ed992ac732c426c99f",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode4(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Melo-Movie-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/15790918b66b2caa25b286b87a2f391b",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode5(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Melo-Movie-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/8128d1e32bcaa30fb73b2ec8c4245bcc",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode6(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Melo-Movie-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/43ea5019d139b77890d35b94e4c47a0a",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode7(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Melo-Movie-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/21597c0dbb65f75497ed6aab0c9e4421",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode8(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Melo-Movie-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/f98edefd55e8ee2c047aaf0ce7310d8f",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode9(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Melo-Movie-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/19e92c7673c7fa7fa838820ee60d2368",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode10(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/02/Melo-Movie-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/5b6a6bc3b4631d02b6e459c0e291f0f1",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+
+    {
+      "name": "Check in Hanyang (2024) เช็คอินที่ฮันยาง",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "Episode1(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/0925d0663f69559c180277e7a1683b8d",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode2(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/402209f1e3869155758a992da8d05889",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode3(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/7d3aeadbe35309c0164ad69c1582faf0",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode4(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/66a80a27dce42f4bf021e022049f3d14",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode5(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/a179bca69a0b033accb3def34ce4bd73",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode6(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/b6119662e015adac106c8b9e0dd1eb46",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode7(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/d393d1fa3281e42b9f5ff474c49769c8",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode8(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/7fdfa776c78c01ed994b16646bb582be",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode9(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/73aa73580d439952ae54b3d8abc22ea2",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode10(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/e04b49a3ece19fa1096d7276b50136df",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode11(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/d5c1f8d1b3c5d3153ca4dd60beab9e5f",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode12(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/2b48789386e0c7523bbe07bbf3ad1659",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode13(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/08b87c8f182f12d0df0d7ad4447b32b5",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode14(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/487499660e8f5f1ee27b8a21aa60f718",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode15(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/85b6d2b4d138ddcf9ae1b4e29cbbd09b",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Episode16(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/Check-in-Hanyang-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/54e28390dcb72247f80f7fea3209a225",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    },
+
+    {
+      "name": "The Night Agent Season 2 (2025) Netflix พากย์ไทย",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/The-Night-Agent-Season-2-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "Season2-Episode1(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/The-Night-Agent-Season-2-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/3ee829c97ef300c077546deceae00741",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Season2-Episode2(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/The-Night-Agent-Season-2-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/2bb64cad5d4d92d1029168dbbc387c27",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Season2-Episode3(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/The-Night-Agent-Season-2-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/2de51bbb712040fe7ca34056461f7695",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Season2-Episode4(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/The-Night-Agent-Season-2-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/9eed996e187ad97564cb7e24d73701a6",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Season2-Episode5(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/The-Night-Agent-Season-2-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/73693468f1e1a4d060fbf42be23ae3dc",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Season2-Episode6(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/The-Night-Agent-Season-2-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/45359121eea1d2032b86f7ea9b38b52a",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Season2-Episode7(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/The-Night-Agent-Season-2-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/dd64cff272aaf75d42a7e4483b721da7",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Season2-Episode8(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/The-Night-Agent-Season-2-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/34c7ce9e957b833b8ad01414449d698c",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Season2-Episode9(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/The-Night-Agent-Season-2-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/c03994fdedfd13b6d724012fb033046f",
+          "referer": "https://master.streamhls.com/"
+        },
+        {
+          "name": "Season2-Episode10(Thai)",
+          "info": "Thai",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2025/01/The-Night-Agent-Season-2-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/p2p/3b07376c6ff7ace3b71b8f776a53a084",
+          "referer": "https://master.streamhls.com/"
+        }
+      ]
+    }
+  ]
+}
