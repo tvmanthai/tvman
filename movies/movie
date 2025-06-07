@@ -1,6 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s3.movie555.com/assets/images/poster/a/compressed/202506/381101TWhaCFUsPfxuC2rGBZsbD97BnQThk40.jpg.webp" group-title="MOVIE", The Accountant² | อัจฉริยะคนบัญชีเพชฌฆาต 2
-https://movie555.com/movie/38110/the-accountant2-%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%84%E0%B8%99%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%8C%E0%B8%86%E0%B8%B2%E0%B8%95-2
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/04/The-Accountant-2.png" group-title="MOVIE", The Accountant 2 (2025) อัจฉริยะคนบัญชีเพชฌฆาต 2
+https://main.24playerhd.com/m3u8/8ddd3db9f33a0287db214610/8ddd3db9f33a0287db214610438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2023/11/Break-evil-2023.jpg" group-title="MOVIE", Break Evil (2023) คดีประหลาดของโลงศพปีศาจทั้งสี่
+https://main.24playerhd.com/m3u8/c7506fe49fd29b3b6eaefe26/c7506fe49fd29b3b6eaefe26438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/08/I-Saw-the-TV-Glow.jpg" group-title="MOVIE", I Saw the TV Glow (2024) จิตจ้องจอ
+https://main.24playerhd.com/m3u8/f178d2b6e35d3c4cba8f215e/f178d2b6e35d3c4cba8f215e438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/04/Sinners-2025.png" group-title="MOVIE", Sinners (2025) ซินเนอร์ส
+https://main.24playerhd.com/m3u8/5707f4370958c12390c85b43/5707f4370958c12390c85b43438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/08/The-Bikeriders.jpg" group-title="MOVIE", The Bikeriders (2023) เดอะ ไบค์ไรเดอร์ส
+https://main.24playerhd.com/m3u8/7fb33d3c35df122aa1233a64/7fb33d3c35df122aa1233a64438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/06/1992-2024.png" group-title="MOVIE", 1992 (2024) คืนระห่ำโหด คนระห่ำแตก
+https://main.24playerhd.com/m3u8/524f72c8138cabeb96f23deb/524f72c8138cabeb96f23deb438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Shadow-Force.png" group-title="MOVIE", Shadow Force (2025) ดับเบิลจารชน โคตรคนไร้เงา
+https://main.24playerhd.com/m3u8/c3a3edb02fc2b273c2092d21/c3a3edb02fc2b273c2092d21438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/04/A-Working-Man.jpg" group-title="MOVIE", A Working Man (2025) นรกหยุดนรก
+https://main.24playerhd.com/m3u8/36b174cc0a0065c3a29ea60b/36b174cc0a0065c3a29ea60b438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/06/Lost-in-Starlight.png" group-title="MOVIE", Lost in Starlight (2025) เลือนหายในแสงดาว
 https://main.24playerhd.com/m3u8/eadac911baf7637108bffc5b/eadac911baf7637108bffc5b438.m3u8
