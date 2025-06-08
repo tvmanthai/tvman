@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/04/The-Accountant-2.png" group-title="MOVIE", The Accountant 2 (2025) อัจฉริยะคนบัญชีเพชฌฆาต 2
-https://main.24playerhd.com/m3u8/8ddd3db9f33a0287db214610/8ddd3db9f33a0287db214610438.m3u8
+#https://main.24playerhd.com/m3u8/8ddd3db9f33a0287db214610/8ddd3db9f33a0287db214610438.m3u8
+https://vod1.ezmovie.co/The-Accountant-2-2025-TH.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2023/11/Break-evil-2023.jpg" group-title="MOVIE", Break Evil (2023) คดีประหลาดของโลงศพปีศาจทั้งสี่
 https://main.24playerhd.com/m3u8/c7506fe49fd29b3b6eaefe26/c7506fe49fd29b3b6eaefe26438.m3u8
@@ -9,19 +10,18 @@ https://main.24playerhd.com/m3u8/c7506fe49fd29b3b6eaefe26/c7506fe49fd29b3b6eaefe
 https://main.24playerhd.com/m3u8/f178d2b6e35d3c4cba8f215e/f178d2b6e35d3c4cba8f215e438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/04/Sinners-2025.png" group-title="MOVIE", Sinners (2025) ซินเนอร์ส
-https://main.24playerhd.com/m3u8/5707f4370958c12390c85b43/5707f4370958c12390c85b43438.m3u8
+#https://main.24playerhd.com/m3u8/5707f4370958c12390c85b43/5707f4370958c12390c85b43438.m3u8
+https://vod1.ezmovie.co/Sinners-2025-TH.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/08/The-Bikeriders.jpg" group-title="MOVIE", The Bikeriders (2023) เดอะ ไบค์ไรเดอร์ส
-https://main.24playerhd.com/m3u8/7fb33d3c35df122aa1233a64/7fb33d3c35df122aa1233a64438.m3u8
+#https://main.24playerhd.com/m3u8/7fb33d3c35df122aa1233a64/7fb33d3c35df122aa1233a64438.m3u8
+https://vod1.ezmovie.co/The-Bikeriders-2023-SUB.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/06/1992-2024.png" group-title="MOVIE", 1992 (2024) คืนระห่ำโหด คนระห่ำแตก
 https://main.24playerhd.com/m3u8/524f72c8138cabeb96f23deb/524f72c8138cabeb96f23deb438.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Shadow-Force.png" group-title="MOVIE", Shadow Force (2025) ดับเบิลจารชน โคตรคนไร้เงา
-https://main.24playerhd.com/m3u8/c3a3edb02fc2b273c2092d21/c3a3edb02fc2b273c2092d21438.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/04/A-Working-Man.jpg" group-title="MOVIE", A Working Man (2025) นรกหยุดนรก
-https://main.24playerhd.com/m3u8/36b174cc0a0065c3a29ea60b/36b174cc0a0065c3a29ea60b438.m3u8
+#https://main.24playerhd.com/m3u8/36b174cc0a0065c3a29ea60b/36b174cc0a0065c3a29ea60b438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/06/Lost-in-Starlight.png" group-title="MOVIE", Lost in Starlight (2025) เลือนหายในแสงดาว
 https://main.24playerhd.com/m3u8/eadac911baf7637108bffc5b/eadac911baf7637108bffc5b438.m3u8
@@ -36,10 +36,12 @@ https://main.24playerhd.com/m3u8/08d2c0c6d103ddd775d25e23/08d2c0c6d103ddd775d25e
 https://main.24playerhd.com/m3u8/1eac1a467b2ae2b8b1d50259/1eac1a467b2ae2b8b1d50259438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Until-Dawn.png" group-title="MOVIE", Until Dawn (2025) ต้องรอดก่อนย่ำรุ่ง
-https://main.24playerhd.com/m3u8/30f62c1a18e42851cda19097/30f62c1a18e42851cda19097438.m3u8
+#https://main.24playerhd.com/m3u8/30f62c1a18e42851cda19097/30f62c1a18e42851cda19097438.m3u8
+https://vod1.ezmovie.co/Until-Dawn-2025-tha.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/02/Captain-America-Brave-New-World-2025.jpg" group-title="MOVIE", Captain America: Brave New World (2025) กัปตัน อเมริกา: ศึกฮีโร่จักรวาลใหม่
-https://main.24playerhd.com/m3u8/21be93ff1a33fb9d2ed68df8/21be93ff1a33fb9d2ed68df8438.m3u8
+#https://main.24playerhd.com/m3u8/21be93ff1a33fb9d2ed68df8/21be93ff1a33fb9d2ed68df8438.m3u8
+https://vod1.ezmovie.co/Captain-America-Brave-New-World-2025-TH.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Fountain-of-Youth-2025.png" group-title="MOVIE", Fountain of Youth (2025) บรรยายไทย
 https://main.24playerhd.com/m3u8/b344100ee11322c90629762f/b344100ee11322c90629762f438.m3u8
@@ -66,7 +68,8 @@ https://main.24playerhd.com/m3u8/d4ed07846921df1d4da4021c/d4ed07846921df1d4da402
 https://main.24playerhd.com/m3u8/21add325dd8a37f5d1838dd1/21add325dd8a37f5d1838dd1438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/04/A-Minecraft-Movie.png" group-title="MOVIE", A Minecraft Movie (2025) ไมน์คราฟต์ มูฟวี่
-https://main.24playerhd.com/m3u8/1665e5b013cc5472128215f5/1665e5b013cc5472128215f5438.m3u8
+#https://main.24playerhd.com/m3u8/1665e5b013cc5472128215f5/1665e5b013cc5472128215f5438.m3u8
+https://vod1.ezmovie.co/A-Minecraft-Movie-2025-TH.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Teasing-Master-Takagi-san-Movie.png" group-title="MOVIE", Teasing Master Takagi-san (2024) แกล้งนัก รักนะรู้ยัง
 https://main.24playerhd.com/m3u8/9ede3b97b4bdfd84c0de4c9e/9ede3b97b4bdfd84c0de4c9e438.m3u8
