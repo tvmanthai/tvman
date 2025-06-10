@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/04/The-Accountant-2.png" group-title="MOVIE", The Accountant 2 (2025) อัจฉริยะคนบัญชีเพชฌฆาต 2
-#https://main.24playerhd.com/m3u8/8ddd3db9f33a0287db214610/8ddd3db9f33a0287db214610438.m3u8
 https://vod1.ezmovie.co/The-Accountant-2-2025-TH.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2023/11/Break-evil-2023.jpg" group-title="MOVIE", Break Evil (2023) คดีประหลาดของโลงศพปีศาจทั้งสี่
@@ -10,11 +9,9 @@ https://main.24playerhd.com/m3u8/c7506fe49fd29b3b6eaefe26/c7506fe49fd29b3b6eaefe
 https://main.24playerhd.com/m3u8/f178d2b6e35d3c4cba8f215e/f178d2b6e35d3c4cba8f215e438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/04/Sinners-2025.png" group-title="MOVIE", Sinners (2025) ซินเนอร์ส
-#https://main.24playerhd.com/m3u8/5707f4370958c12390c85b43/5707f4370958c12390c85b43438.m3u8
 https://vod1.ezmovie.co/Sinners-2025-TH.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/08/The-Bikeriders.jpg" group-title="MOVIE", The Bikeriders (2023) เดอะ ไบค์ไรเดอร์ส
-#https://main.24playerhd.com/m3u8/7fb33d3c35df122aa1233a64/7fb33d3c35df122aa1233a64438.m3u8
 https://vod1.ezmovie.co/The-Bikeriders-2023-SUB.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/06/1992-2024.png" group-title="MOVIE", 1992 (2024) คืนระห่ำโหด คนระห่ำแตก
