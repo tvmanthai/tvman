@@ -10,48 +10,111 @@
   "image": "https://bbk100.xyz/media/cache/strip/202505/movie/9e7ed30b8ea0004b5842e4ea1d2316b9.jpg",
   "stations": [
   {
-    "name": "Episode1",
+    "name": "Mad Unicorn EP1",
+    "info": "Thai Subtitle",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E01-TH.mp4.m3u8",
     "referer":""
   },
   {
-    "name": "Episode2",
+    "name": "Mad Unicorn EP2",
+    "info": "Thai Subtitle",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E02-TH.mp4.m3u8",
     "referer": ""
   },
   {
-    "name": "Episode3",
+    "name": "Mad Unicorn EP3",
+    "info": "Thai Subtitle",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E03-TH.mp4.m3u8",
     "referer": ""
   },
   {
-    "name": "Episode4",
+    "name": "Mad Unicorn EP4",
+    "info": "Thai Subtitle",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E04-TH.mp4.m3u8",
     "referer": ""
   },
   {
-    "name": "Episode5",
+    "name": "Mad Unicorn EP5",
+    "info": "Thai Subtitle",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E05-TH.mp4.m3u8",
     "referer": ""
   },
   {
-    "name": "Episode6",
+    "name": "Mad Unicorn EP6",
+    "info": "Thai Subtitle",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E06-TH.mp4.m3u8",
     "referer": ""
   },
   {
-    "name": "Episode7",
+    "name": "Mad Unicorn EP7",
+    "info": "Thai Subtitle",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E07-TH.mp4.m3u8",
     "referer": ""
   }
-  ]}
+  ]},
+
+{
+  "name": "The Last of Us Season 2 (2025) เดอะ ลาสต์ ออฟ อัส 2",
+  "info": "Thai Subtitle",
+  "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/30f0ae54aa8846fc287064d4e945c3c2.jpg",
+  "stations": [
+  {
+    "name": "The Last of Us Season 2 EP1",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/30f0ae54aa8846fc287064d4e945c3c2.jpg",
+    "url": "https://vod1.stream25.com/The-Last-of-Us-S02E01-TH.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "The Last of Us Season 2 EP2",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/30f0ae54aa8846fc287064d4e945c3c2.jpg",
+    "url": "https://vod1.stream25.com/The-Last-of-Us-S02E02-TH.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "The Last of Us Season 2 EP3",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/30f0ae54aa8846fc287064d4e945c3c2.jpg",
+    "url": "https://vod1.stream25.com/The-Last-of-Us-S02E03-TH.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "The Last of Us Season 2 EP4",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/30f0ae54aa8846fc287064d4e945c3c2.jpg",
+    "url": "https://vod1.stream25.com/The-Last-of-Us-S02E04-TH.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "The Last of Us Season 2 EP5",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/30f0ae54aa8846fc287064d4e945c3c2.jpg",
+    "url": "https://vod1.stream25.com/The-Last-of-Us-S02E05-TH.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "The Last of Us Season 2 EP6",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/30f0ae54aa8846fc287064d4e945c3c2.jpg",
+    "url": "https://vod1.stream25.com/The-Last-of-Us-S02E06-TH.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "The Last of Us Season 2 EP7",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/30f0ae54aa8846fc287064d4e945c3c2.jpg",
+    "url": "https://vod1.stream25.com/The-Last-of-Us-S02E07-TH.mp4.m3u8",
+    "referer":""
+  },  
+  ]},
 
 ]
 }
