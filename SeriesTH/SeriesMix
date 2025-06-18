@@ -13,44 +13,44 @@
     "name": "Episode1",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E01-TH.mp4.m3u8",
-    "referer":"",
+    "referer":""
   },
   {
     "name": "Episode2",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E02-TH.mp4.m3u8",
-    "referer": "",
+    "referer": ""
   },
   {
     "name": "Episode3",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E03-TH.mp4.m3u8",
-    "referer": "",
+    "referer": ""
   },
   {
     "name": "Episode4",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E04-TH.mp4.m3u8",
-    "referer": "",
+    "referer": ""
   },
   {
     "name": "Episode5",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E05-TH.mp4.m3u8",
-    "referer": "",
+    "referer": ""
   },
   {
     "name": "Episode6",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E06-TH.mp4.m3u8",
-    "referer": "",
+    "referer": ""
   },
   {
     "name": "Episode7",
     "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/06/Mad-Unicorn-2-2025-265x375.png",
     "url": "https://vod1.stream25.com/Mad-Unicorn-S01E07-TH.mp4.m3u8",
-    "referer": "",
-  },
+    "referer": ""
+  }
   ]}
 
 ]
