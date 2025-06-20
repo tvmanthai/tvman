@@ -5,6 +5,141 @@
 "url": "https://tvmanthai.github.io/tvman/SeriesTH/SeriesMix",
 "groups": [
  {
+  "name": "Doctor Who (2025) ด็อกเตอร์วู Season 2",
+  "info": "Disney+",
+  "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/28ffea5ba13dc7d4a0e20a451bfa1bd4.jpg",
+  "stations": [
+  {
+    "name": "Doctor Who SS2 EP1",
+    "info": "บรรยายไทย",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/28ffea5ba13dc7d4a0e20a451bfa1bd4.jpg",
+    "url": "https://vod1.stream25.com/Doctor-Who-S02E01-SUB.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "Doctor Who SS2 EP2",
+    "info": "บรรยายไทย",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/28ffea5ba13dc7d4a0e20a451bfa1bd4.jpg",
+    "url": "https://vod1.stream25.com/Doctor-Who-S02E02-SUB.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "Doctor Who SS2 EP3",
+    "info": "บรรยายไทย",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/28ffea5ba13dc7d4a0e20a451bfa1bd4.jpg",
+    "url": "https://vod1.stream25.com/Doctor-Who-S02E03-SUB.mp4.m3u8",
+    "referer":""
+  },
+    {
+    "name": "Doctor Who SS2 EP4",
+    "info": "บรรยายไทย",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/28ffea5ba13dc7d4a0e20a451bfa1bd4.jpg",
+    "url": "https://vod1.stream25.com/Doctor-Who-S02E04-SUB.mp4.m3u8",
+    "referer":""
+  },
+    {
+    "name": "Doctor Who SS2 EP5",
+    "info": "บรรยายไทย",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/28ffea5ba13dc7d4a0e20a451bfa1bd4.jpg",
+    "url": "https://vod1.stream25.com/Doctor-Who-S02E05-SUB.mp4.m3u8",
+    "referer":""
+  },
+    {
+    "name": "Doctor Who SS2 EP6",
+    "info": "บรรยายไทย",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/28ffea5ba13dc7d4a0e20a451bfa1bd4.jpg",
+    "url": "https://vod1.stream25.com/Doctor-Who-S02E06-SUB.mp4.m3u8",
+    "referer":""
+  },
+    {
+    "name": "Doctor Who SS2 EP7",
+    "info": "บรรยายไทย",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/28ffea5ba13dc7d4a0e20a451bfa1bd4.jpg",
+    "url": "https://vod1.stream25.com/Doctor-Who-S02E07-SUB.mp4.m3u8",
+    "referer":""
+  },
+    {
+    "name": "Doctor Who SS2 EP8",
+    "info": "บรรยายไทย",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202504/movie/28ffea5ba13dc7d4a0e20a451bfa1bd4.jpg",
+    "url": "https://vod1.stream25.com/Doctor-Who-S02E08-SUB.mp4.m3u8",
+    "referer":""
+  }
+  ]},
+
+////////////////////////////////////
+ {
+  "name": "Department Q (2025) แผนกคดีปิดไม่ลง",
+  "info": "Netfilx",
+  "image": "https://bbk100.xyz/media/cache/movie_sm/202506/movie/1eedd46334b459296f13e08317b437f2.jpg",
+  "stations": [
+  {
+    "name": "Department Q EP1",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202506/movie/1eedd46334b459296f13e08317b437f2.jpg",
+    "url": "https://vod1.stream25.com/Dept-Q-S01EP01-tha.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "Department Q EP2",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202506/movie/1eedd46334b459296f13e08317b437f2.jpg",
+    "url": "https://vod1.stream25.com/Dept-Q-S01EP02-tha.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "Department Q EP3",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202506/movie/1eedd46334b459296f13e08317b437f2.jpg",
+    "url": "https://vod1.stream25.com/Dept-Q-S01EP03-tha.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "Department Q EP4",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202506/movie/1eedd46334b459296f13e08317b437f2.jpg",
+    "url": "https://vod1.stream25.com/Dept-Q-S01EP04-tha.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "Department Q EP5",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202506/movie/1eedd46334b459296f13e08317b437f2.jpg",
+    "url": "https://vod1.stream25.com/Dept-Q-S01EP05-tha.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "Department Q EP6",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202506/movie/1eedd46334b459296f13e08317b437f2.jpg",
+    "url": "https://vod1.stream25.com/Dept-Q-S01EP06-tha.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "Department Q EP7",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202506/movie/1eedd46334b459296f13e08317b437f2.jpg",
+    "url": "https://vod1.stream25.com/Dept-Q-S01EP07-tha.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "Department Q EP8",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202506/movie/1eedd46334b459296f13e08317b437f2.jpg",
+    "url": "https://vod1.stream25.com/Dept-Q-S01EP08-tha.mp4.m3u8",
+    "referer":""
+  },
+  {
+    "name": "Department Q EP9",
+    "info": "Thai",
+    "image": "https://bbk100.xyz/media/cache/movie_sm/202506/movie/1eedd46334b459296f13e08317b437f2.jpg",
+    "url": "https://vod1.stream25.com/Dept-Q-S01EP09-tha.mp4.m3u8",
+    "referer":""
+  }
+  ]},
+
+////////////////////////////////////
+ {
   "name": "Mad Unicorn (2025) สงคราม ส่งด่วน",
   "info": "Thai Subtitle",
   "image": "https://bbk100.xyz/media/cache/strip/202505/movie/9e7ed30b8ea0004b5842e4ea1d2316b9.jpg",
@@ -60,6 +195,7 @@
   }
   ]},
 
+////////////////////////////////////
 {
   "name": "The Last of Us Season 2 (2025) เดอะ ลาสต์ ออฟ อัส 2",
   "info": "Thai Subtitle",
