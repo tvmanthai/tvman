@@ -11,9 +11,6 @@ https://m1free.inwstream.com:1936/movie4/Pilot_2024/Pilot_2024_th_1080.mp4/playl
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2019/10/28-weeks-later-poster.jpg" group-title="MOVIE", 28 Weeks Later (2007) มหันตภัยเชื้อนรกถล่มเมือง
 https://m1free.inwstream.com:1936/movie3/28-Weeks-Later-2007/28-Weeks-Later-2007-TH-1080p.m4v/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2019/10/28-weeks-later-poster.jpg" group-title="MOVIE", 28 Weeks Later (2007) มหันตภัยเชื้อนรกถล่มเมือง
-https://m1free.inwstream.com:1936/movie3/28-Weeks-Later-2007/28-Weeks-Later-2007-TH-1080p.m4v/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2019/10/2018120507110728-days-later-55b14404ad745.jpg" group-title="MOVIE", 28 Days Later (2002) 28 วันให้หลัง เชื้อเขมือบคน
 https://m1free.inwstream.com:1936/movie3/28-Days-Later-2002/28-Days-Later-2002-TH-1080p.m4v/playlist.m3u8
 
@@ -26,7 +23,7 @@ https://m1free.inwstream.com:1936/movie3/Late_Night_with_the_Devil_2023/Late_Nig
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/06/KPop-Demon-Hunters.png" group-title="MOVIE", KPop Demon Hunters (2025) เกิร์ลกรุ๊ปนักล่าปีศาจ
 https://m1free.inwstream.com:1936/movie4/KPop_Demon_Hunters_2025/KPop_Demon_Hunters_2025_TH_1080p.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/06/Kraken.png" group-title="MOVIE", Kraken (2025) คราเคน เลื้อยสยอง 20,000 โยชน์
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/06/Kraken.png" group-title="MOVIE", Kraken (2025) คราเคน เลื้อยสยอง 20000 โยชน์
 https://m1free.inwstream.com:1936/movie4/Kraken_2025/Kraken_2025_th_1080_1.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/06/The-Exorcism.png" group-title="MOVIE", The Exorcism (2024) นรกสิงสาป
