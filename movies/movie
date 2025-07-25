@@ -1,9 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/04/The-Amateur.png" group-title="MOVIE", The Amateur (2025) ร้ายสมัครเล่น
+https://vod1.stream25.com/The-Amateur-2025-TH.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/01/Anora.jpg" group-title="MOVIE", Anora (2024) อโนรา
+https://m1free.inwstream.com:1936/movie4/Anora_2024/Anora_2024_TH_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/06/Mountainhead-2025.png" group-title="MOVIE", Mountainhead (2025) เมาน์เทนเฮด
+https://m1free.inwstream.com:1936/movie4/Mountainhead_2025/Mountainhead_2025_TH_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/04/Baghead-2023.jpg" group-title="MOVIE", Baghead (2023) ผีสิงผี
+https://m1free.inwstream.com:1936/movie4/Baghead_2023/Baghead_2023_TH_1080p_1.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/07/Brick-2025.png" group-title="MOVIE", Brick (2025) กำแพง
+https://vod1.stream25.com/Brick-2025-tha.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/07/Almost-Cops.png" group-title="MOVIE", Almost Cops (2025) คู่สืบ คู่อันตราย
+https://m1free.inwstream.com:1936/movie4/Almost_Cops_2025/Almost_Cops_2025_TH_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/07/Thantakan.jpg" group-title="MOVIE", ทัณฑกาล (2025) Thantakan
+https://m1free.inwstream.com:1936/movie4/Thantakan_2025/Thantakan_2025_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Batman-Ninja-vs-Yakuza-League.png" group-title="MOVIE", Batman Ninja vs. Yakuza League (2025) แบทแมน วีรบุรุษยอดนินจา ปะทะ ยากูซ่าลีก
+https://m1free.inwstream.com:1936/movie4/Batman_Ninja_vs_Yakuza_League_2025/Batman_Ninja_vs_Yakuza_League_2025_TH_1080p.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/07/Ziam.png" group-title="MOVIE", ปากกัด ตีนถีบ (2025) Ziam
 https://vod1.stream25.com/Ziam-2025-TH.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/07/High-Rollers.png" group-title="MOVIE", High Rollers (2025) แผนปล้นคนหักเหลี่ยม: ทะลวงกาสิโนเดือด
 https://vod1.stream25.com/High-Rollers-2025-TH.mp4.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2024/12/Emilia-Perez.jpg" group-title="MOVIE", Emilia Pérez (2024) เอมิเลีย เปเรซ
 https://m1free.inwstream.com:1936/movie4/Emilia_Perez_2024/Emilia_Perez_2024_TH_1080p.mp4/playlist.m3u8
 
