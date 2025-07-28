@@ -129,7 +129,7 @@ https://cdn1.googlecdn.live/ballsod24hrs/tsp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องกีฬา",True Sports 3
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 #https://cdn1.googlecdn.live/ballsod24hrs/tsp3/playlist.m3u8
-#https://playtvthai.github.io/m3u8/sports/tsp3.m3u8
+https://playtvthai.github.io/m3u8/sports/tsp3.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ช่องกีฬา",True Sports 5
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -197,26 +197,6 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/spotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2 สำรอง
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vSjXDKb.png" group-title="ช่องกีฬา",SiamSpots1
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/siamsport1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jHxSWwG.png" group-title="ช่องกีฬา",SiamSpots2
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/siamsport2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUTikYp.png" group-title="ช่องกีฬา",SiamSpots3
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/siamsport3/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XEkuYIm.png" group-title="ช่องกีฬา",SiamSpots4
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/siamsport4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XEkuYIm.png" group-title="ช่องกีฬา",SiamSpots4
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/siamsport4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012847.png" group-title="ช่องกีฬา",Hisport HD
 http://49.0.64.96:8007/HiSports
