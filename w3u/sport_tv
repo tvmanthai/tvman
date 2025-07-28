@@ -5,6 +5,12 @@
 "image": "https://cdn-icons-png.flaticon.com/512/9192/9192699.png",
 "stations": [
 
+{"name": "MONOMAX 1",
+"image": "https://dookeela2.live/uploads/1753517049.png",
+"url": "https://dookeela2.live/live-tv/monomax1",
+"referer":"https://dookeela2.live/live-tv/",
+"playInNatPlayer": "true"},
+
 {"name": "True Premier Football HD 1-A",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
 "url": "https://cdn1.googlecdnforstreaming.live/live/epl1_sd/chunks.m3u8",
@@ -67,8 +73,8 @@
 
 {"name": "True Premier Football HD 4-B",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
-"url": "https://dookeela.live/live-tv/epl4",
-"referer": "https://dookeela.live/",
+"url": "https://dookeela2.live/live-tv/epl4",
+"referer": "https://dookeela2.live/",
 "playInNatPlayer": "true"},
 
 {"name": "True Premier Football HD 4-C",
@@ -85,8 +91,8 @@
 
 {"name": "True Premier Football HD 5-B",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
-"url": "https://dookeela.live/live-tv/epl5",
-"referer": "https://dookeela.live/",
+"url": "https://dookeela2.live/live-tv/epl5",
+"referer": "https://dookeela2.live/",
 "playInNatPlayer": "true"},
 
 {"name": "True Premier Football HD 5-C",
@@ -97,8 +103,8 @@
 
 {"name": "True 4K",
 "image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true4k-ultra-hd.webp",
-"url": "https://dookeela.live/live-tv/true4k",
-"referer": "https://dookeela.live/",
+"url": "https://dookeela2.live/live-tv/true4k",
+"referer": "https://dookeela2.live/",
 "playInNatPlayer": "true"},
 
 {"name": "beIN Sports 1",
@@ -109,8 +115,8 @@
 
 {"name": "beIN Sports 1-สำรอง",
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-"url": "https://dookeela.live/live-tv/bein1",
-"referer": "https://dookeela.live/",
+"url": "https://dookeela2.live/live-tv/bein1",
+"referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"},
 
 {"name": "beIN Sports 2",
@@ -121,8 +127,8 @@
 
 {"name": "beIN Sports 2-สำรอง",
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-"url": "https://dookeela.live/live-tv/bein2",
-"referer": "https://dookeela.live/",
+"url": "https://dookeela2.live/live-tv/bein2",
+"referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"},
 
 {"name": "beIN Sports 3",
@@ -133,8 +139,8 @@
 
 {"name": "beIN Sports 3-สำรอง",
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
-"url": "https://dookeela.live/live-tv/bein3",
-"referer": "https://dookeela.live/",
+"url": "https://dookeela2.live/live-tv/bein3",
+"referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"},
 
 {"name": "beIN Sports 4",
@@ -232,8 +238,8 @@
 
 {"name": "True Sports 4-สำรอง",
 "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",
-"url": "https://dookeela.live/live-tv/tsp4",
-"referer": "https://dookeela.live/",
+"url": "https://dookeela2.live/live-tv/tsp4",
+"referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"},
 
 {
@@ -245,8 +251,8 @@
 
 {"name": "True Sports 5-สำรอง",
 "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
-"url": "https://dookeela.live/live-tv/tsp5",
-"referer": "https://dookeela.live/",
+"url": "https://dookeela2.live/live-tv/tsp5",
+"referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"},
 
 {"name": "True Sports 7-สำรอง",
@@ -257,8 +263,8 @@
 
 {"name": "True Sports 7",
 "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
-"url": "https://dookeela.live/live-tv/tsp7",
-"referer": "https://dookeela.live/",
+"url": "https://dookeela2.live/live-tv/tsp7",
+"referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"},
 
 {"name":"True Ball Thai 1",
@@ -388,7 +394,7 @@
 
 {"name": "Spotv-B",
 "image":"https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
-"url": "https://dookeela.live/live-tv/spotv",
+"url": "https://dookeela2.live/live-tv/spotv",
 "playInNatPlayer":"true"},
 
 {"name": "Spotv-C",
@@ -405,7 +411,7 @@
 
 {"name": "Spotv 2-B",
 "image":"https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
-"url": "https://dookeela.live/live-tv/spotv2",
+"url": "https://dookeela2.live/live-tv/spotv2",
 "playInNatPlayer":"true"},
 
 {"name": "Spotv 2-C",
@@ -416,7 +422,7 @@
 
 {"name":"SiamSpots1",
 "image":"https://i.imgur.com/vSjXDKb.png",
-"url":"https://dookeela.live/live-tv/siamsport1",
+"url":"https://dookeela2.live/live-tv/siamsport1",
 "playInNatPlayer":"true"},
 
 {"name":"SiamSpots1-สำรอง",
@@ -427,7 +433,7 @@
 
 {"name":"SiamSpots2",
 "image":"https://i.imgur.com/jHxSWwG.png",
-"url":"https://dookeela.live/live-tv/siamsport2",
+"url":"https://dookeela2.live/live-tv/siamsport2",
 "playInNatPlayer":"true"},
 
 {"name":"SiamSpots2-สำรอง",
@@ -438,7 +444,7 @@
 
 {"name":"SiamSpots3",
 "image":"https://i.imgur.com/aUTikYp.png",
-"url":"https://dookeela.live/live-tv/siamsport3",
+"url":"https://dookeela2.live/live-tv/siamsport3",
 "playInNatPlayer":"true"},
 
 {"name":"SiamSpots3-สำรอง",
@@ -449,8 +455,8 @@
 
 {"name":"SiamSpots4",
 "image":"https://i.imgur.com/XEkuYIm.png",
-"url":"https://dookeela.live/live-tv/siamsport4",
-"referer":"https://dookeela.live/live-tv/",
+"url":"https://dookeela2.live/live-tv/siamsport4",
+"referer":"https://dookeela2.live/live-tv/",
 "playInNatPlayer":"true"},
 
 {"name":"SiamSpots4-สำรอง",
@@ -461,8 +467,8 @@
 
 {"name":"Golf Channel",
 "image":"https://cms.dmpcdn.com/livetv/2023/07/24/6057ad50-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
-"url": "https://dookeela.live/live-tv/golfchannel",
-"referer": "https://dookeela.live/live-tv/",
+"url": "https://dookeela2.live/live-tv/golfchannel",
+"referer": "https://dookeela2.live/live-tv/",
 "playInNatPlayer": "true"},
 
 {"name":"Golf Channel-สำรอง",
@@ -473,8 +479,8 @@
 
 {"name":"True Tennis",
 "image":"https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp",
-"url": "https://dookeela.live/live-tv/truetennis",
-"referer":"https://dookeela.live/live-tv/",
+"url": "https://dookeela2.live/live-tv/truetennis",
+"referer":"https://dookeela2.live/live-tv/",
 "playInNatPlayer":"true"},
 
 {"name":"True Tennis-สำรอง",
