@@ -12,6 +12,10 @@ https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/ais-monomax-3/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://dookeela2.live/uploads/1753873817.png" group-title="ช่องกีฬา",MONOMAX 4
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/ais-monomax-4/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 1
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch1.stream/playlist.m3u8
