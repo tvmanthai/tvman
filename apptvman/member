@@ -4,14 +4,9 @@
 กีฬา
 ########################################
 
-#EXTINF:-1 tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="ช่องกีฬา"MONOMAX 1 test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
-https://dl.dropboxusercontent.com/scl/fi/oeh5fq5py44n9av3rcv34/trueidas.m3u8?rlkey=sie9kfm0839paqpspn1o7hdcg&st=d4hi77xe&dl=0
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp" group-title="ช่องกีฬา",MONOMAX 1 
-#EXTVLCOPT:http-referrer=https://ball67.com/
-https://cdnsv1.bunnycdncloud.com/ball67/monomax1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDM6MjU6MjUgUE0maGFzaF92YWx1ZT1mMXBtVllQSUVlV2QvSllkWGIxYjVRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTc1Mzg4OTEyNTY0MSZzdHJtX2xlbj0w
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 1
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 1 สำรอง
 #EXTVLCOPT:http-referrer=https://dooflixtv.com/
