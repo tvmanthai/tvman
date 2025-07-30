@@ -5,10 +5,23 @@
 "image": "https://cdn-icons-png.flaticon.com/512/9192/9192699.png",
 "stations": [
 
-{"name": "MONOMAX 1",
+
+{"name": "MONOMAX 1-A",
+"image": "https://dookeela2.live/uploads/1753517049.png",
+"url": "https://ball67.com/channels/monomax1",
+"referer":"https://ball67.com/",
+"playInNatPlayer": "true"},
+
+{"name": "MONOMAX 1-B",
 "image": "https://dookeela2.live/uploads/1753517049.png",
 "url": "https://dookeela2.live/live-tv/monomax1",
 "referer":"https://dookeela2.live/live-tv/",
+"playInNatPlayer": "true"},
+
+{"name": "MONOMAX 2-A",
+"image": "https://ball67.com/_next/image?url=%2Fassets%2Fchannels-logo%2Fmonomax-2.png&w=256&q=75",
+"url": "https://ball67.com/channels/monomax2",
+"referer":"https://ball67.com/",
 "playInNatPlayer": "true"},
 
 {"name": "True Premier Football HD 1-A",
