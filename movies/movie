@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img.fw4free.com/postor/202508010217489u5kyHB7NkRtBW4LVaJLLOL8iT.jpg" group-title="MOVIE", เดอะ สโตน พระแท้ คนเก๊ (2025) The Stone
+https://vod1.stream25.com/The-Stone-2025-TH.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.fw4free.com/postor/20241209002749gAtP0usArK5gVOBObnsENKLwML8.jpg" group-title="MOVIE", I the Executioner (2024) คู่เดือดนรกต้องกราบ
+https://vod1.stream25.com/I-The-Executioner-2024-TH.mp4.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/07/Karate-Kid-Legends-2025.png" group-title="MOVIE", Karate Kid Legends (2025) คาราเต้ คิด ผนึกพลังตำนานนักสู้
 https://vod1.stream25.com/Karate-Kid-Legends-2025-TH.mp4.m3u8
 
