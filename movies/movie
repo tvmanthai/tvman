@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://bbk100.xyz/media/cache/strip/202411/movie/d67c8120b6545a287461a67eadb1c10f.jpg" group-title="MOVIE", Canary Black (2024) รหัสลับดับโลก
+https://ezmovie4k.com/cdn/hls/8d8eeed168b31edb09b14ab3d79d9e1b/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.fw4free.com/postor/202508010217489u5kyHB7NkRtBW4LVaJLLOL8iT.jpg" group-title="MOVIE", เดอะ สโตน พระแท้ คนเก๊ (2025) The Stone
 https://vod1.stream25.com/The-Stone-2025-TH.mp4.m3u8
 
