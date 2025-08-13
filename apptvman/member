@@ -8,6 +8,10 @@
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://ball67.com/_next/image?url=%2Fassets%2Fchannels-logo%2Fmonomax-1.png&w=256&q=75" group-title="ช่องกีฬา",MONOMAX 1
+#EXTVLCOPT:http-referrer=https://ball67.com/
+https://cdnsv1.bunnycdncloud.com/ball67/monomax1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://ball67.com/_next/image?url=%2Fassets%2Fchannels-logo%2Fmonomax-3.png&w=256&q=75" group-title="ช่องกีฬา",MONOMAX 3
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/ais-monomax-3/chunks.m3u8
@@ -191,15 +195,14 @@ https://cdn1.googlecdnforstreaming.live/live/trueballthai10/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 #https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8
-https://playtvthai.github.io/m3u8/sports/spotv1.m3u8
+https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv สำรอง
 #EXTVLCOPT:http-referrer=https://www.andaman888th.net/
 https://cdnsv1.bunnycdncloud.com/andaman888th/spotv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
-#EXTVLCOPT:http-referrer=https://www.andaman888th.net/
-https://cdnsv1.bunnycdncloud.com/andaman888th/spotv2/playlist.m3u8
+https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2 สำรอง
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
