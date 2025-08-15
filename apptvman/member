@@ -6,8 +6,8 @@
 
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport1.png" group-title="ช่องกีฬา",MONOMAX 1
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_1HD/chunklist.m3u8
+https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport2.png" group-title="ช่องกีฬา",MONOMAX 2
 #EXTVLCOPT:http-referrer=https://ball67.com/
