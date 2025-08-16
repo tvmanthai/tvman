@@ -9,6 +9,11 @@
 https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_1HD/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport1.png" group-title="ช่องกีฬา",MONOMAX 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.andaman888th.net/
+https://cdnsv1.bunnycdncloud.com/andaman888th/monomax1/th-sport/monomax1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport2.png" group-title="ช่องกีฬา",MONOMAX 2
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
