@@ -239,52 +239,52 @@ https://playidtv2.github.io/m3u/stream/02_TennisHD_720p.m3u8
 ไทยพรีเมียร์ลีค
 ########################################
 
-#EXTINF:-1 tvg-name="PlaysportsFootball1" tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS1.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS1.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 1
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8
 
-#EXTINF:-1 tvg-name="PlaysportsFootball2" tvg-logo="https://img2.pic.in.th/pic/AIS2.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/AIS2.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 2
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8
 
-#EXTINF:-1 tvg-name="PlaysportsFootball3" tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS3.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS3.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 3
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8
 
-#EXTINF:-1 tvg-name="PlaysportsFootball4" tvg-logo="https://img2.pic.in.th/pic/AIS4.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/AIS4.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 4
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8
 
-#EXTINF:-1 tvg-name="PlaysportsFootball5" tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS5.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS5.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 5
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8
 
-#EXTINF:-1 tvg-name="PlaysportsFootball6" tvg-logo="https://img2.pic.in.th/pic/AIS6.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/AIS6.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 6
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
 
-#EXTINF:-1 tvg-name="PlaysportsFootball7" tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS7.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS7.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 7
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
 
-#EXTINF:-1 tvg-name="PlaysportsFootball8" tvg-logo="https://img2.pic.in.th/pic/AIS8.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/AIS8.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 8
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL008/HLS/TL008.m3u8
 
-#EXTINF:-1 tvg-name="PlaysportsFootball8" tvg-logo="https://img2.pic.in.th/pic/AIS9.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/AIS9.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 9
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL009/HLS/TL009.m3u8 
 
-#EXTINF:-1 tvg-name="PlaysportsFootball8" tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS10.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS10.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 10
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL010/HLS/TL010.m3u8 
