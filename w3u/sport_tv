@@ -8,7 +8,7 @@
 
 {"name": "MONOMAX 1-A",
 "image": "https://img5.pic.in.th/file/secure-sv1/Monomax1.png",
-"url": "https://cdn1.googlecdnforstreaming.live/live/monomax-1/chunks.m3u8",
+"url": "https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8",
 "referer":"https://warpdooball.net/",
 "playInNatPlayer": "true"},
 
