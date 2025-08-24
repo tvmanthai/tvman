@@ -8,20 +8,20 @@
 
 {"name": "MONOMAX 1-A",
 "image": "https://img5.pic.in.th/file/secure-sv1/Monomax1.png",
-"referer":"https://warpdooball.net/",
 "url": "https://cdn1.googlecdnforstreaming.live/live/monomax-1/chunks.m3u8",
+"referer":"https://warpdooball.net/",
 "playInNatPlayer": "true"},
 
 {"name": "MONOMAX 1-B",
 "image": "https://img5.pic.in.th/file/secure-sv1/Monomax1.png",
-"referer":"https://dookeela2.live/live-tv/",
 "url": "https://dookeela2.live/live-tv/monomax1",
+"referer":"https://dookeela2.live/live-tv/",
 "playInNatPlayer": "true"},
 
 {"name": "MONOMAX 2-A",
 "image": "https://img2.pic.in.th/pic/Monomax2b468b4ff59c50b7d.png",
-"referer":"https://warpdooball.net/",
 "url": "https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8",
+"referer":"https://warpdooball.net/",
 "playInNatPlayer": "true"},
 
 {"name": "MONOMAX 2-B",
