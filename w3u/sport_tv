@@ -14,8 +14,8 @@
 
 {"name": "MONOMAX 1-B",
 "image": "https://img5.pic.in.th/file/secure-sv1/Monomax1.png",
-"url": "https://dookeela2.live/live-tv/monomax1",
-"referer":"https://dookeela2.live/live-tv/",
+"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX1.m3u8",
+"referer":"https://github.com/",
 "playInNatPlayer": "true"},
 
 {"name": "MONOMAX 2-A",
@@ -26,8 +26,8 @@
 
 {"name": "MONOMAX 2-B",
 "image": "https://img2.pic.in.th/pic/Monomax2b468b4ff59c50b7d.png",
-"url": "https://dookeela2.live/live-tv/monomax-2",
-"referer":"https://dookeela2.live/live-tv/",
+"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX2.m3u8",
+"referer":"https://github.com/",
 "playInNatPlayer": "true"},
 
 {"name": "MONOMAX 3-A",
@@ -38,8 +38,8 @@
 
 {"name": "MONOMAX 3-B",
 "image": "https://img5.pic.in.th/file/secure-sv1/Monomax3.png",
-"url": "https://dookeela2.live/live-tv/ais-monomax-3",
-"referer":"https://dookeela2.live/live-tv/",
+"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX3.m3u8",
+"referer":"https://github.com/",
 "playInNatPlayer": "true"},
 
 {"name": "MONOMAX 4-A",
@@ -48,10 +48,41 @@
 "referer":"https://warpdooball.net/",
 "playInNatPlayer": "true"},
 
+{"name": "MONOMAX 4-B",
+"image": "https://img5.pic.in.th/file/secure-sv1/Monomax4.png",
+"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX4.m3u8",
+"referer":"https://github.com/",
+"playInNatPlayer": "true"},
+
 {"name": "MONOMAX 5-A",
 "image": "https://img2.pic.in.th/pic/Monomax5.png",
-"url": "https://cdn1.googlecdnforstreaming.live/live/monomax-5/chunks.m3u8",
-"referer":"https://warpdooball.net/",
+"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX5.m3u8",
+"referer":"https://github.com/",
+"playInNatPlayer": "true"},
+
+{"name": "MONOMAX 6-A",
+"image": "https://img5.pic.in.th/file/secure-sv1/Monomax66ea90a1ebad32bb6.png",
+"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX6.m3u8",
+"referer":"https://github.com/",
+"playInNatPlayer": "true"},
+
+
+{"name": "MONOMAX 7-A",
+"image": "hhttps://img2.pic.in.th/pic/Monomax7db935d467d68a0db.png",
+"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX7.m3u8",
+"referer":"https://github.com/",
+"playInNatPlayer": "true"},
+
+{"name": "MONOMAX 8-A",
+"image": "https://img5.pic.in.th/file/secure-sv1/Monomax808a7565af0724b34.png",
+"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX8.m3u8",
+"referer":"https://github.com/",
+"playInNatPlayer": "true"},
+
+{"name": "MONOMAX 9-A",
+"image": "https://img2.pic.in.th/pic/Monomax9c4b6b7dc06abbfaf.png",
+"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX9.m3u8",
+"referer":"https://github.com/",
 "playInNatPlayer": "true"},
 
 {"name": "True Premier Football HD 1-A",
