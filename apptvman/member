@@ -294,19 +294,22 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/AIS8.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 8
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL008/HLS/TL008.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/AIS9.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 9
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL009/HLS/TL009.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL009/HLS/TL009.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS10.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 10
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL010/HLS/TL010.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL010/HLS/TL010.m3u8
 
-------------------------------Entertainment-----------------------------------------
+########################################
+ความบันเทิง
+########################################
+
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703686191.png" group-title="ความบันเทิง",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
@@ -332,18 +335,19 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205850.png" group-title="ความบันเทิง",True Asian More
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://live-la2.aws-stream.com:9318/v3/DyCL633rcQ4RXkbJPax4tA/1748968009/529698337c6da588fd3e3a4d39815d28/KTsN5TVsVv2GTfGI_uIGyw/1748989589/live/vx-origin/hd-asianmore_720/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720380229.png" group-title="ความบันเทิง",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://playtvthai.github.io/m3u8/movie/film1.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/truefilm1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720723122.png" group-title="ความบันเทิง",True Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#https://playtvthai.github.io/m3u8/movie/flim2.m3u8
-http://wandering-oldman.github.io/movies/true-film2hd.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/truefilm2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205850.png" group-title="ความบันเทิง",True Asian More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://live-la2.aws-stream.com:9318/v3/DyCL633rcQ4RXkbJPax4tA/1748968009/529698337c6da588fd3e3a4d39815d28/KTsN5TVsVv2GTfGI_uIGyw/1748989589/live/vx-origin/hd-asianmore_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719803882.png" group-title="ความบันเทิง",HITS MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -351,7 +355,8 @@ http://wandering-oldman.github.io/movies/true-movie-hits.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706539896.png" group-title="ความบันเทิง",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-http://wandering-oldman.github.io/movies/movies1.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title="ความบันเทิง",True Film Asian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -361,9 +366,15 @@ http://wandering-oldman.github.io/movies/true-filmasia.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 http://wandering-oldman.github.io/movies/true-series.m3u8
 
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title="ความรู้และสารคดี",True Xzyte
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112791.png" group-title="ความบันเทิง", HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-http://wandering-oldman.github.io/document/true-xzyte.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714100677.png" group-title="ความบันเทิง", HITS MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits-movies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716339097.png" group-title="ความบันเทิง",AMC
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -401,14 +412,19 @@ http://wandering-oldman.github.io/document/afn.m3u8
 ความรู้และสารคดี
 ########################################
 
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title="ความรู้และสารคดี",True Xzyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+http://wandering-oldman.github.io/document/true-xzyte.m3u8
+
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112700.png" group-title="ความรู้และสารคดี",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-http://wandering-oldman.github.io/sport/animal-planet.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/animal-planet/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705537126.png" group-title="ความรู้และสารคดี",Animal Show
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9beae09ef3674aaa74504593f6f7abb&chunkHttps=true&tmid=V0053&tpbk=TUmZDue8CFcuKnI0&rrt=1750638246&tmod=rfk&rsid=62dc76d2-7ece-4389-9f9e-fd8bdd35ed9f&tuid=2ffcf30913&cdn=redfox-https&tdid=31903fcff2fbf0e7430c5503dbofdvpq&origin=anevia&tfa=f0-fc&tttl=1750724611
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/animalshow/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714101661.png" group-title="ความรู้และสารคดี",crime + Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -420,9 +436,9 @@ http://wandering-oldman.github.io/sport/crime-investigation.m3u8
 http://wandering-oldman.github.io/document/discovery2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1706112755.png" group-title="ความรู้และสารคดี",Discovery Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/discovery-asia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1713231372.png" group-title="ความรู้และสารคดี",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -434,19 +450,18 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724166670.png" group-title="ความรู้และสารคดี",True Explore Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-http://wandering-oldman.github.io/document/true-life2.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueexplorelife/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724167268.png" group-title="ความรู้และสารคดี",True Explore SCi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://playtvthai.github.io/m3u8/movie/trueexpsci.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueexploresci/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724166218.png" group-title="ความรู้และสารคดี",True Explore Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-http://wandering-oldman.github.io/document/trueexplorewild.m3u8
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714101765.png" group-title="ความรู้และสารคดี",DMAX
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://playid.vercel.app/movie/dmax.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueexplorelife/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705536821.png" group-title="ความรู้และสารคดี",สำรวจโลก
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
