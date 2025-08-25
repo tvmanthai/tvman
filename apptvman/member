@@ -6,47 +6,56 @@
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax1.png" group-title="ช่องกีฬา",MONOMAX 1
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://playid.vercel.app/sports/max1.m3u8
+#https://playid.vercel.app/sports/max1.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX1.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Monomax2b468b4ff59c50b7d.png" group-title="ช่องกีฬา",MONOMAX 2
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://playid.vercel.app/sports/max2.m3u8
+#https://playid.vercel.app/sports/max2.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX2.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax3.png" group-title="ช่องกีฬา",MONOMAX 3
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://playid.vercel.app/sports/max3.m3u8
+#https://playid.vercel.app/sports/max3.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX3.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax4.png" group-title="ช่องกีฬา",MONOMAX 4
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://playid.vercel.app/sports/max4.m3u8
+#https://playid.vercel.app/sports/max4.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX4.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax-4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Monomax5.png" group-title="ช่องกีฬา",MONOMAX 5
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://playid.vercel.app/sports/max5.m3u8
+#https://playid.vercel.app/sports/max5.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX5.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax-5/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax66ea90a1ebad32bb6.png" group-title="ช่องกีฬา",MONOMAX 6
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://playid.vercel.app/sports/max6.m3u8
+#https://playid.vercel.app/sports/max6.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX6.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_6HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Monomax7db935d467d68a0db.png" group-title="ช่องกีฬา",MONOMAX 7
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://playid.vercel.app/sports/max7.m3u8
+#https://playid.vercel.app/sports/max7.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX7.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_7HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax808a7565af0724b34.png" group-title="ช่องกีฬา",MONOMAX 8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://playid.vercel.app/sports/max8.m3u8
+#https://playid.vercel.app/sports/max8.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX8.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_8HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Monomax9c4b6b7dc06abbfaf.png" group-title="ช่องกีฬา",MONOMAX 9
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://playid.vercel.app/sports/max9.m3u8
+#https://playid.vercel.app/sports/max9.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX9.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_9HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 1
