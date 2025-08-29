@@ -1,38 +1,40 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml, https://www.bevy.be/bevyfiles/thailand.xml, https://www.bevy.be/bevyfiles/thailandpremium.xml refresh="23"
 
+
 ########################################
 กีฬา
 ########################################
+
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax1.png" group-title="ช่องกีฬา",MONOMAX 1
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 #https://playid.vercel.app/sports/max1.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX1.m3u8
-https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/monomax1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Monomax2b468b4ff59c50b7d.png" group-title="ช่องกีฬา",MONOMAX 2
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 #https://playid.vercel.app/sports/max2.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX2.m3u8
-https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/monomax-2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax3.png" group-title="ช่องกีฬา",MONOMAX 3
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 #https://playid.vercel.app/sports/max3.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX3.m3u8
-https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/monomax-3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax4.png" group-title="ช่องกีฬา",MONOMAX 4
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 #https://playid.vercel.app/sports/max4.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX4.m3u8
-https://cdn1.googlecdnforstreaming.live/live/monomax-4/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/monomax-4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Monomax5.png" group-title="ช่องกีฬา",MONOMAX 5
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 #https://playid.vercel.app/sports/max5.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX5.m3u8
-https://cdn1.googlecdnforstreaming.live/live/monomax-5/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/monomax-5/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax66ea90a1ebad32bb6.png" group-title="ช่องกีฬา",MONOMAX 6
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
@@ -76,7 +78,7 @@ https://www.livedoomovies.com:4432/Monomax_Live_9HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 3 
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/epl3/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/epl3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 3 สำรอง
 #EXTVLCOPT:http-referrer=https://dooflixtv.com/
@@ -84,7 +86,7 @@ https://www.livedoomovies.com:4432/Monomax_Live_9HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 4 
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/epl4/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/epl4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 4 สำรอง
 #EXTVLCOPT:http-referrer=https://dooflixtv.com/
@@ -92,7 +94,7 @@ https://www.livedoomovies.com:4432/Monomax_Live_9HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 5 
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/epl5/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/epl5/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 5 สำรอง
 #EXTVLCOPT:http-referrer=https://dooflixtv.com/
@@ -103,7 +105,7 @@ https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truebein1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",beIN1 สำรอง
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein1/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192624Bein2.jpg" group-title="ช่องกีฬา",BeIN2  
 #EXTVLCOPT:http-referrer=https://99dooball.com/
@@ -111,7 +113,7 @@ https://cdn2.aws-live-streaming.com/lsmscore/bein2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",beIN2 สำรอง
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192653Bein3.jpg" group-title="ช่องกีฬา",BeIN3  
 #EXTVLCOPT:http-referrer=https://99dooball.com/
@@ -119,7 +121,7 @@ https://cdn2.aws-live-streaming.com/lsmscore/bein3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="ช่องกีฬา",beIN3 สำรอง
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein3/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192706Bein4.jpg" group-title="ช่องกีฬา",BeIN4  
 #EXTVLCOPT:http-referrer=https://99dooball.com/
@@ -127,7 +129,7 @@ https://cdn2.aws-live-streaming.com/lsmscore/bein4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" group-title="ช่องกีฬา",beIN4 สำรอง
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein4/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192717Bein5.jpg" group-title="ช่องกีฬา",BeIN5  
 #EXTVLCOPT:http-referrer=https://99dooball.com/
@@ -135,7 +137,7 @@ https://cdn2.aws-live-streaming.com/lsmscore/bein5/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" group-title="ช่องกีฬา",beIN5 สำรอง
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein5/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein5/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192728Bein6.jpg" group-title="ช่องกีฬา",BeIN6  
 #EXTVLCOPT:http-referrer=https://99dooball.com/
@@ -143,7 +145,7 @@ https://cdn2.aws-live-streaming.com/lsmscore/bein6/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" group-title="ช่องกีฬา",beIN6 สำรอง
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein6/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein6/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418195754Bein7.jpg" group-title="ช่องกีฬา",BeIN7  
 #EXTVLCOPT:http-referrer=https://99dooball.com/
@@ -151,19 +153,19 @@ https://cdn2.aws-live-streaming.com/lsmscore/bein7/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" group-title="ช่องกีฬา",beIN7 สำรอง
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein7/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein7/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" group-title="ช่องกีฬา",beIN SPORTS 8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein8/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein8/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" group-title="ช่องกีฬา",beIN SPORTS 9
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein9/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein9/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp" group-title="ช่องกีฬา",beIN SPORTS 10
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein10/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein10/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องกีฬา",True Sports 1
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -188,59 +190,69 @@ https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 1
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/trueballthai1/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 2
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/trueballthai2/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 3
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/trueballthai3/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 4
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/trueballthai4/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 5
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/trueballthai5/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai5/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 6
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/trueballthai6/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai6/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 7
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/trueballthai7/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai7/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/trueballthai8/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai8/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 9
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/trueballthai9/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai9/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 10
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/trueballthai10/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai10/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/SPOTV01_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 1-1
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/spotv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv สำรอง
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 1-2
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/spotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/SPOTV01_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2-1
 #EXTVLCOPT:http-referrer=https://doofootball.world/
 https://dolive.thaim3u.com/1GJGat3WLPyalfb3nQLBiNNpLYqS1JXd/true-spotv-2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2 สำรอง
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2-2
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/spotv2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012847.png" group-title="ช่องกีฬา",Hisport HD
 http://49.0.64.96:8007/HiSports
@@ -252,9 +264,11 @@ https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueGOLF.m3u8
 #EXTVLCOPT:http-referrer=https://playidtv2.github.io/
 https://playidtv2.github.io/m3u/stream/02_TennisHD_720p.m3u8
 
+
 ########################################
 ไทยพรีเมียร์ลีค
 ########################################
+
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS1.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 1
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
@@ -306,9 +320,28 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL009/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL010/HLS/TL010.m3u8
 
+
 ########################################
 ความบันเทิง
 ########################################
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716339097.png" group-title="ความบันเทิง",AMC
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/amc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="ความบันเทิง",AFN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+http://wandering-oldman.github.io/document/afn.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703829940.png" group-title="ความบันเทิง",ASIAN Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786799.png" group-title="ความบันเทิง",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703686191.png" group-title="ความบันเทิง",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -330,24 +363,25 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786799.png" group-title="ความบันเทิง",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112791.png" group-title="ความบันเทิง", HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://dkl-c33es.cdn.akamaiz.com/dookeela/hits/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714100677.png" group-title="ความบันเทิง", HITS MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://dkl-c33es.cdn.akamaiz.com/dookeela/hits-movies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720380229.png" group-title="ความบันเทิง",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/truefilm1/playlist.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/truefilm1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720723122.png" group-title="ความบันเทิง",True Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/truefilm2/playlist.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/truefilm2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205850.png" group-title="ความบันเทิง",True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://live-la2.aws-stream.com:9318/v3/DyCL633rcQ4RXkbJPax4tA/1748968009/529698337c6da588fd3e3a4d39815d28/KTsN5TVsVv2GTfGI_uIGyw/1748989589/live/vx-origin/hd-asianmore_720/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/trueasianmore/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719803882.png" group-title="ความบันเทิง",HITS MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -355,35 +389,17 @@ http://wandering-oldman.github.io/movies/true-movie-hits.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706539896.png" group-title="ความบันเทิง",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits/playlist.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/truethaifilm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title="ความบันเทิง",True Film Asian
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title="ความบันเทิง",True Film Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-http://wandering-oldman.github.io/movies/true-filmasia.m3u8
+#http://wandering-oldman.github.io/movies/true-filmasia.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/truefilmasia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205991.png" group-title="ความบันเทิง",True Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-http://wandering-oldman.github.io/movies/true-series.m3u8
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112791.png" group-title="ความบันเทิง", HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714100677.png" group-title="ความบันเทิง", HITS MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits-movies/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716339097.png" group-title="ความบันเทิง",AMC
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/amc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703829940.png" group-title="ความบันเทิง",ASIAN Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+#http://wandering-oldman.github.io/movies/true-series.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/trueseries/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787733.png" group-title="ความบันเทิง",MONO 29 Plus
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -391,40 +407,39 @@ https://cdn1.googlecdn.live/ballsod24hrs/mono29plus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690264.png" group-title="ความบันเทิง",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#https://playtvthai.github.io/m3u8/movie/rockaction.m3u8
-http://wandering-oldman.github.io/movies/rockaction.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/rock-action/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690283.png" group-title="ความบันเทิง",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#https://playtvthai.github.io/m3u8/movie/rockeng.m3u8
-http://wandering-oldman.github.io/movies/rock-entertain.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/rock-entertainment/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703832225.png" group-title="ความบันเทิง",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #https://playtvthai.github.io/m3u8/movie/warnerth.m3u8
 http://wandering-oldman.github.io/movies/true-warner.m3u8
 
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="ความบันเทิง",afn
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title="ความบันเทิง",True Xzyte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-http://wandering-oldman.github.io/document/afn.m3u8
+http://wandering-oldman.github.io/document/true-xzyte.m3u8
+
+
 
 ########################################
 ความรู้และสารคดี
 ########################################
 
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title="ความรู้และสารคดี",True Xzyte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-http://wandering-oldman.github.io/document/true-xzyte.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112700.png" group-title="ความรู้และสารคดี",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/animal-planet/playlist.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/animal-planet/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705537126.png" group-title="ความรู้และสารคดี",Animal Show
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/animalshow/playlist.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/animalshow/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705537126.png" group-title="ความรู้และสารคดี",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bbc-earth/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714101661.png" group-title="ความรู้และสารคดี",crime + Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -437,8 +452,7 @@ http://wandering-oldman.github.io/document/discovery2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1706112755.png" group-title="ความรู้และสารคดี",Discovery Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/discovery-asia/playlist.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/discovery-asia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1713231372.png" group-title="ความรู้และสารคดี",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -450,32 +464,37 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724166670.png" group-title="ความรู้และสารคดี",True Explore Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueexplorelife/playlist.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/trueexplorelife/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724167268.png" group-title="ความรู้และสารคดี",True Explore SCi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueexploresci/playlist.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/trueexploresci/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724166218.png" group-title="ความรู้และสารคดี",True Explore Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueexplorelife/playlist.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dookeela/trueexplorewild/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705536821.png" group-title="ความรู้และสารคดี",สำรวจโลก
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9beae09ef3674aaa74504593f6f7abb&chunkHttps=true&tmid=V0053&tpbk=TUmZDue8CFcuKnI0&rrt=1750638246&tmod=rfk&rsid=62dc76d2-7ece-4389-9f9e-fd8bdd35ed9f&tuid=2ffcf30913&cdn=redfox-https&tdid=31903fcff2fbf0e7430c5503dbofdvpq&origin=anevia&tfa=f0-fc&tttl=1750724611
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://dkl-c33es.cdn.akamaiz.com/dookeela/samrujlok/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705536991.png" group-title="ความรู้และสารคดี",MySci
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9beae09ef3674aaa74504593f6f7abb&chunkHttps=true&tmid=V0053&tpbk=TUmZDue8CFcuKnI0&rrt=1750638246&tmod=rfk&rsid=62dc76d2-7ece-4389-9f9e-fd8bdd35ed9f&tuid=2ffcf30913&cdn=redfox-https&tdid=31903fcff2fbf0e7430c5503dbofdvpq&origin=anevia&tfa=f0-fc&tttl=1750724611
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://dkl-c33es.cdn.akamaiz.com/dookeela/mysci/playlist.m3u8
+
 
 ########################################
 การ์ตูน ช่องเด็ก
 ########################################
+
+
+#EXTINF:-1 tvg-logo="https://dookeela2.live/uploads/1749743199.png" group-title="การ์ตูน ช่องเด็ก",ANIPLUS Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://dkl-c33es.cdn.akamaiz.com/dookeela/anipluschannel/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela2.live/uploads/1704038567.png" group-title="การ์ตูน ช่องเด็ก",Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://dkl-c33es.cdn.akamaiz.com/dookeela/animax/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705504202.png" group-title="การ์ตูน ช่องเด็ก",Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -490,7 +509,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1704039063.png" group-title="การ์ตูน ช่องเด็ก",cartoonito
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1704039063.png" group-title="การ์ตูน ช่องเด็ก",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
@@ -499,19 +518,20 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://playtvthai.github.io/m3u8/thai/dreamworks.m3u8
 
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1723200736.png" group-title="การ์ตูน ช่องเด็ก",Moonbug
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://dkl-c33es.cdn.akamaiz.com/dookeela/moonbug/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344362.png" group-title="การ์ตูน ช่องเด็ก",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/304/304.mpdd
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344306.png" group-title="การ์ตูน ช่องเด็ก",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720723541.png" group-title="การ์ตูน ช่องเด็ก",True Spark Play
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://playtvthai.github.io/m3u8/thai/truespark.m3u8
 
 
 <html>
