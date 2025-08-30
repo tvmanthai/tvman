@@ -368,15 +368,17 @@ https://dkl-c33es.cdn.akamaiz.com/dookeela/hits/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714100677.png" group-title="ความบันเทิง", HITS MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://dkl-c33es.cdn.akamaiz.com/dookeela/hits-movies/playlist.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/hits-movies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720380229.png" group-title="ความบันเทิง",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://dkl-c33es.cdn.akamaiz.com/dookeela/truefilm1/playlist.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/truefilm1/playlist.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilm1.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720723122.png" group-title="ความบันเทิง",True Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://dkl-c33es.cdn.akamaiz.com/dookeela/truefilm2/playlist.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/truefilm2/playlist.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilm2.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205850.png" group-title="ความบันเทิง",True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -392,13 +394,13 @@ https://dkl-c33es.cdn.akamaiz.com/dookeela/truethaifilm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title="ความบันเทิง",True Film Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#http://wandering-oldman.github.io/movies/true-filmasia.m3u8
-https://dkl-c33es.cdn.akamaiz.com/dookeela/truefilmasia/playlist.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/truefilmasia/playlist.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilmasia.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205991.png" group-title="ความบันเทิง",True Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#http://wandering-oldman.github.io/movies/true-series.m3u8
-https://dkl-c33es.cdn.akamaiz.com/dookeela/trueseries/playlist.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueseries/playlist.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueseries.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787733.png" group-title="ความบันเทิง",MONO 29 Plus
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -406,7 +408,9 @@ https://cdn1.googlecdn.live/ballsod24hrs/mono29plus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690264.png" group-title="ความบันเทิง",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://dkl-c33es.cdn.akamaiz.com/dookeela/rock-action/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#https://dkl-c33es.cdn.akamaiz.com/dookeela/rock-action/playlist.m3u8
+https://cdn1.googlecdn.live/ballsod24hrs/rock-action/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690283.png" group-title="ความบันเทิง",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
