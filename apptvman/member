@@ -146,24 +146,34 @@ https://cdn1.googlecdn.live/ballsod24hrs/bein10/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องกีฬา",True Sports 1
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tsp1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#https://cdn1.googlecdn.live/ballsod24hrs/tsp1/playlist.m3u8
+https://www.livedoomovies.com:4432/02_sport1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ช่องกีฬา",True Sports 2
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tsp2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#https://cdn1.googlecdn.live/ballsod24hrs/tsp2/playlist.m3u8
+https://www.livedoomovies.com:4432/02_sport2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องกีฬา",True Sports 3
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tsp3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#https://cdn1.googlecdn.live/ballsod24hrs/tsp3/playlist.m3u8
+https://www.livedoomovies.com:4432/02_sport3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ช่องกีฬา",True Sports 5
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tsp5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#https://cdn1.googlecdn.live/ballsod24hrs/tsp5/playlist.m3u8
+https://www.livedoomovies.com:4432/02_sport5_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องกีฬา",True Sports 7
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
+https://www.livedoomovies.com:4432/02_sport7_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 1
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -230,6 +240,18 @@ https://dolive.thaim3u.com/1GJGat3WLPyalfb3nQLBiNNpLYqS1JXd/true-spotv-2/playlis
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2-2
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/spotv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/spotv.png" group-title="ช่องกีฬา",SPOTV 1 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/spotv2.png" group-title="ช่องกีฬา",SPOTV 2 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012847.png" group-title="ช่องกีฬา",Hisport HD
 http://49.0.64.96:8007/HiSports
