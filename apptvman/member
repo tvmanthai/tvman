@@ -80,14 +80,14 @@ https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truebein1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",beIN1 สำรอง
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://dkl-c33es.cdn.akamaiz.com/dookeela/bein1/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/warpdooball/bein1/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192624Bein2.jpg" group-title="ช่องกีฬา",BeIN2  
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://cdn2.aws-live-streaming.com/lsmscore/bein2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",beIN2 สำรอง
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-referrer=https://dookeela2.live/
 https://dkl-c33es.cdn.akamaiz.com/dookeela/bein2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192653Bein3.jpg" group-title="ช่องกีฬา",BeIN3  
@@ -95,7 +95,7 @@ https://dkl-c33es.cdn.akamaiz.com/dookeela/bein2/chunks.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/bein3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="ช่องกีฬา",beIN3 สำรอง
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-referrer=https://dookeela2.live/
 https://dkl-c33es.cdn.akamaiz.com/dookeela/bein3/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192706Bein4.jpg" group-title="ช่องกีฬา",BeIN4  
@@ -103,7 +103,7 @@ https://dkl-c33es.cdn.akamaiz.com/dookeela/bein3/chunks.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/bein4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" group-title="ช่องกีฬา",beIN4 สำรอง
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-referrer=https://dookeela2.live/
 https://dkl-c33es.cdn.akamaiz.com/dookeela/bein4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192717Bein5.jpg" group-title="ช่องกีฬา",BeIN5  
@@ -119,7 +119,7 @@ https://dkl-c33es.cdn.akamaiz.com/dookeela/bein5/chunks.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/bein6/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" group-title="ช่องกีฬา",beIN6 สำรอง
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-referrer=https://dookeela2.live/
 https://dkl-c33es.cdn.akamaiz.com/dookeela/bein6/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418195754Bein7.jpg" group-title="ช่องกีฬา",BeIN7  
@@ -127,15 +127,15 @@ https://dkl-c33es.cdn.akamaiz.com/dookeela/bein6/chunks.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/bein7/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" group-title="ช่องกีฬา",beIN7 สำรอง
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-referrer=https://dookeela2.live/
 https://dkl-c33es.cdn.akamaiz.com/dookeela/bein7/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" group-title="ช่องกีฬา",beIN SPORTS 8
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-referrer=https://dookeela2.live/
 https://dkl-c33es.cdn.akamaiz.com/dookeela/bein8/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" group-title="ช่องกีฬา",beIN SPORTS 9
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-referrer=https://dookeela2.live/
 https://dkl-c33es.cdn.akamaiz.com/dookeela/bein9/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp" group-title="ช่องกีฬา",beIN SPORTS 10
@@ -200,7 +200,7 @@ https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
 #https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai9/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 10
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-referrer=https://dookeela2.live/
 #https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai10/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 1
@@ -219,15 +219,15 @@ https://cdn1.googlecdn.live/ballsod24hrs/spotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/SPOTV01_720p/chunklist.m3u8
+https://www.livedoomovies.com:4432/SPOTV02_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2-1
 #EXTVLCOPT:http-referrer=https://doofootball.world/
 https://dolive.thaim3u.com/1GJGat3WLPyalfb3nQLBiNNpLYqS1JXd/true-spotv-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2-2
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://dkl-c33es.cdn.akamaiz.com/dookeela/spotv2/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/spotv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012847.png" group-title="ช่องกีฬา",Hisport HD
 http://49.0.64.96:8007/HiSports
