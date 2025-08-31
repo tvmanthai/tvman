@@ -1,9 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/07/Superman-2025.jpg" group-title="MOVIE", Superman (2025) ซูเปอร์แมน
+https://vod1.stream25.com/Superman-2025-TH.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/05/Thunderbolts-2025.png" group-title="MOVIE", Thunderbolts (2025) ธันเดอร์โบลต์ส
+https://vod1.stream25.com/Thunderbolts-2025-TH.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://bbk100.xyz/media/cache/strip/202508/movie/f6b5286d8c5eff667baadf12968c86d7.webp" group-title="MOVIE", Mission Impossible The Final Reckoning (2025) มิชชั่น อิมพอสซิเบิ้ล ปิดปฏิบัติการล่าพิกัดมรณะ
+https://vod1.stream25.com/Mission-Impossible-The-Final-Reckoning-2025-TH.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/06/F1-The-Movie.jpg" group-title="MOVIE", F1 The Movie (2025) F1 เดอะ มูฟวี่
+https://ezmovie4k.com/cdn/hls/fe383b8e1190316611ba72f60db4898e/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/08/Gold-Rush-Gang.png" group-title="MOVIE", Gold Rush Gang (2025) เขาชุมทอง คะนองชุมโจร
 https://vod1.stream25.com/Gold-Rush-Gang-2025-TH.mp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://bbk100.xyz/media/cache/strip/202508/movie/9ab128901b7f6be60b0ef271214dc252.jpg" group-title="MOVIE", Snoopy Presents: A Summer Musical (2025)
-https://vod1.stream25.com/Graveyard-Horror-2025-tha.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/08/Blood-Brothers-Bara-Naga.png" group-title="MOVIE", Blood Brothers: Bara Naga (2025) เลือดเดือด ฝ่าองค์กรทมิฬ
+https://vod1.stream25.com/Blood-Brothers-Bara-Naga-2025-TH.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/08/Night-Always-Comes-2025.png" group-title="MOVIE", Night Always Comes (2025) คืนวันอันตราย
+http://sg-1.podzone.org:1935/moviesuper/Night_Always_Comes_2025/Night_Always_Comes_2025_TH_1080p.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bbk100.xyz/media/cache/strip/202508/movie/9ab128901b7f6be60b0ef271214dc252.jpg" group-title="MOVIE", Graveyard Horror (2025) 4 ป่าช้า
 https://vod1.stream25.com/Graveyard-Horror-2025-tha.mp4.m3u8
