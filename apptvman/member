@@ -10,13 +10,13 @@
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 #https://dkl-c33es.cdn.akamaiz.com/dookeela/monomax1/chunks.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX1.m3u8
-https://la1.ais-cloud.live:9317/v3/hpC1Mqrm5EmPrDSDDfZ4TQ/1756727674/24941eb22800c0f663ce564d68e6a97d/DRPyQVMCKRVY0pLsYMTIcA/1756749254/live/lx-origin/uflix-max01-fhd_1080/chunks.m3u8
+https://s3a-c.ais-cloud.site:9301/v3/hpC1Mqrm5EmPrDSDDfZ4TQ/1756727674/24941eb22800c0f663ce564d68e6a97d/DRPyQVMCKRVY0pLsYMTIcA/1756749254/live/lx-origin/uflix-max01-fhd_1080/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Monomax2b468b4ff59c50b7d.png" group-title="ช่องกีฬา",MONOMAX 2
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 #https://dkl-c33es.cdn.akamaiz.com/dookeela/monomax-2/chunks.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX2.m3u8
-https://la1.ais-cloud.live:9317/v3/_LoxmA2CifHYlW_l3QcDHA/1756727858/24941eb22800c0f663ce564d68e6a97d/9VHcwrT6ohX4iyUrwAydmg/1756749438/live/lx-origin/uflix-max02-hd_720/chunks.m3u8
+https://s3a-c.ais-cloud.site:9301/v3/_LoxmA2CifHYlW_l3QcDHA/1756727858/24941eb22800c0f663ce564d68e6a97d/9VHcwrT6ohX4iyUrwAydmg/1756749438/live/lx-origin/uflix-max02-hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax3.png" group-title="ช่องกีฬา",MONOMAX 3
 #EXTVLCOPT:http-referrer=https://warpdooball.net
