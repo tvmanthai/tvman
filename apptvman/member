@@ -239,8 +239,9 @@ https://cdn1.googlecdn.live/ballsod24hrs/spotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-#https://www.livedoomovies.com:4432/SPOTV02_720p/chunklist.m3u8
-https://la1.ais-cloud.live:9318/v3/V-Z4PAmruKLRB5BdYpgvjg/1756730503/24941eb22800c0f663ce564d68e6a97d/wOPYZqkBjnAHDkK_kpCTVw/1756752083/live/vx-origin/uflix-spotv2_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://www.livedoomovies.com:4432/SPOTV02_720p/chunklist.m3u8
+https://11futmqqayf.nk-i.com/doolive4k-tv/true-spotv-1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
 #EXTVLCOPT:http-referrer=https://doofootball.world/
