@@ -68,26 +68,24 @@ https://r3-sn-5fo-c37ed248.googleuservideo.com:8443/Premier3_720/index.m3u8?toke
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 4 
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 #https://dkl-c33es.cdn.akamaiz.com/dookeela/tpf4/chunks.m3u8
-#https://cdn1.googlecdn.live/ballsod24hrs/tpf4/playlist.m3u8
-https://r3-sn-5fo-c37ed248.googleuservideo.com:8443/Premier4_720/index.m3u8?token=c2VydmVyX3RpbWU9MTAvMTYvMjAyNCAwMTo0MDozNiBBTSZoYXNoX3ZhbHVlPVU2b1J3VW5OaHdub1pUbjJTRi9YdGc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0wJmlkPXdlYi0xMzg1NzU=
+https://cdn1.googlecdn.live/ballsod24hrs/tpf4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp" group-title="ช่องกีฬา",True Premier Football HD 5 
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 #https://dkl-c33es.cdn.akamaiz.com/dookeela/tpf5/chunks.m3u8
-#https://cdn1.googlecdn.live/ballsod24hrs/tpf5/playlist.m3u8
-https://r3-sn-5fo-c37ed248.googleuservideo.com:8443/Premier5_720/index.m3u8?token=c2VydmVyX3RpbWU9MTAvMTYvMjAyNCAwMTo0MDozNiBBTSZoYXNoX3ZhbHVlPVU2b1J3VW5OaHdub1pUbjJTRi9YdGc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0wJmlkPXdlYi0xMzg1NzU=
+https://cdn1.googlecdn.live/ballsod24hrs/tpf5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192615Bein1.jpg" group-title="ช่องกีฬา",BeIN1  
 #EXTVLCOPT:http-referrer=https://dooball99.live/
 https://github.com/BONDdata/m3u8/raw/refs/heads/main/truebein1.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/beinsport1.m3u8
-#https://0gnrva5iuch.nogimmickclassics.com/dooball99.live/siamsport-1/playlist.m3u8
+https://0gnrva5iuch.nogimmickclassics.com/dooball99.live/siamsport-1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192624Bein2.jpg" group-title="ช่องกีฬา",BeIN2  
 #EXTVLCOPT:http-referrer=https://dooball99.live/
 https://github.com/BONDdata/m3u8/raw/refs/heads/main/truebein2.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/beinsport2.m3u8
-#https://h6fv5dezx22z30a.twscritic.com/dooball99.live/siamsport-2/playlist.m3u8
+https://h6fv5dezx22z30a.twscritic.com/dooball99.live/siamsport-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",beIN2 สำรอง
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
