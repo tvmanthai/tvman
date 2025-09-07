@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/09/Tomb-Watcher-2025.jpg" group-title="MOVIE", Tomb Watcher (2025) สุสานคนเป็น
+https://vod1.stream25.com/Tomb-Watcher-2025-TH.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/09/Ice-Road_-Vengeance_.jpg" group-title="MOVIE", Ice Road: Vengeance (2025) เหยียบระห่ำ ฝ่านรกเยือกแข็ง: แค้นมิดไมล์
+https://vod1.stream25.com/Ice-Road-Vengeance-2025-TH.mp4
+
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/08/I-Know-What-You-Did-Last-Summer-2025.png" group-title="MOVIE", I Know What You Did Last Summer (2025) ซัมเมอร์สยอง..ต้องหวีด
+https://m1free.inwstream.com:1936/movie4/I_Know_What_You_Did_Last_Summer_2025/I_Know_What_You_Did_Last_Summer_2025_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/09/Star-Trek_-Section-31_.jpg" group-title="MOVIE", Star Trek: Section 31 (2025) สตาร์เทรค: เซคชั่น 31
+https://m1free.inwstream.com:1936/movie4/Star_Trek_Section_31_2025/Star_Trek_Section_31_2025_TH_1080p.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/06/M3GAN-2-0.jpg" group-title="MOVIE", M3GAN 2.0 (2025) เมแกน 2.0
 https://m1free.inwstream.com:1936/movie4/M3GAN_2_0_2025/M3GAN_2_0_2025_th_1080.mp4/playlist.m3u8
 
