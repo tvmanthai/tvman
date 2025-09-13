@@ -450,7 +450,9 @@ http://wandering-oldman.github.io/document/true-xzyte.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112700.png" group-title="ความรู้และสารคดี",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/animal-planet/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705537126.png" group-title="ความรู้และสารคดี",Animal Show
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -458,7 +460,8 @@ http://wandering-oldman.github.io/document/true-xzyte.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1736064117.png" group-title="ความรู้และสารคดี",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/bbc-earth/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/bbcearth.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714101661.png" group-title="ความรู้และสารคดี",crime + Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -471,7 +474,9 @@ http://wandering-oldman.github.io/document/discovery2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1706112755.png" group-title="ความรู้และสารคดี",Discovery Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://dkl-c33es.cdn.akamaiz.com/dookeela/discovery-asia/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1713231372.png" group-title="ความรู้และสารคดี",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -483,15 +488,19 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724166670.png" group-title="ความรู้และสารคดี",True Explore Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://dkl-c33es.cdn.akamaiz.com/dookeela/trueexplorelife/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://e113.hellotherepadawan.org/v5/4ERgFNzLugJUuyaBYiXE9Q/1756776501/c9f3cb72feca0d48906cebc62d3b3dd7/i614W8nl7T1Posw4E9lMOg/1756787181/live/vx-origin/sd-explife_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724167268.png" group-title="ความรู้และสารคดี",True Explore SCi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://dkl-c33es.cdn.akamaiz.com/dookeela/trueexploresci/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://e113.hellotherepadawan.org/v5/4ERgFNzLugJUuyaBYiXE9Q/1756776501/c9f3cb72feca0d48906cebc62d3b3dd7/i614W8nl7T1Posw4E9lMOg/1756787181/live/vx-origin/sd-expsci_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724166218.png" group-title="ความรู้และสารคดี",True Explore Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://dkl-c33es.cdn.akamaiz.com/dookeela/trueexplorewild/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://e113.hellotherepadawan.org/v5/4ERgFNzLugJUuyaBYiXE9Q/1756776501/c9f3cb72feca0d48906cebc62d3b3dd7/i614W8nl7T1Posw4E9lMOg/1756787181/live/vx-origin/sd-expwild_720/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705536821.png" group-title="ความรู้และสารคดี",สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
