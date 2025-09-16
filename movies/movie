@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img.fw4free.com/postor/202509110508194lvzm8pjOraE1rFZ0R60WCDFTwl.jpg" group-title="MOVIE", Fast Racing Jazz (2025) หลวงพี่แจ๊สโคตรซิ่ง
+https://m1free.inwstream.com:1936/movie4/Fast_Racing_Jazz_2025/Fast_Racing_Jazz_2025_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/08/Weapons-2025-TS-v1.png" group-title="MOVIE", Weapons (2025) เวเพินส์
+https://m1free.inwstream.com:1936/movie4/Weapons_2025/Weapons_2025_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/09/You-Are-the-Apple-of-My-Eye-2025.jpg" group-title="MOVIE", You Are the Apple of My Eye (2025) รักเรา ยังจำได้ไหม?
+https://m1free.inwstream.com:1936/movie4/You_Are_the_Apple_of_My_Eye_2025/You_Are_the_Apple_of_My_Eye_2025_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2024/05/Arcadian-2024.jpg" group-title="MOVIE", Arcadian (2024)
+https://m1free.inwstream.com:1936/movie4/Arcadian_2024/Arcadian_2024_TH_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2024/11/Elevation.jpg" group-title="MOVIE", Elevation (2024) อสุรกายขย้ำ 8000 ฟุต
+https://vod1.stream25.com/Elevation-2024-SUB.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/09/Inspector-Zende-2025.jpg" group-title="MOVIE", Inspector Zende (2025) สารวัตรซ่าปะทะทรชน
+https://m1free.inwstream.com:1936/movie4/Inspector_Zende_2025/Inspector_Zende_2025_TH_1080p.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/09/Tomb-Watcher-2025.jpg" group-title="MOVIE", Tomb Watcher (2025) สุสานคนเป็น
 https://vod1.stream25.com/Tomb-Watcher-2025-TH.mp4.m3u8
 
