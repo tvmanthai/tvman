@@ -148,33 +148,42 @@ https://cdn1.googlecdn.live/ballsod24hrs/bein9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องกีฬา",True Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://live3.inwstream.com/transcoder_F1/truesports1_inwiptv.stream/chunks.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp1/playlist.m3u8
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/true1.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ช่องกีฬา",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://live3.inwstream.com/transcoder_F1/truesports2_inwiptv.stream/chunks.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp2/playlist.m3u8
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/true2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องกีฬา",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://live3.inwstream.com/transcoder_F1/truesports3_inwiptv.stream/chunks.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp3/playlist.m3u8
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/true3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp" group-title="ช่องกีฬา",True Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://live3.inwstream.com/transcoder_F1/truesports4_inwiptv.stream/chunks.m3u8
+https://cdn1.googlecdn.live/ballsod24hrs/tsp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ช่องกีฬา",True Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://live3.inwstream.com/transcoder_F1/truesports5_inwiptv.stream/chunks.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp5/playlist.m3u8
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/true5.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องกีฬา",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://live3.inwstream.com/transcoder_F1/truesports7_inwiptv.stream/chunks.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/true7.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 1
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -410,7 +419,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilm1.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.pn" group-title="ความบันเทิง",True Film 2
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ความบันเทิง",True Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilm2.m3u8
 
@@ -426,13 +435,11 @@ https://live3.inwstream.com/transcoder_F1/truemoviehits_inwiptv.stream/chunks.m3
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ความบันเทิง",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/truethaifilm/playlist.m3u8
 #https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truethaifilm.m3u8
 https://live3.inwstream.com/transcoder_F1/truethaifilm_inwiptv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title="ความบันเทิง",True Film Asia
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ความบันเทิง",True Film Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/truefilmasia/playlist.m3u8
 #https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilmasia.m3u8
 https://live3.inwstream.com/transcoder_F1/truefilmaisa_inwiptv.stream/chunks.m3u8
 
