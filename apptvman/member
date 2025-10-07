@@ -441,7 +441,7 @@ https://live3.inwstream.com/transcoder_F1/truethaifilm_inwiptv.stream/chunks.m3u
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ความบันเทิง",True Film Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilmasia.m3u8
-https://live3.inwstream.com/transcoder_F1/truefilmaisa_inwiptv.stream/chunks.m3u8
+https://live3.inwstream.com/transcoder_F1/truefilmasia_inwiptv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ความบันเทิง",True Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
