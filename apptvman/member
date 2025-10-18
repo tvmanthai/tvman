@@ -23,7 +23,8 @@ https://cdn1.googlecdn.live/4k/monomax-2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax3.png" group-title="ช่องกีฬา",MONOMAX 3
 #EXTVLCOPT:http-referrer=https://footballsod.live/
-https://live3.inwstream.com/transcoder_F1/aismonomaxsports3_inwiptv.stream/chunks.m3u8
+https://fragile-mahogany.usetheforceluke.online:9318/v3/9790KvbkdTEsCuxo4y_YWQ/1760809543/24941eb22800c0f663ce564d68e6a97d/wMmJPbmGWYm1qe7cFn2dpg/1760831123/live/lx-origin/uflix-max03-fhd_1080/chunks.m3u8
+#https://live3.inwstream.com/transcoder_F1/aismonomaxsports3_inwiptv.stream/chunks.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX3.m3u8
 https://cdn1.googlecdn.live/4k/monomax-3/chunks.m3u8
 
@@ -86,14 +87,12 @@ https://r3-sn-5fo-c37ed248.googleuservideo.com:8443/Premier5_720/index.m3u8?toke
 
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192615Bein1.jpg" group-title="ช่องกีฬา",BeIN1  
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://live3.inwstream.com/transcoder_F1/bein1_inwiptv.stream/chunks.m3u8
-#https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/beinsport1.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truebeinsport1.m3u8
 https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192624Bein2.jpg" group-title="ช่องกีฬา",BeIN2  
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://live3.inwstream.com/transcoder_F1/bein2_inwiptv.stream/chunks.m3u8
-#https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/beinsport2.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truebeinsport2.m3u8
 https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",beIN2 สำรอง
@@ -102,7 +101,7 @@ https://cdn1.googlecdn.live/ballsod24hrs/bein2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192653Bein3.jpg" group-title="ช่องกีฬา",BeIN3  
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://live3.inwstream.com/transcoder_F1/bein3_inwiptv.stream/chunks.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truebeinsport3.m3u8
 https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="ช่องกีฬา",beIN3 สำรอง
@@ -156,7 +155,7 @@ https://cdn1.googlecdn.live/ballsod24hrs/bein9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องกีฬา",True Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://live3.inwstream.com/transcoder_F1/truesports1_inwiptv.stream/chunks.m3u8
+#https://live3.inwstream.com/transcoder_F1/truesports1_inwiptv.stream/chunks.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp1/playlist.m3u8
 
 
@@ -164,33 +163,33 @@ https://cdn1.googlecdn.live/ballsod24hrs/tsp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ช่องกีฬา",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://live3.inwstream.com/transcoder_F1/truesports2_inwiptv.stream/chunks.m3u8
+#https://live3.inwstream.com/transcoder_F1/truesports2_inwiptv.stream/chunks.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องกีฬา",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://live3.inwstream.com/transcoder_F1/truesports3_inwiptv.stream/chunks.m3u8
+#https://live3.inwstream.com/transcoder_F1/truesports3_inwiptv.stream/chunks.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp" group-title="ช่องกีฬา",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://live3.inwstream.com/transcoder_F1/truesports4_inwiptv.stream/chunks.m3u8
+#https://live3.inwstream.com/transcoder_F1/truesports4_inwiptv.stream/chunks.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ช่องกีฬา",True Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://live3.inwstream.com/transcoder_F1/truesports5_inwiptv.stream/chunks.m3u8
+#https://live3.inwstream.com/transcoder_F1/truesports5_inwiptv.stream/chunks.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp5/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องกีฬา",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://live3.inwstream.com/transcoder_F1/truesports7_inwiptv.stream/chunks.m3u8
+#https://live3.inwstream.com/transcoder_F1/truesports7_inwiptv.stream/chunks.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 1
@@ -235,7 +234,7 @@ https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://live3.inwstream.com/transcoder_F1/spotv1_inwiptv.stream/chunks.m3u8
+http://wandering-oldman.github.io/sport2238/spotv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 1
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -243,7 +242,7 @@ https://cdn1.googlecdn.live/ballsod24hrs/spotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://live3.inwstream.com/transcoder_F1/spotv2_inwiptv.stream/chunks.m3u8
+http://wandering-oldman.github.io/sport2238/spotv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -361,9 +360,10 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/AIS9.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://live1.inwstream.com/transcoder_F1/playsports9_inwiptv.stream/chunks.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL109/HLS/TL109.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS10.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 10
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://live1.inwstream.com/transcoder_F1/playsports10_inwiptv.stream/chunks.m3u8
 
