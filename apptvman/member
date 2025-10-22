@@ -8,15 +8,14 @@
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax1.png" group-title="ช่องกีฬา",MONOMAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://fragile-mahogany.usetheforceluke.online:9318/v3/PvjviE7GX_Cze2VIWdpVOg/1760793506/24941eb22800c0f663ce564d68e6a97d/VIv1Uvta1yeDO09t1RSxCQ/1760815086/live/lx-origin/uflix-max01-fhd_1080/chunks.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX1.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
+https://cdn1.googlecdnforstreaming.live/dookeela/truefilm1/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Monomax2b468b4ff59c50b7d.png" group-title="ช่องกีฬา",MONOMAX 2
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://fragile-mahogany.usetheforceluke.online:9318/v3/piy_zrzutNMrAghkoQ_LtQ/1760793549/24941eb22800c0f663ce564d68e6a97d/z5fovczUaSZbH5Jt8JIuYg/1760815129/live/lx-origin/uflix-max02-fhd_1080/chunks.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX2.m3u8
 https://cdn1.googlecdnforstreaming.live/livemonomax-2/chunks.m3u8
 
