@@ -255,8 +255,9 @@ https://cdn1.googlecdn.live/ballsod24hrs/spotv/playlist.m3u8
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/spotv2-th-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/spotv2/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/spotv2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotv.png" group-title="ช่องกีฬา",SPOTV 1 HD
@@ -271,11 +272,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
-#EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotv_2.png" group-title="ช่องกีฬา",SPOTV 2 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012847.png" group-title="ช่องกีฬา",Hisport HD
 http://49.0.64.96:8007/HiSports
@@ -292,37 +288,65 @@ https://playidtv2.github.io/m3u/stream/02_TennisHD_720p.m3u8
 ดูบอลต่างประเทศ
 ########################################
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-1.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 1
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="⚽ฟุตบอลต่างประเทศ",HUB PREMIER 2
-http://trendystream.me:80/play/live.php?mac=00:1A:79:0D:A1:24&stream=1903776&extension=ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231.m3u8
+
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 2
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112229
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112229.m3u8
+
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 2 4K
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112230
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112230.m3u8
+
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-3.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 3
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112228
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112228.m3u8
+
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/hub-4.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 4
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112227
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112227.m3u8
+
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-5.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 5
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112226
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112226.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122" group-title="⚽ฟุตบอลต่างประเทศ",Now HK Premier Sports 1
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112200.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_170_122" group-title="⚽ฟุตบอลต่างประเทศ",Now HK Premier Sports 2
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112194
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112194.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_170_122" group-title="⚽ฟุตบอลต่างประเทศ",Now HK Premier Sports 3
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112199
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112199.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_170_122" group-title="⚽ฟุตบอลต่างประเทศ",Now HK Premier Sports 4
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112198
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112198.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_170_122" group-title="⚽ฟุตบอลต่างประเทศ",Now HK Premier Sports 5
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112197
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112197.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_170_122" group-title="⚽ฟุตบอลต่างประเทศ",Now HK Premier Sports 6
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112196
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112196.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_170_122" group-title="⚽ฟุตบอลต่างประเทศ",Now Sports 4K 1
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/118746
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/118746.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_170_122" group-title="⚽ฟุตบอลต่างประเทศ",Now Sports 4k 2
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/118745
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/118745.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch613_170_122" group-title="⚽ฟุตบอลต่างประเทศ",Now Sports 4k 3
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/118744
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/118744.m3u8
+
 
 ########################################
 ไทยพรีเมียร์ลีค
