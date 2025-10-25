@@ -289,7 +289,7 @@ https://playidtv2.github.io/m3u/stream/02_TennisHD_720p.m3u8
 ########################################
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-1.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112231.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
