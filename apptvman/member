@@ -280,10 +280,12 @@ https://playidtv2.github.io/m3u/stream/02_TennisHD_720p.m3u8
 ########################################
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-1.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://github.com/udzaa2238/hub-sport/raw/refs/heads/main/tv_greatstar-hub_premier-1.m3u8
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112231.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://github.com/udzaa2238/hub-sport/raw/refs/heads/main/tv_greatstar-hub_premier-2.m3u8
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112229.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 2 4K
@@ -292,14 +294,17 @@ http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112230.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-3.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://github.com/udzaa2238/hub-sport/raw/refs/heads/main/tv_greatstar-hub_premier-3.m3u8
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112228.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/hub-4.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://github.com/udzaa2238/hub-sport/raw/refs/heads/main/tv_greatstar-hub_premier-4.m3u8
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112227.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-5.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://github.com/udzaa2238/hub-sport/raw/refs/heads/main/tv_greatstar-hub_premier-5.m3u8
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112226.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122" group-title="⚽ฟุตบอลต่างประเทศ",Now HK Premier Sports 1
