@@ -202,46 +202,6 @@ https://cdn1.googlecdn.live/ballsod24hrs/tsp5/playlist.m3u8
 #https://live3.inwstream.com/transcoder_F1/truesports7_inwiptv.stream/chunks.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 1
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 2
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 3
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai3/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 4
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 5
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai5/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 6
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai6/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 7
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai7/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 8
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai8/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 9
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai9/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp" group-title="ช่องกีฬา",True Ball Thai 10
-#EXTVLCOPT:http-referrer=https://dookeela2.live/
-#https://dkl-c33es.cdn.akamaiz.com/dookeela/trueballthai10/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/spotv-th1-4.m3u8
@@ -440,7 +400,8 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/AIS9.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL109/HLS/TL109.m3u8
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/safeais9.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/AIS10.png" group-title="⚽ไทยพรีเมียร์",PLAY SPORTS 10
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -580,8 +541,7 @@ http://wandering-oldman.github.io/sport/crime-investigation.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ความรู้และสารคดี",Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#http://wandering-oldman.github.io/document/discovery2.m3u8
-https://live3.inwstream.com/transcoder_F1/discovery_inwiptv.stream/chunks.m3u8
+https://github.com/Thep13/M3u/raw/refs/heads/main/M3U8%202.0/Tbdis.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ความรู้และสารคดี",Discovery Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
