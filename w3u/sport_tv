@@ -14,7 +14,7 @@
 
 {"name": "MONOMAX 1-B",
 "image": "https://img5.pic.in.th/file/secure-sv1/Monomax1.png",
-"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX1.m3u8",
+"url": https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/mo1.m3u8",
 "referer":"https://github.com/",
 "playInNatPlayer": "true"},
 
@@ -26,7 +26,7 @@
 
 {"name": "MONOMAX 2-B",
 "image": "https://img2.pic.in.th/pic/Monomax2b468b4ff59c50b7d.png",
-"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX2.m3u8",
+"url": https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/mo2.m3u8",
 "referer":"https://github.com/",
 "playInNatPlayer": "true"},
 
@@ -38,7 +38,7 @@
 
 {"name": "MONOMAX 3-B",
 "image": "https://img5.pic.in.th/file/secure-sv1/Monomax3.png",
-"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX3.m3u8",
+"url": "https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/mo3.m3u8",
 "referer":"https://github.com/",
 "playInNatPlayer": "true"},
 
@@ -50,13 +50,13 @@
 
 {"name": "MONOMAX 4-B",
 "image": "https://img5.pic.in.th/file/secure-sv1/Monomax4.png",
-"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX4.m3u8",
+"url": "https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/mo4.m3u8",
 "referer":"https://github.com/",
 "playInNatPlayer": "true"},
 
 {"name": "MONOMAX 5-A",
 "image": "https://img2.pic.in.th/pic/Monomax5.png",
-"url": "https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX5.m3u8",
+"url": "https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/mo5.m3u8",
 "referer":"https://github.com/",
 "playInNatPlayer": "true"},
 
