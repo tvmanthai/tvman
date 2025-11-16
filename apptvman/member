@@ -5,6 +5,20 @@
 กีฬา
 ########################################
 
+#EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="ช่องกีฬา",Live MAX 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=:https://xn--l3clf0bb4at.live/
+https://slave02.appball.vip/hls/Spd6bMoHTitE9OcapTj3_A/1763324889/bein10.m3u8
+
+#EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="ช่องกีฬา",Live MAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=:https://xn--l3clf0bb4at.live/
+https://slave03.appball.vip/hls/t7WwvGmpEVrStdNAaJ54SA/1763324921/vip.m3u8
+
+#EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="ช่องกีฬา",Live MAX 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://168rich.tv/
+https://slave02.appball.vip/hls/kyrb3ZjCsNUQ-M08FLODjQ/1763324971/bein8.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax1.png" group-title="ช่องกีฬา",MONOMAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
