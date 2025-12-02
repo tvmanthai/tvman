@@ -293,31 +293,31 @@ https://github.com/udzaa2238/intersport-hottest/raw/refs/heads/main/hottest-tnt-
 
 #EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/sky-sport-F1-logo.png" group-title="⚽ฟุตบอลต่างประเทศ",SKYSPORT F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://github.com/udzaa2238/intersport-hottest/raw/refs/heads/main/hottest-NOWTV-skysport-F1.m3u8
+https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/skysport-F1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/Sky_Sport_Action_logo.png" group-title="⚽ฟุตบอลต่างประเทศ",SKYSPORT ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://github.com/udzaa2238/intersport-hottest/raw/refs/heads/main/hottest-NOWTV-skysport-action.m3u8
+https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/skysport-action.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/sky-sports-cricket-logo.png" group-title="⚽ฟุตบอลต่างประเทศ",SKYSPORT CRICKET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://github.com/udzaa2238/intersport-hottest/raw/refs/heads/main/hottest-NOWTV-skysport-cricket.m3u8
+https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/skysport-cricket.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/sky-sports-football-logo.png" group-title="⚽ฟุตบอลต่างประเทศ",SKYSPORT FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://github.com/udzaa2238/intersport-hottest/raw/refs/heads/main/hottest-NOWTV-skysport-football.m3u8
+https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/skysport-football.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/Sky_Sport_Golf-Logo.png" group-title="⚽ฟุตบอลต่างประเทศ",SKYSPORT GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://github.com/udzaa2238/intersport-hottest/raw/refs/heads/main/hottest-NOWTV-skysport-golf.m3u8
+https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/skysport-golf.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/sky-sports-main-event-logo.png" group-title="⚽ฟุตบอลต่างประเทศ",SKYSPORT MAIN EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://github.com/udzaa2238/intersport-hottest/raw/refs/heads/main/hottest-NOWTV-skysport-mainevent.m3u8
+https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/skysport-mainevent.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="⚽ฟุตบอลต่างประเทศ",SKYSPORT PRIMIER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://github.com/udzaa2238/intersport-hottest/raw/refs/heads/main/hottest-NOWTV-skysport-premier.m3u8
+https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/skysport-premier.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-1.png" group-title="⚽ฟุตบอลต่างประเทศ",Hub Premier 1
