@@ -355,7 +355,7 @@ https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/tnt-sport-3.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/tnt-sport-4.m3u8
 
-#EXTINF:-1 tvg-logo="https://d16ia5iwuvax6y.cloudfront.net/uk-images/9ba74f3616cfa69fc8d1fc77f8ae962f.png" group-title="⚽ฟุตบอลต่างประเทศ",TNT SPORT 5
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/dbf92dca-857c-5522-bbc6-2bda4e23ff31.png" group-title="⚽ฟุตบอลต่างประเทศ",TNT SPORT 5
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/tnt-sport-5.m3u8
 
