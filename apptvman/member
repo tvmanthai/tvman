@@ -31,14 +31,14 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/monomax2/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Logo-tv-320x230.png" group-title="ช่องกีฬา",MONOMAX 3
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/monomax3.png" group-title="ช่องกีฬา",MONOMAX 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 https://54fdr4gtr8hdf165sf1s5.live/lnwlive/monomax3/chunks.m3u8
 #https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/fast-monomax3.m3u8
 #https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX3.m3u8
 
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax3.png" group-title="ช่องกีฬา",MONOMAX 3
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/monomax3.png" group-title="ช่องกีฬา",MONOMAX 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8
