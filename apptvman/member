@@ -582,12 +582,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png"" group-title="ความบันเทิง",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/film1/chunks.m3u8
+https://54fdr4gtr8hdf165sf1s5.live/lnwlive/truefilm1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ความบันเทิง",True Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/film2/chunks.m3u8
+https://54fdr4gtr8hdf165sf1s5.live/lnwlive/truefilm2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ความบันเทิง",True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -613,6 +613,10 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/truefilmasia/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 https://54fdr4gtr8hdf165sf1s5.live/lnwlive/trueseries/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="ความบันเทิง",True Xzyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/truexzyte.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ความบันเทิง",MONO 29 Plus
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -643,7 +647,8 @@ http://84.17.40.25/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="ความรู้และสารคดี",Animal Show
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/CHanimals.m3u8
+#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
+https://54fdr4gtr8hdf165sf1s5.live/lnwlive/animalshow/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ความรู้และสารคดี",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -652,7 +657,7 @@ https://github.com/cattviptv2605/documentary/raw/refs/heads/main/bbcearth.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="ความรู้และสารคดี",crime + Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/CHcrime.m3u8
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/crime-Investigation.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ความรู้และสารคดี",Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -660,43 +665,48 @@ https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discovery.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ความรู้และสารคดี",Discovery Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discoveryasia.m3u8
+#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
+https://54fdr4gtr8hdf165sf1s5.live/lnwlive/discoveryasia/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png" group-title="ความรู้และสารคดี",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://github.com/cattviptv2605/documentary/raw/refs/heads/main/history.m3u8
+#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
+https://54fdr4gtr8hdf165sf1s5.live/lnwlive/history/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1729286214.png" group-title="ความรู้และสารคดี",Love Nature 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://github.com/cattviptv2605/documentary/raw/refs/heads/main/lovenature.m3u8
+#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
+https://54fdr4gtr8hdf165sf1s5.live/lnwlive/lovenature4k/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ความรู้และสารคดี",True Explore Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://live2.inwstream.com/transcoder_F1/trueexplorelife_inwiptv.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
+https://54fdr4gtr8hdf165sf1s5.live/lnwlive/trueexplorelife/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ความรู้และสารคดี",True Explore SCi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://live2.inwstream.com/transcoder_F1/trueexploresci_inwiptv.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
+https://54fdr4gtr8hdf165sf1s5.live/lnwlive/trueexploresci/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ความรู้และสารคดี",True Explore Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://live2.inwstream.com/transcoder_F1/trueexplorewild_inwiptv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="ความบันเทิง",True Xzyte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://github.com/cattviptv2605/documentary/raw/refs/heads/main/truexzyte.m3u8
+#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
+https://54fdr4gtr8hdf165sf1s5.live/lnwlive/trueexplorewild/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ความรู้และสารคดี",สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://live3.inwstream.com/transcoder_F1/samrujlok_inwiptv.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
+https://54fdr4gtr8hdf165sf1s5.live/lnwlive/samrujlok/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ความรู้และสารคดี",MySci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://live3.inwstream.com/transcoder_F1/mysci_inwiptv.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
+https://54fdr4gtr8hdf165sf1s5.live/lnwlive/mysci/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ความรู้และสารคดี",ของดี
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://live3.inwstream.com/transcoder_F1/mysci_inwiptv.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
+https://54fdr4gtr8hdf165sf1s5.live/lnwlive/khongdee/chunks.m3u8
 
 ########################################
 การ์ตูน ช่องเด็ก
