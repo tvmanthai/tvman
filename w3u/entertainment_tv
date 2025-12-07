@@ -7,11 +7,11 @@
 {
 "name": "TRUE FILM1 HD",
 "image": "https://img2.pic.in.th/pic/True-Film-1.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/truefilm1",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "TRUE FILM2 HD",
 "image": "https://img5.pic.in.th/file/secure-sv1/True-Film-2.png",
@@ -19,177 +19,172 @@
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "TRUE MOVIE HITS",
 "image": "https://img5.pic.in.th/file/secure-sv1/True-Movie-hits.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/truemoviehits",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "TRUE SERIES",
 "image": "https://img2.pic.in.th/pic/True-Seies.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/trueseries",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "TRUE FILM ASIA",
 "image": "https://img5.pic.in.th/file/secure-sv1/True-Film-Asia.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/truefilmasia",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "TRUE THAI FILM",
 "image": "https://img2.pic.in.th/pic/True-Film-1.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/truethaifilm",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "TRUE ASIAN MORE",
 "image": "https://img2.pic.in.th/pic/True-Asian-More.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/trueasianmore",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "True X-Zyte",
 "image": "https://img5.pic.in.th/file/secure-sv1/True-X-Zyte.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/truex-zyte",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "HITS MOVIES",
 "image": "https://img2.pic.in.th/pic/Hits-Movies.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/hits-movies",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "HITS",
 "image": "https://img2.pic.in.th/pic/Hits.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/hits",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "HBO",
 "image": "https://img2.pic.in.th/pic/logo_hbo.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/hbo",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "HBO HITS",
 "image": "https://img5.pic.in.th/file/secure-sv1/logo_hbo-hits.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/hbo-hits",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "HBO FAMILY",
 "image": "https://img5.pic.in.th/file/secure-sv1/logo_hbo-family.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/hbo-family",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "HBO SIGNATURE",
 "image": "https://img2.pic.in.th/pic/logo_hbo-signature.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/hbo-signature",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "MONO29PLUS",
 "image": "https://img2.pic.in.th/pic/Mono-29-Plus.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/mono29plus",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "3BB ASIAN",
 "image": "https://img5.pic.in.th/file/secure-sv1/Logo_3bbasian.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/3bbasian",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "AMC",
 "image": "https://img2.pic.in.th/pic/Logo_AMC.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/amc",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "PARAMOUNT NETWORK",
 "image": "https://img5.pic.in.th/file/secure-sv1/logo_paramount98347da0c994a9d7.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/paramount-network",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "CINEMAX",
 "image": "https://img2.pic.in.th/pic/logo_Cinemax.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/cinemax",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "ROCK ACTION",
 "image": "https://img2.pic.in.th/pic/Logo_Rockaction.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/rock-action",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "ROCK ENTERTAINMENT",
 "image": "https://img5.pic.in.th/file/secure-sv1/Logo_Rockentertainment.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/rock-entertainment",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "WARNER TV",
 "image": "https://img2.pic.in.th/pic/Logo_Warner.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/warnertv",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
+
 {
 "name": "TLC",
 "image": "https://img5.pic.in.th/file/secure-sv1/TLC.png",
-"imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/tlc",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
 ]}
-
-
-
-
-
