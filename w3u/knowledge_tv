@@ -14,21 +14,19 @@
 },
 
 {
-"name": "DISCOVERY ASIAN ™ ",
+"name": "DISCOVERY ASIAN",
 "image": "https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0",
 "imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/live-tv/discovery-asia",
-"referer": "https://dookeela2.live/live-tv/",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
 
 {
-"name": " ANIMAL SHOW ™ ",
+"name": "ANIMAL SHOW",
 "image": "https://dookeela2.live/live-tv/uploads/1705537126.png",
 "imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/live-tv/animalshow",
-"referer": "https://dookeela2.live/live-tv/",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
@@ -37,11 +35,9 @@
 "name":" Love Nature ™ ",
 "image":"https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_320.webp",
 "url": "https://dookeela2.live/live-tv/live-tv/love-nature-4k",
-"referer": "https://dookeela2.live/live-tv/",
 "referer": "https://dookeela2.live/",
 "playInNatPlayer":"true"
 },
-
 
 {
 "name": "DISCOVERY ™ ",
@@ -59,7 +55,6 @@
 "url": "https://dookeela2.live/live-tv/live-tv/mysci",
 "online": "true",
 "referer": "https://dookeela2.live/live-tv/",
-        "info":"dookeela",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
 
@@ -214,5 +209,6 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
 ]}
+
 
 
