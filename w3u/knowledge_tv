@@ -5,15 +5,13 @@
 "image": "https://cdn-icons-png.freepik.com/512/6458/6458101.png",
 "stations": [
 {
-"name": " ANIMAL PLANET ™ ",
-"image": "https://dl.dropbox.com/s/d55ewtydhd2sabh/animalplanet.png?dl=0",
+"name": "ANIMAL PLANET",
+"image": "https://dookeela2.live/uploads/1706112700.png",
 "imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/live-tv/animal-planet",
-"referer": "https://dookeela2.live/live-tv/",
-"info":"dookeela",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "online": "true"
+"referer": "https://dookeela2.live/",
+"playInNatPlayer":"true"
 },
-
 
 {
 "name": "DISCOVERY ASIAN ™ ",
@@ -21,11 +19,9 @@
 "imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/live-tv/discovery-asia",
 "referer": "https://dookeela2.live/live-tv/",
-        "info":"dookeela",
-        "online": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+"referer": "https://dookeela2.live/",
+"playInNatPlayer":"true"
 },
-
 
 {
 "name": " ANIMAL SHOW ™ ",
@@ -33,8 +29,8 @@
 "imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/live-tv/animalshow",
 "referer": "https://dookeela2.live/live-tv/",
-"info":"dookeela",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "online": "true"
+"referer": "https://dookeela2.live/",
+"playInNatPlayer":"true"
 },
 
 {
@@ -42,9 +38,8 @@
 "image":"https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_320.webp",
 "url": "https://dookeela2.live/live-tv/live-tv/love-nature-4k",
 "referer": "https://dookeela2.live/live-tv/",
-        "info":"dookeela",
-        "online": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+"referer": "https://dookeela2.live/",
+"playInNatPlayer":"true"
 },
 
 
@@ -54,10 +49,8 @@
 "imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/live-tv/discovery",
 "online": "true",
-"referer": "https://dookeela2.live/live-tv/",
-        "info":"dookeela",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-
+"referer": "https://dookeela2.live/",
+},
 
 {
 "name": "MySCI ™ ",
@@ -221,4 +214,5 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
 ]}
+
 
