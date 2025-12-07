@@ -6,110 +6,74 @@
 "stations": [
 {
 "name": "ANIMAX",
-"image": "https://drive.google.com/uc?id=13D4k8WXUEamTNyLBnxIXuLUwAyufJlPW",
+"image": "https://dookeela2.live/uploads/1704038567.png",
 "imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/animax",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
-"referer": "https://dookeela2.live/"
+"referer": "https://dookeela2.live/",
+"playInNatPlayer":"true"
 },
 
 {
 "name": "BOOMERANG",
-"image": "https://drive.google.com/uc?id=13HnDLwtFaR4AZhubjsefg0dbLNVMESvc",
+"image": "https://dookeela2.live/uploads/1705504202.png",
 "url": "https://dookeela2.live/live-tv/boomerang",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
-"referer": "https://dookeela2.live/"
-},
-
-{
-"name": "CARTOON CLUB",
-"image": "https://drive.google.com/uc?id=12yVueRxvMkcSQtJiN4Wd9trNeVipr_QI",
-"imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/cartoonclub",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
-"referer": "https://dookeela2.live/"
-},
-
-{
-"name": "CARTOON NETWORK",
-"image": "https://drive.google.com/uc?id=12hG5px9hcB_bZvLCRp2CBPT3v4nfpJ28",
-"imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/cartoon-network",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
-"referer": "https://dookeela2.live/"
-},
-
-{
-"name": "CARTOONITO",
-"image": "https://drive.google.com/uc?id=12mpXsbWMNxwQbcPg6uUcV2TU688D0Hih",
-"imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/cartoonito",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
-"referer": "https://dookeela2.live/"
+"referer": "https://dookeela2.live/",
+"playInNatPlayer":"true"
 },
 
 {
 "name": "CBEEBIES",
-"image": "https://drive.google.com/uc?id=12TNprqBaMnj4W_qe9bnjlB_kK3rclIWF",
+"image": "https://dookeela2.live/uploads/1709573298.png",
 "imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/cbeebies",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
-"referer": "https://dookeela2.live/"
+"referer": "https://dookeela2.live/",
+"playInNatPlayer":"true"
 },
 
 {
-"name": "DISNEY CHANNEL",
-"image": "https://drive.google.com/uc?id=12Pk3Spd-saNkei1nD33kEVL9sDM2da-E",
+"name": "CARTOON NETWORK",
+"image": "https://dookeela2.live/uploads/1708344243.png",
 "imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/disney-channel",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
-"referer": "https://dookeela2.live/"
+"url": "https://dookeela2.live/live-tv/cartoon-network",
+"referer": "https://dookeela2.live/",
+"playInNatPlayer":"true"
 },
 
 {
-"name": "DISNEY JUNIOR",
-"image": "https://drive.google.com/uc?id=12zTa0-KoiTtEDIKvuPnAfqqqeoL_pX5g",
+"name": "CARTOONITO",
+"image": "https://dookeela2.live/uploads/1704039063.png",
 "imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/disney-junoir",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
-"referer": "https://dookeela2.live/"
-},
-
-{
-"name": "DISNEY XD",
-"image": "https://drive.google.com/uc?id=12uj3o-n47ZfV-JL8RcwMzXsOBj0PqkY9",
-"imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/disneyxd",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
-"referer": "https://dookeela2.live/"
+"url": "https://dookeela2.live/live-tv/cartoonito",
+"referer": "https://dookeela2.live/",
+"playInNatPlayer":"true"
 },
 
 {
 "name": "NICK JR.",
-"image": "https://drive.google.com/uc?id=1291glSjkyZeWJF92zYNVvvtlO9KQOzd0",
+"image": "https://dookeela2.live/uploads/1708344362.png",
 "imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/nickjr",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
-"referer": "https://dookeela2.live/"
+"referer": "https://dookeela2.live/",
+"playInNatPlayer":"true"
 },
 
 {
 "name": "NICKELODEON",
-"image": "https://drive.google.com/uc?id=13At7YypFJpZdpoy1GSPgsFOQRkLpkIYg",
+"image": "https://dookeela2.live/uploads/1708344306.png",
 "imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/nickelodeon",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
-"referer": "https://dookeela2.live/"
+"referer": "https://dookeela2.live/",
+"playInNatPlayer":"true"
 },
-
 {
 "name": "TRUE SPARK PLAY",
-"image": "https://drive.google.com/uc?id=13En0PLhaJJgUS5FtO0VoUYsJI0ytec3U",
+"image": "https://dookeela2.live/uploads/1720723541.png",
 "imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/truesparkplay",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", "desktop": "true",
-"referer": "https://dookeela2.live/"
+"referer": "https://dookeela2.live/",
+"playInNatPlayer":"true"
 },
 ]}
+
 
 
