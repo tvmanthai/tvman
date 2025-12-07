@@ -32,7 +32,7 @@
 },
 
 {
-"name":" Love Nature ™ ",
+"name": "Love Nature",
 "image":"https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_320.webp",
 "url": "https://dookeela2.live/live-tv/live-tv/love-nature-4k",
 "referer": "https://dookeela2.live/",
@@ -40,12 +40,12 @@
 },
 
 {
-"name": "DISCOVERY ™ ",
+"name": "DISCOVERY",
 "image": "https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png",
 "imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/live-tv/discovery",
-"online": "true",
 "referer": "https://dookeela2.live/",
+"playInNatPlayer":"true"
 },
 
 {
@@ -54,7 +54,7 @@
 "imageScale": "fitStart",
 "url": "https://dookeela2.live/live-tv/live-tv/mysci",
 "online": "true",
-"referer": "https://dookeela2.live/live-tv/",
+"referer": "https://dookeela2.live/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
 
@@ -209,6 +209,7 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
 ]}
+
 
 
 
