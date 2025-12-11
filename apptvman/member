@@ -16,12 +16,11 @@ https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax1.png" group-title="ช่องกีฬา",MONOMAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://inwtv.site/
-https://lsv2.inwstream.com/transcoder_F1/aismonomaxsports1_inwiptv.stream/chunks.m3u8
+https://lsv2.inwstream.com/transcoder_F1/aismonomaxsports1_inwiptv.stream/chunks.m3u8?nimblesessionid=1237261&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjA5OjQzIFBNJmhhc2hfdmFsdWU9T3lnUGxkUW93QThqRFA3Vnk1OFhIdz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax1.png" group-title="ช่องกีฬา",MONOMAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
+https://lsv2.inwstream.com/transcoder_F1/aismonomaxsports1_inwiptv.stream/chunks.m3u8?nimblesessionid=1237261&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjA5OjQzIFBNJmhhc2hfdmFsdWU9T3lnUGxkUW93QThqRFA3Vnk1OFhIdz09JnZhbGlkbWludXRlcz0y
 
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Monomax2b468b4ff59c50b7d.png" group-title="ช่องกีฬา",MONOMAX 2
@@ -35,6 +34,10 @@ https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Monomax2b468b4ff59c50b7d.png" group-title="ช่องกีฬา",MONOMAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://lsv1.inwstream.com/transcoder_F1/aismonomaxsports2_inwiptv.stream/chunks.m3u8?nimblesessionid=2639345&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjE3OjAxIFBNJmhhc2hfdmFsdWU9ZE5jUm05RjhjUk05b2dPME5neG1tUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/monomax3.png" group-title="ช่องกีฬา",MONOMAX 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -150,6 +153,7 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein1true/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",BeIN1  
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8
+https://lsv2.inwstream.com/transcoder_F1/true_bein1f1_inwiptv.stream/chunks.m3u8?nimblesessionid=1237622&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjE5OjM5IFBNJmhhc2hfdmFsdWU9Szh2dkZnbzE4bC92OWJOQkQvTGpEUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",BeIN2  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -159,6 +163,7 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein2true/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",BeIN2  
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8
+https://lsv2.inwstream.com/transcoder_F1/true_bein2_inwiptv.stream/chunks.m3u8?nimblesessionid=1237684&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjIxOjIwIFBNJmhhc2hfdmFsdWU9MkFFTml6QW1Lb21Sd1pHbFBIaHBBdz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="ช่องกีฬา",BeIN3  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -168,6 +173,7 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein3true/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="ช่องกีฬา",BeIN3  
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8
+https://lsv2.inwstream.com/transcoder_F1/true_bein3_inwiptv.stream/chunks.m3u8?nimblesessionid=1237986&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjI4OjQ0IFBNJmhhc2hfdmFsdWU9R0Z3RGZBd2hqbU42V2NZNDRweFkvUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" group-title="ช่องกีฬา",beIN4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -177,6 +183,7 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" group-title="ช่องกีฬา",beIN4
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein4/chunks.m3u8
+https://lsv2.inwstream.com/transcoder_F1/true_bein4_inwiptv.stream/chunks.m3u8?nimblesessionid=1237993&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjI4OjU1IFBNJmhhc2hfdmFsdWU9a1luY2hLUTd1OFpQNi8vcmI2ZmhnQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" group-title="ช่องกีฬา",BeIN5  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -186,6 +193,7 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein5/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" group-title="ช่องกีฬา",BeIN5  
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein5/chunks.m3u8
+https://lsv1.inwstream.com/transcoder_F1/true_bein5_inwiptv.stream/chunks.m3u8?nimblesessionid=2639959&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjI5OjEzIFBNJmhhc2hfdmFsdWU9VmZIcC9xSmNEbVJlbFM0bGJlYlFJdz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" group-title="ช่องกีฬา",beIN6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -195,6 +203,7 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein6/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" group-title="ช่องกีฬา",beIN6
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein6/chunks.m3u8
+https://lsv1.inwstream.com/transcoder_F1/true_bein6_inwiptv.stream/chunks.m3u8?nimblesessionid=2639970&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjI5OjIyIFBNJmhhc2hfdmFsdWU9b2d3RlZGZkZvVXMyS2h6UisxZlc5Zz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" group-title="ช่องกีฬา",beIN7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -204,6 +213,7 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein7/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" group-title="ช่องกีฬา",beIN7
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein7/chunks.m3u8
+https://lsv1.inwstream.com/transcoder_F1/true_bein7_inwiptv.stream/chunks.m3u8?nimblesessionid=2639979&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjI5OjI5IFBNJmhhc2hfdmFsdWU9aERiR1FBWDdVM1RVVDFqQ2JQQmI1dz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" group-title="ช่องกีฬา",beIN8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -213,14 +223,17 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" group-title="ช่องกีฬา",beIN8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein8/chunks.m3u8
+https://lsv2.inwstream.com/transcoder_F1/true_bein8_inwiptv.stream/chunks.m3u8?nimblesessionid=1238022&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjI5OjMyIFBNJmhhc2hfdmFsdWU9WkhLcVBLR3pxUDZZRGZZSG9vVDA1dz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" group-title="ช่องกีฬา",beIN9
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein9/chunks.m3u8
+https://lsv2.inwstream.com/transcoder_F1/true_bein9_inwiptv.stream/chunks.m3u8?nimblesessionid=1238026&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjI5OjM1IFBNJmhhc2hfdmFsdWU9YndTOG50dXRKcjd2ZitOYlR3V2xFUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp" group-title="ช่องกีฬา",beIN10
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein10/chunks.m3u8
+https://lsv1.inwstream.com/transcoder_F1/true_bein10_inwiptv.stream/chunks.m3u8?nimblesessionid=2639984&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjI5OjM4IFBNJmhhc2hfdmFsdWU9T1RBVExSZnhqbkxlUENEYlJSZVlZdz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องกีฬา",True Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -274,6 +287,7 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/spotv1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 1
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/spotv/playlist.m3u8
+https://lsv1.inwstream.com/transcoder_F1/spotv1_inwiptv.stream/chunks.m3u8?nimblesessionid=2640092&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjMyOjIwIFBNJmhhc2hfdmFsdWU9dTJqUUw2YTJPZ0JZQ0dCb3lRcVJPUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -288,7 +302,7 @@ https://github.com/udzaa2238/v3tv/raw/refs/heads/main/v3tv-true-spotv-2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/spotv2/playlist.m3u8
-
+https://lsv1.inwstream.com/transcoder_F1/spotv2_inwiptv.stream/chunks.m3u8?nimblesessionid=2640086&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjMyOjE1IFBNJmhhc2hfdmFsdWU9SDBQeXFmWjJQN250a2NHa2NLUTNnUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotv.png" group-title="ช่องกีฬา",SPOTV 1 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -654,6 +668,7 @@ http://84.17.40.25/Animal_Planet/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 https://54fdr4gtr8hdf165sf1s5.live/lnwlive/animalshow/chunks.m3u8
+#https://lsv2.inwstream.com/transcoder_F1/animalshow_inwiptv.stream/chunks.m3u8?nimblesessionid=1238213&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjM2OjA2IFBNJmhhc2hfdmFsdWU9MVpKNkJiMGtXVDdNSlZrSjJZejFyQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ความรู้และสารคดี",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -667,16 +682,19 @@ https://github.com/cattviptv2605/documentary/raw/refs/heads/main/crime-Investiga
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ความรู้และสารคดี",Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discovery.m3u8
+#https://lsv1.inwstream.com/transcoder_F1/discovery_inwiptv.stream/chunks.m3u8?nimblesessionid=2640149&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjMzOjU4IFBNJmhhc2hfdmFsdWU9bXJFMk5SUFU2cG42OFdxYk1LRmhQUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ความรู้และสารคดี",Discovery Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 https://54fdr4gtr8hdf165sf1s5.live/lnwlive/discoveryasia/chunks.m3u8
+#https://lsv1.inwstream.com/transcoder_F1/discoveryasia_inwiptv.stream/chunks.m3u8?nimblesessionid=2640208&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjM1OjI5IFBNJmhhc2hfdmFsdWU9bGdZTVMzeDA2Nmw1c0V3SW1ycVRmZz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png" group-title="ความรู้และสารคดี",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 https://54fdr4gtr8hdf165sf1s5.live/lnwlive/history/chunks.m3u8
+#https://lsv2.inwstream.com/transcoder_F1/history_inwiptv.stream/chunks.m3u8?nimblesessionid=1238200&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjM1OjQ3IFBNJmhhc2hfdmFsdWU9ZUpXN0pObDUya0hub1QwU2xvaEFSdz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_320.webp" group-title="ความรู้และสารคดี",Love Nature 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -687,31 +705,37 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/lovenature4k/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 https://54fdr4gtr8hdf165sf1s5.live/lnwlive/trueexplorelife/chunks.m3u8
+#https://lsv2.inwstream.com/transcoder_F1/trueexplorelife_inwiptv.stream/chunks.m3u8?nimblesessionid=1238206&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjM1OjU0IFBNJmhhc2hfdmFsdWU9aUhydkE3REFkRFN6dGJ6WEZPenlpdz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ความรู้และสารคดี",True Explore SCi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 https://54fdr4gtr8hdf165sf1s5.live/lnwlive/trueexploresci/chunks.m3u8
+https://lsv1.inwstream.com/transcoder_F1/trueexploresci_inwiptv.stream/chunks.m3u8?nimblesessionid=2640238&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjM1OjU4IFBNJmhhc2hfdmFsdWU9Z0xFY2ZBWGZLczNSWjhkU1RZTGF4UT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ความรู้และสารคดี",True Explore Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 https://54fdr4gtr8hdf165sf1s5.live/lnwlive/trueexplorewild/chunks.m3u8
+#https://lsv2.inwstream.com/transcoder_F1/trueexplorewild_inwiptv.stream/chunks.m3u8?nimblesessionid=2640233&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjM1OjUxIFBNJmhhc2hfdmFsdWU9aEtqdDJ3UVdrb0FRZDNyZ2lVSm41UT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ความรู้และสารคดี",สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 https://54fdr4gtr8hdf165sf1s5.live/lnwlive/samrujlok/chunks.m3u8
+#https://lsv2.inwstream.com/transcoder_F1/samrujlok_inwiptv.stream/chunks.m3u8?nimblesessionid=1238218&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjM2OjA5IFBNJmhhc2hfdmFsdWU9bXhlbWdhbHpRcjhrV3dpTVVVK1JqQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ความรู้และสารคดี",MySci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 https://54fdr4gtr8hdf165sf1s5.live/lnwlive/mysci/chunks.m3u8
+#https://lsv2.inwstream.com/transcoder_F1/mysci_inwiptv.stream/chunks.m3u8?nimblesessionid=1238294&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjM5OjAyIFBNJmhhc2hfdmFsdWU9UW9wSE9TTnpJTURhT2F6V3FrQzVPUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ความรู้และสารคดี",ของดี
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 https://54fdr4gtr8hdf165sf1s5.live/lnwlive/thainess/chunks.m3u8
+#https://lsv2.inwstream.com/transcoder_F1/khongdeethailand_inwiptv.stream/chunks.m3u8?nimblesessionid=1238210&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyNSA0OjM2OjAyIFBNJmhhc2hfdmFsdWU9b0JTQjVxN1MvUThFWno2QmU4UkV1Zz09JnZhbGlkbWludXRlcz0y
 
 ########################################
 การ์ตูน ช่องเด็ก
