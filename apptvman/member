@@ -539,27 +539,32 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ความบันเทิง",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+#https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hbocinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="ความบันเทิง",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/hbohd/chunks.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/hbohd/chunks.m3u8
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ความบันเทิง",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/hbosignature/chunks.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/hbosignature/chunks.m3u8
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hboiqnature.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="ความบันเทิง",HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/hbohits/chunks.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/hbohits/chunks.m3u8
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hbohit.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ความบันเทิง",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/hbofamily/chunks.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/hbofamily/chunks.m3u8
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hbofamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="ความบันเทิง", HITS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -576,37 +581,44 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png"" group-title="ความบันเทิง",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/truefilm1/master.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/truefilm1/master.m3u8
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/TruefilmHD1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ความบันเทิง",True Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/truefilm2/master.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/truefilm2/master.m3u8
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/TruefilmHD2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ความบันเทิง",True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/trueasianmore/master.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/trueasianmore/master.m3u8
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/Trueasianmore.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ความบันเทิง",True Movie Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/truemoviehits/master.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/truemoviehits/master.m3u8
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/Truemoviehit.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ความบันเทิง",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/truethaifilm/master.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/truethaifilm/master.m3u8
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/Truethaifilm.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ความบันเทิง",True Film Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/truefilmasia/master.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/truefilmasia/master.m3u8
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/Truefilmasia.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ความบันเทิง",True Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/trueseries/master.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/trueseries/master.m3u8
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/TrueSeries.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png" group-title="ความบันเทิง",True Xzyte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -619,16 +631,18 @@ https://cdn1.googlecdn.live/ballsod24hrs/mono29plus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ความบันเทิง",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/rockaction/chunks.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/rockaction/chunks.m3u8
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/rockaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="ความบันเทิง",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/rockentertainment/chunks.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/rockentertainment/chunks.m3u8
+https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/rockentertainment.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ความบันเทิง",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/CHwarner.m3u8
+https://raw.githubusercontent.com/Thep1313/M3u/refs/heads/main/M3U8%202.0/CHwarner.m3u8
 
 ########################################
 ความรู้และสารคดี
