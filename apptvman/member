@@ -140,7 +140,8 @@ https://cdn1.googlecdn.live/ballsod24hrs/tpf5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",BeIN1  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein1true/chunks.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein1true/chunks.m3u8
+http://119.59.118.159/live/ch15/Mariogogo007/index.m3u8
 https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/Bein1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",BeIN1  
@@ -150,7 +151,8 @@ https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",BeIN2  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein2true/chunks.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein2true/chunks.m3u8
+http://119.59.118.159/live/ch16/Mariogogo007/index.m3u8
 https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/Bein2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",BeIN2  
@@ -160,7 +162,8 @@ https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="ช่องกีฬา",BeIN3  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein3true/chunks.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/bein3true/chunks.m3u8
+http://119.59.118.159/live/ch17/Mariogogo007/index.m3u8
 https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/Bein3.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="ช่องกีฬา",BeIN3  
@@ -224,41 +227,48 @@ https://cdn1.googlecdnforstreaming.live/live/bein10/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp1/playlist.m3u8
+http://119.59.118.159/live/ch9/Mariogogo007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ช่องกีฬา",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp2/playlist.m3u8
+http://119.59.118.159/live/ch10/Mariogogo007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องกีฬา",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp3/playlist.m3u8
+http://119.59.118.159/live/ch11/Mariogogo007/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp" group-title="ช่องกีฬา",True Sports 3
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp" group-title="ช่องกีฬา",True Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp4/playlist.m3u8
+http://119.59.118.159/live/ch12/Mariogogo007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ช่องกีฬา",True Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp5/playlist.m3u8
+http://119.59.118.159/live/ch13/Mariogogo007/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องกีฬา",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://github.com/udzaa2238/v3tv/raw/refs/heads/main/v3tv-true-spotv-1.m3u8
+http://119.59.118.159/live/ch14/Mariogogo007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/spotv1/chunks.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/spotv1/chunks.m3u8
+http://119.59.118.159/live/ch18/Mariogogo007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://github.com/udzaa2238/v3tv/raw/refs/heads/main/v3tv-true-spotv-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 1
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -267,7 +277,8 @@ https://cdn1.googlecdn.live/ballsod24hrs/spotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/spotv2/chunks.m3u8
+#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/spotv2/chunks.m3u8
+http://119.59.118.159/live/ch19/Mariogogo007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -301,8 +312,7 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/golfplus/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp" group-title="ช่องกีฬา",True Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/truetennis/chunks.m3u8
+http://119.59.118.159/live/ch25/Mariogogo007/index.m3u8
 
 
 ########################################
@@ -540,30 +550,26 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 #https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
-https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hbocinemax.m3u8
+https://github.com/Thep1313/M3U/raw/refs/heads/main/19cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="ความบันเทิง",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/hbohd/chunks.m3u8
+http://119.59.118.159/live/ch26/Mariogogo007/index.m3u8
 https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ความบันเทิง",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/hbosignature/chunks.m3u8
+http://119.59.118.159/live/ch28/Mariogogo007/index.m3u8
 https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hboiqnature.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="ความบันเทิง",HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/hbohits/chunks.m3u8
+http://119.59.118.159/live/ch27/Mariogogo007/index.m3u8
 https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hbohit.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ความบันเทิง",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-#https://54fdr4gtr8hdf165sf1s5.live/lnwlive/hbofamily/chunks.m3u8
+http://119.59.118.159/live/ch29/Mariogogo007/index.m3u8
 https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hbofamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="ความบันเทิง", HITS
@@ -594,7 +600,7 @@ https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 #https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/trueasianmore/master.m3u8
-https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/Trueasianmore.m3u8
+https://github.com/blive99/blive99.github.io/raw/refs/heads/main/m3u8/movietv/Trueasiamore.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ความบันเทิง",True Movie Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -622,7 +628,7 @@ https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png" group-title="ความบันเทิง",True Xzyte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/inw/truexzyte/master.m3u8
+https://github.com/blive99/blive99.github.io/raw/refs/heads/main/m3u8/documentary/Truexzyte.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ความบันเทิง",MONO 29 Plus
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -632,17 +638,19 @@ https://cdn1.googlecdn.live/ballsod24hrs/mono29plus/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 #https://54fdr4gtr8hdf165sf1s5.live/lnwlive/rockaction/chunks.m3u8
+https://github.com/Thep1313/M3U/raw/refs/heads/main/19rocka.m3u8
 https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/rockaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="ความบันเทิง",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 #EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
 #https://54fdr4gtr8hdf165sf1s5.live/lnwlive/rockentertainment/chunks.m3u8
+https://github.com/Thep1313/M3U/raw/refs/heads/main/19rocke.m3u8
 https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/rockentertainment.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ความบันเทิง",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://raw.githubusercontent.com/Thep1313/M3u/refs/heads/main/M3U8%202.0/CHwarner.m3u8
+https://github.com/Thep1313/M3U/raw/refs/heads/main/CHwarner.m3u8
 
 ########################################
 ความรู้และสารคดี
@@ -655,8 +663,7 @@ http://84.17.40.25/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="ความรู้และสารคดี",Animal Show
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/animalshow/chunks.m3u8
+http://119.59.118.159/live/ch30/Mariogogo007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ความรู้และสารคดี",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -673,13 +680,11 @@ https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discovery.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ความรู้และสารคดี",Discovery Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/discoveryasia/chunks.m3u8
+http://119.59.118.159/live/ch24/Mariogogo007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png" group-title="ความรู้และสารคดี",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/history/chunks.m3u8
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/history1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_320.webp" group-title="ความรู้และสารคดี",Love Nature 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -688,23 +693,19 @@ https://54fdr4gtr8hdf165sf1s5.live/lnwlive/lovenature4k/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ความรู้และสารคดี",True Explore Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/trueexplorelife/chunks.m3u8
+https://github.com/blive99/blive99.github.io/raw/refs/heads/main/m3u8/documentary/truelife.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ความรู้และสารคดี",True Explore SCi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/trueexploresci/chunks.m3u8
+https://github.com/blive99/blive99.github.io/raw/refs/heads/main/m3u8/documentary/truesci.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ความรู้และสารคดี",True Explore Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/trueexplorewild/chunks.m3u8
+https://github.com/blive99/blive99.github.io/raw/refs/heads/main/m3u8/documentary/truewild.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ความรู้และสารคดี",สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#EXTVLCOPT:http-referrer=https://ballsodde.xyz/live-tv/
-https://54fdr4gtr8hdf165sf1s5.live/lnwlive/samrujlok/chunks.m3u8
+https://github.com/blive99/blive99.github.io/raw/refs/heads/main/m3u8/goodtv/goodtvSamrulok.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ความรู้และสารคดี",MySci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
