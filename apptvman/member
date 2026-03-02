@@ -15,7 +15,6 @@ https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-1/chunks.m3u8
-https://love.tivov68423.workers.dev/lx-origin/th-aismax01_480/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Monomax2b468b4ff59c50b7d.png" group-title="ช่องกีฬา",MONOMAX 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -26,7 +25,6 @@ https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
-https://love.tivov68423.workers.dev/lx-origin/th-aismax02_480/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/monomax3.png" group-title="ช่องกีฬา",MONOMAX 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -37,7 +35,6 @@ https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8
-https://love.tivov68423.workers.dev/lx-origin/th-aismax03_480/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax4.png" group-title="ช่องกีฬา",MONOMAX 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -48,7 +45,6 @@ https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-4/chunks.m3u8
-https://love.tivov68423.workers.dev/lx-origin/th-aismax03_480/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Monomax5.png" group-title="ช่องกีฬา",MONOMAX 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -59,7 +55,6 @@ https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-5/chunks.m3u8
-https://love.tivov68423.workers.dev/lx-origin/th-aismax05_480/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax66ea90a1ebad32bb6.png" group-title="ช่องกีฬา",MONOMAX 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
