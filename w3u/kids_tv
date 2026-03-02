@@ -6,74 +6,75 @@
 "stations": [
 {
 "name": "ANIMAX",
-"image": "https://dookeela2.live/uploads/1704038567.png",
+"image": "https://dookeela4.live/uploads/1704038567.png",
 "imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/animax",
-"referer": "https://dookeela2.live/",
+"url": "https://dookeela4.live/live-tv/live-tv/animax",
+"referer": "https://dookeela4.live/",
 "playInNatPlayer":"true"
 },
 
 {
 "name": "BOOMERANG",
-"image": "https://dookeela2.live/uploads/1705504202.png",
-"url": "https://dookeela2.live/live-tv/boomerang",
-"referer": "https://dookeela2.live/",
+"image": "https://dookeela4.live/uploads/1705504202.png",
+"url": "https://dookeela4.live/live-tv/live-tv/boomerang",
+"referer": "https://dookeela4.live/",
 "playInNatPlayer":"true"
 },
 
 {
 "name": "CBEEBIES",
-"image": "https://dookeela2.live/uploads/1709573298.png",
+"image": "https://dookeela4.live/uploads/1709573298.png",
 "imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/cbeebies",
-"referer": "https://dookeela2.live/",
+"url": "https://dookeela4.live/live-tv/live-tv/cbeebies",
+"referer": "https://dookeela4.live/",
 "playInNatPlayer":"true"
 },
 
 {
 "name": "CARTOON NETWORK",
-"image": "https://dookeela2.live/uploads/1708344243.png",
+"image": "https://dookeela4.live/uploads/1708344243.png",
 "imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/cartoon-network",
-"referer": "https://dookeela2.live/",
+"url": "https://dookeela4.live/live-tv/live-tv/cartoon-network",
+"referer": "https://dookeela4.live/",
 "playInNatPlayer":"true"
 },
 
 {
 "name": "CARTOONITO",
-"image": "https://dookeela2.live/uploads/1704039063.png",
+"image": "https://dookeela4.live/uploads/1704039063.png",
 "imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/cartoonito",
-"referer": "https://dookeela2.live/",
+"url": "https://dookeela4.live/live-tv/live-tv/cartoonito",
+"referer": "https://dookeela4.live/",
 "playInNatPlayer":"true"
 },
 
 {
 "name": "NICK JR.",
-"image": "https://dookeela2.live/uploads/1708344362.png",
+"image": "https://dookeela4.live/uploads/1708344362.png",
 "imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/nickjr",
-"referer": "https://dookeela2.live/",
+"url": "https://dookeela4.live/live-tv/live-tv/nickjr",
+"referer": "https://dookeela4.live/",
 "playInNatPlayer":"true"
 },
 
 {
 "name": "NICKELODEON",
-"image": "https://dookeela2.live/uploads/1708344306.png",
+"image": "https://dookeela4.live/uploads/1708344306.png",
 "imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/nickelodeon",
-"referer": "https://dookeela2.live/",
+"url": "https://dookeela4.live/live-tv/live-tv/nickelodeon",
+"referer": "https://dookeela4.live/",
 "playInNatPlayer":"true"
 },
 {
 "name": "TRUE SPARK PLAY",
-"image": "https://dookeela2.live/uploads/1720723541.png",
+"image": "https://dookeela4.live/uploads/1720723541.png",
 "imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/truesparkplay",
-"referer": "https://dookeela2.live/",
+"url": "https://dookeela4.live/live-tv/live-tv/truesparkplay",
+"referer": "https://dookeela4.live/",
 "playInNatPlayer":"true"
 },
 ]}
+
 
 
 
