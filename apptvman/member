@@ -262,14 +262,23 @@ http://49.0.64.96:8007/HiSports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?&id=1R7F_waOootxgLz45FBeiJXCkV2wRor9Y" group-title="บอลโลก 2026🏆",FiFA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/event1/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?&id=115SjpxW44gmd6fO5_xQgWNi0OWQszBHs" group-title="บอลโลก 2026🏆",FiFA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://yyi7tewa2x.3ppnkog.com/xstream/monomax-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?&id=1kNr6x_VoyDeeed0nxt7IfC7jVtJus6Da" group-title="บอลโลก 2026🏆",FiFA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?&id=14VdiBzcnLow1tyre2XkI6PSx168Xn4s3" group-title="บอลโลก 2026🏆",FiFA 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://yyi7tewa2x.3ppnkog.com/xstream/monomax-4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/Lao_TV_2023.png/revision/latest?cb=20250107102037&path-prefix=vi" group-title="บอลโลก 2026🏆",FiFA Lao TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/event1/chunks.m3u8
 
 ########################################
 ดูบอลต่างประเทศ
