@@ -172,38 +172,38 @@ https://cdn1.googlecdnforstreaming.live/live/bein10/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp1/playlist.m3u8
-#http://119.59.118.168/live/ch9/irannahee/index.m3u8
+https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/truesport1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ช่องกีฬา",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp2/playlist.m3u8
-#http://119.59.118.168/live/ch10/irannahee/index.m3u8
+https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/truesport2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องกีฬา",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp3/playlist.m3u8
-#http://119.59.118.168/live/ch11/irannahee/index.m3u8
+https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/truesport3.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp" group-title="ช่องกีฬา",True Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp4/playlist.m3u8
-#http://119.59.118.168/live/ch12/irannahee/index.m3u8
+https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/truesport4.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="ช่องกีฬา",True Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp5/playlist.m3u8
-#http://119.59.118.168/live/ch13/irannahee/index.m3u8
+https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/truesport5.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องกีฬา",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
-#http://119.59.118.168/live/ch14/irannahee/index.m3u8
+https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/truesport7.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -218,10 +218,6 @@ https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/spotv1.m3u8
 https://cdn1.googlecdnforstreaming.live/live/spotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#http://119.59.118.168/live/ch19/irannahee/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ช่องกีฬา",Spotv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/spotv2.m3u8
 
@@ -234,13 +230,13 @@ https://cdn1.googlecdnforstreaming.live/live/spotv2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotv_2.png" group-title="ช่องกีฬา",SPOTV 2 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012847.png" group-title="ช่องกีฬา",Hisport HD
@@ -248,63 +244,38 @@ http://49.0.64.96:8007/HiSports
 
 #EXTINF:-1ntvg-logo="https://cms.dmpcdn.com/livetv/2025/04/02/3d2e68f0-0f99-11f0-974a-f523c0a0f1ce_webp_original.webp" group-title="ช่องกีฬา",Golf Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#http://119.59.118.168/live/ch20/irannahee/index.m3u8
+https://hls.iptv-th.workers.dev/live/176/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp" group-title="ช่องกีฬา",True Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#http://119.59.118.168/live/ch25/irannahee/index.m3u8
-
-########################################
-บอลโลก 2026
-########################################
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?&id=1R7F_waOootxgLz45FBeiJXCkV2wRor9Y" group-title="บอลโลก 2026🏆",FiFA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?&id=115SjpxW44gmd6fO5_xQgWNi0OWQszBHs" group-title="บอลโลก 2026🏆",FiFA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?&id=1kNr6x_VoyDeeed0nxt7IfC7jVtJus6Da" group-title="บอลโลก 2026🏆",FiFA 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?&id=14VdiBzcnLow1tyre2XkI6PSx168Xn4s3" group-title="บอลโลก 2026🏆",FiFA 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/Lao_TV_2023.png/revision/latest?cb=20250107102037&path-prefix=vi" group-title="บอลโลก 2026🏆",FiFA Lao TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/event1/chunks.m3u8
+https://hls.iptv-th.workers.dev/live/77/playlist.m3u8
 
 ########################################
 ดูบอลต่างประเทศ
 ########################################
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Badminton_%28Oct_2024%29.png" group-title="⚽ฟุตบอลต่างประเทศ",ASTRO BADMINTONᴴᴰ
-https://zozotv.xyz:443/live/faizal1998/zoz161/155.ts
+#https://zozotv.xyz:443/live/faizal1998/zoz161/155.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Arena_%28Oct_2024%29.png" group-title="⚽ฟุตบอลต่างประเทศ",ASTRO ARENA ᴴᴰ
-https://zozotv.xyz:443/live/faizal1998/zoz161/154.ts
+#https://zozotv.xyz:443/live/faizal1998/zoz161/154.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Astro_Arena_2_%28Oct_2024%29.png" group-title="⚽ฟุตบอลต่างประเทศ",ASTRO ARENA 2 ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTArena2.m3u8
+#https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTArena2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png" group-title="⚽ฟุตบอลต่างประเทศ",ASTRO FOOTBALL ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTFutball.m3u8
+#https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTFutball.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Grandstand_%28Oct_2024%29.png" group-title="⚽ฟุตบอลต่างประเทศ",ASTRO GRANDSTAND ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
 #EXTVLCOPT:http-referrer=https://www.vidembed.re/
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTGreand.m3u8
+#https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTGreand.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Astro_Premier_League_%28Oct_2024%29.png" group-title="⚽ฟุตบอลต่างประเทศ",ASTRO PREMIER LEAGUE 1 ᴴᴰ
-http://portal.geniptv.com:8080//dmtndmtnkimo/a7GPMeArdf/18623
+#http://portal.geniptv.com:8080//dmtndmtnkimo/a7GPMeArdf/18623
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png" group-title="⚽ฟุตบอลต่างประเทศ",ASTRO PREMIER LEAGUE 2 ᴴᴰ
-http://portal.geniptv.com:8080//dmtndmtnkimo/a7GPMeArdf/18622
+#http://portal.geniptv.com:8080//dmtndmtnkimo/a7GPMeArdf/18622
 
 #EXTINF:-1 tvg-logo="https://img-284.media.info/i/bg/1/1539-1690027797.webp" group-title="⚽ฟุตบอลต่างประเทศ",TNT SPORT 1
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -522,22 +493,22 @@ https://github.com/Thep1313/M3U/raw/refs/heads/main/19cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="ความบันเทิง",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#http://119.59.118.168/live/ch26/irannahee/index.m3u8
+https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
 https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ความบันเทิง",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#http://119.59.118.168/live/ch28/irannahee/index.m3u8
+https://hls.iptv-th.workers.dev/live/72/playlist.m3u8
 https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hboiqnature.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="ความบันเทิง",HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#http://119.59.118.168/live/ch27/irannahee/index.m3u8
+https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
 https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hbohit.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ความบันเทิง",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#http://119.59.118.168/live/ch29/irannahee/index.m3u8
+https://hls.iptv-th.workers.dev/live/65/playlist.m3u8
 https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/hbofamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="ความบันเทิง", HITS
@@ -554,41 +525,35 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png"" group-title="ความบันเทิง",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/TruefilmHD1.m3u8
+https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ความบันเทิง",True Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/TruefilmHD2.m3u8
+https://hls.iptv-th.workers.dev/live/102/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ความบันเทิง",True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#http://119.59.118.168/live/ch64/irannahee/index.m3u8
-https://github.com/blive99/blive99.github.io/raw/refs/heads/main/m3u8/movietv/Trueasiamore.m3u8
+https://hls.iptv-th.workers.dev/live/103/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ความบันเทิง",True Movie Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#http://119.59.118.168/live/ch59/irannahee/index.m3u8
-https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/Truemoviehit.m3u8
+https://hls.iptv-th.workers.dev/live/86/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ความบันเทิง",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#http://119.59.118.168/live/ch60/irannahee/index.m3u8
-https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/Truethaifilm.m3u8
+https://hls.iptv-th.workers.dev/live/117/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ความบันเทิง",True Film Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#http://119.59.118.168/live/ch61/irannahee/index.m3u8
-https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/Truefilmasia.m3u8
+https://hls.iptv-th.workers.dev/live/106/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ความบันเทิง",True Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#http://119.59.118.168/live/ch63/irannahee/index.m3u8
-https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/TrueSeries.m3u8
+https://hls.iptv-th.workers.dev/live/112/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png" group-title="ความบันเทิง",True Xzyte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-#http://119.59.118.168/live/ch66/irannahee/index.m3u8
-https://github.com/blive99/blive99.github.io/raw/refs/heads/main/m3u8/documentary/Truexzyte.m3u8
+https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ความบันเทิง",MONO 29 Plus
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -601,12 +566,11 @@ https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="ความบันเทิง",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://github.com/Thep1313/M3U/raw/refs/heads/main/19rocke.m3u8
-https://raw.githubusercontent.com/blive99/blive99.github.io/refs/heads/main/m3u8/movietv/rockentertainment.m3u8
+https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ความบันเทิง",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://github.com/Thep1313/M3U/raw/refs/heads/main/CHwarner.m3u8
+https://hls.iptv-th.workers.dev/live/33/playlist.m3u8
 
 ########################################
 ความรู้และสารคดี
