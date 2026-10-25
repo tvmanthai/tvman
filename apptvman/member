@@ -1,221 +1,221 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml, https://www.bevy.be/bevyfiles/thailand.xml, https://www.bevy.be/bevyfiles/thailandpremium.xml refresh="23"
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 53" tvg-logo="http://119.10.136.162:8080/images/49521b8be856bf6ced2dfef96cd2dd1f.jpg" group-title="AIS SPORTS",Play Sports 53
-http://119.10.136.162:8080/live/1234/1234/1.ts
+http://119.10.136.162:8080/live/mantv01/12345/1.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 52" tvg-logo="http://119.10.136.162:8080/images/183d566a73081d0dafdac0b0010f0370.jpg" group-title="AIS SPORTS",Play Sports 52
-http://119.10.136.162:8080/live/1234/1234/2.ts
+http://119.10.136.162:8080/live/mantv01/12345/2.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 94" tvg-logo="http://119.10.136.162:8080/images/24908045a58b440e2dbaa84c65e9d66d.jpg" group-title="AIS SPORTS",Play Sports 94
-http://119.10.136.162:8080/live/1234/1234/3.ts
+http://119.10.136.162:8080/live/mantv01/12345/3.ts
 #EXTINF:-1 tvg-id="" tvg-name="NFL" tvg-logo="http://119.10.136.162:8080/images/3debc9a526166597717941f94a910532.jpg" group-title="AIS SPORTS",NFL
-http://119.10.136.162:8080/live/1234/1234/4.ts
+http://119.10.136.162:8080/live/mantv01/12345/4.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 93" tvg-logo="http://119.10.136.162:8080/images/bafd886f69981acbafc8dd648555aa1f.jpg" group-title="AIS SPORTS",Play Sports 93
-http://119.10.136.162:8080/live/1234/1234/5.ts
+http://119.10.136.162:8080/live/mantv01/12345/5.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 92" tvg-logo="http://119.10.136.162:8080/images/d6d13951bbc8b12733909cac5a58b1bb.jpg" group-title="AIS SPORTS",Play Sports 92
-http://119.10.136.162:8080/live/1234/1234/6.ts
+http://119.10.136.162:8080/live/mantv01/12345/6.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 91" tvg-logo="http://119.10.136.162:8080/images/93979b80e4e3bb98b4ef9dfac73aed55.jpg" group-title="AIS SPORTS",Play Sports 91
-http://119.10.136.162:8080/live/1234/1234/7.ts
+http://119.10.136.162:8080/live/mantv01/12345/7.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 90" tvg-logo="http://119.10.136.162:8080/images/a8f0d297661d1de0f80f499167967e3d.jpg" group-title="AIS SPORTS",Play Sports 90
-http://119.10.136.162:8080/live/1234/1234/8.ts
+http://119.10.136.162:8080/live/mantv01/12345/8.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 65" tvg-logo="http://119.10.136.162:8080/images/410051345e0c5d813a97dc8d486d9461.jpg" group-title="AIS SPORTS",Play Sports 65
-http://119.10.136.162:8080/live/1234/1234/9.ts
+http://119.10.136.162:8080/live/mantv01/12345/9.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 64" tvg-logo="http://119.10.136.162:8080/images/63581a685f2bba0769c5ecc1943e34d1.jpg" group-title="AIS SPORTS",Play Sports 64
-http://119.10.136.162:8080/live/1234/1234/10.ts
+http://119.10.136.162:8080/live/mantv01/12345/10.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 48" tvg-logo="http://119.10.136.162:8080/images/1206738ee8a3cf094e9b98bc975bf40a.jpg" group-title="AIS SPORTS",Play Sports 48
-http://119.10.136.162:8080/live/1234/1234/11.ts
+http://119.10.136.162:8080/live/mantv01/12345/11.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 58" tvg-logo="http://119.10.136.162:8080/images/134185af45d93e1ffcc7759d989e40f5.jpg" group-title="AIS SPORTS",Play Sports 58
-http://119.10.136.162:8080/live/1234/1234/12.ts
+http://119.10.136.162:8080/live/mantv01/12345/12.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 57" tvg-logo="http://119.10.136.162:8080/images/652ebfaf30064735d0924439e014c091.jpg" group-title="AIS SPORTS",Play Sports 57
-http://119.10.136.162:8080/live/1234/1234/13.ts
+http://119.10.136.162:8080/live/mantv01/12345/13.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 96" tvg-logo="http://119.10.136.162:8080/images/3532eb9ae932618484b4c05d43c46d95.jpg" group-title="AIS SPORTS",Play Sports 96
-http://119.10.136.162:8080/live/1234/1234/14.ts
+http://119.10.136.162:8080/live/mantv01/12345/14.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 95" tvg-logo="http://119.10.136.162:8080/images/abafad3fe1b37f329d7ad9de2886dc5f.jpg" group-title="AIS SPORTS",Play Sports 95
-http://119.10.136.162:8080/live/1234/1234/15.ts
+http://119.10.136.162:8080/live/mantv01/12345/15.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 51" tvg-logo="http://119.10.136.162:8080/images/0d58168defa1dbd69c686b0ce9389c88.jpg" group-title="AIS SPORTS",Play Sports 51
-http://119.10.136.162:8080/live/1234/1234/16.ts
+http://119.10.136.162:8080/live/mantv01/12345/16.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 67" tvg-logo="http://119.10.136.162:8080/images/7065187a21710849cd42961c15c1b339.jpg" group-title="AIS SPORTS",Play Sports 67
-http://119.10.136.162:8080/live/1234/1234/17.ts
+http://119.10.136.162:8080/live/mantv01/12345/17.ts
 #EXTINF:-1 tvg-id="" tvg-name="ช่อง 5 HD" tvg-logo="http://119.10.136.162:8080/images/755d01f38f70630aefecc2b5c20a6eca.jpg" group-title="DIGITAL-ฟรีทีวี",ช่อง 5 HD
-http://119.10.136.162:8080/live/1234/1234/18.ts
+http://119.10.136.162:8080/live/mantv01/12345/18.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBT Channel" tvg-logo="http://119.10.136.162:8080/images/b7b71ac60c92ece8fd2d5a079ef7e448.jpg" group-title="DIGITAL-ฟรีทีวี",NBT Channel
-http://119.10.136.162:8080/live/1234/1234/19.ts
+http://119.10.136.162:8080/live/mantv01/12345/19.ts
 #EXTINF:-1 tvg-id="" tvg-name="Thai PBS" tvg-logo="http://119.10.136.162:8080/images/35a16111cd710c6baf71d46e1be2e7b4.jpg" group-title="DIGITAL-ฟรีทีวี",Thai PBS
-http://119.10.136.162:8080/live/1234/1234/20.ts
+http://119.10.136.162:8080/live/mantv01/12345/20.ts
 #EXTINF:-1 tvg-id="" tvg-name="T Sport Channel" tvg-logo="http://119.10.136.162:8080/images/f565bd2c505a5da1ebdf70768de80f84.jpg" group-title="DIGITAL-ฟรีทีวี",T Sport Channel
-http://119.10.136.162:8080/live/1234/1234/21.ts
+http://119.10.136.162:8080/live/mantv01/12345/21.ts
 #EXTINF:-1 tvg-id="" tvg-name="TPTV" tvg-logo="http://119.10.136.162:8080/images/0efb92ce1430774cc04303cc8e1bfbe1.jpg" group-title="DIGITAL-ฟรีทีวี",TPTV
-http://119.10.136.162:8080/live/1234/1234/22.ts
+http://119.10.136.162:8080/live/mantv01/12345/22.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNN 16" tvg-logo="http://119.10.136.162:8080/images/83993e38fec55aef5d402655030977b7.jpg" group-title="DIGITAL-ฟรีทีวี",TNN 16
-http://119.10.136.162:8080/live/1234/1234/23.ts
+http://119.10.136.162:8080/live/mantv01/12345/23.ts
 #EXTINF:-1 tvg-id="" tvg-name="Top News" tvg-logo="http://119.10.136.162:8080/images/1b0421eccdbb873bb3c7a6c7d82c1b63.jpg" group-title="DIGITAL-ฟรีทีวี",Top News
-http://119.10.136.162:8080/live/1234/1234/24.ts
+http://119.10.136.162:8080/live/mantv01/12345/24.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nation" tvg-logo="http://119.10.136.162:8080/images/27892b630ff112c10c6759d5ae57f4a0.jpg" group-title="DIGITAL-ฟรีทีวี",Nation
-http://119.10.136.162:8080/live/1234/1234/25.ts
+http://119.10.136.162:8080/live/mantv01/12345/25.ts
 #EXTINF:-1 tvg-id="" tvg-name="Workpoint TV" tvg-logo="http://119.10.136.162:8080/images/486c7b01fa492c733ffb3cc138fa746b.jpg" group-title="DIGITAL-ฟรีทีวี",Workpoint TV
-http://119.10.136.162:8080/live/1234/1234/26.ts
+http://119.10.136.162:8080/live/mantv01/12345/26.ts
 #EXTINF:-1 tvg-id="" tvg-name="True4U" tvg-logo="http://119.10.136.162:8080/images/efc4559e30ae761ee75b7414cf73fefc.jpg" group-title="DIGITAL-ฟรีทีวี",True4U
-http://119.10.136.162:8080/live/1234/1234/27.ts
+http://119.10.136.162:8080/live/mantv01/12345/27.ts
 #EXTINF:-1 tvg-id="" tvg-name="GMM 25" tvg-logo="http://119.10.136.162:8080/images/89a5d33eb049876824fa3ef95b837b7c.jpg" group-title="DIGITAL-ฟรีทีวี",GMM 25
-http://119.10.136.162:8080/live/1234/1234/28.ts
+http://119.10.136.162:8080/live/mantv01/12345/28.ts
 #EXTINF:-1 tvg-id="" tvg-name="CH 8" tvg-logo="http://119.10.136.162:8080/images/9569e00abeac8361a4b2563072f13a77.jpg" group-title="DIGITAL-ฟรีทีวี",CH 8
-http://119.10.136.162:8080/live/1234/1234/29.ts
+http://119.10.136.162:8080/live/mantv01/12345/29.ts
 #EXTINF:-1 tvg-id="" tvg-name="Monomax Sports TV" tvg-logo="http://119.10.136.162:8080/images/06be2bc763a2c58ffa1aead5b7128812.jpg" group-title="DIGITAL-ฟรีทีวี",Monomax Sports TV
-http://119.10.136.162:8080/live/1234/1234/30.ts
+http://119.10.136.162:8080/live/mantv01/12345/30.ts
 #EXTINF:-1 tvg-id="" tvg-name="MCOT HD" tvg-logo="http://119.10.136.162:8080/images/e41e94f2baa1f3c5d2f9eda768452c9f.jpg" group-title="DIGITAL-ฟรีทีวี",MCOT HD
-http://119.10.136.162:8080/live/1234/1234/31.ts
+http://119.10.136.162:8080/live/mantv01/12345/31.ts
 #EXTINF:-1 tvg-id="" tvg-name="One Channel" tvg-logo="http://119.10.136.162:8080/images/859b06680f927c84e120424e78aaab51.jpg" group-title="DIGITAL-ฟรีทีวี",One Channel
-http://119.10.136.162:8080/live/1234/1234/32.ts
+http://119.10.136.162:8080/live/mantv01/12345/32.ts
 #EXTINF:-1 tvg-id="" tvg-name="ไทยรัฐ TV HD" tvg-logo="http://119.10.136.162:8080/images/c6aa3fec31946a704e1c60a747b001b0.jpg" group-title="DIGITAL-ฟรีทีวี",ไทยรัฐ TV HD
-http://119.10.136.162:8080/live/1234/1234/33.ts
+http://119.10.136.162:8080/live/mantv01/12345/33.ts
 #EXTINF:-1 tvg-id="" tvg-name="ช่อง 3 HD" tvg-logo="http://119.10.136.162:8080/images/99b32e66072133462e270ea7f2326b03.jpg" group-title="DIGITAL-ฟรีทีวี",ช่อง 3 HD
-http://119.10.136.162:8080/live/1234/1234/34.ts
+http://119.10.136.162:8080/live/mantv01/12345/34.ts
 #EXTINF:-1 tvg-id="" tvg-name="Amarin TV" tvg-logo="http://119.10.136.162:8080/images/1e639d05ba46ba718171529bd4dec854.jpg" group-title="DIGITAL-ฟรีทีวี",Amarin TV
-http://119.10.136.162:8080/live/1234/1234/35.ts
+http://119.10.136.162:8080/live/mantv01/12345/35.ts
 #EXTINF:-1 tvg-id="" tvg-name="7 HD" tvg-logo="http://119.10.136.162:8080/images/d2112b7062c74ef32a9c29ccf4bd979b.jpg" group-title="DIGITAL-ฟรีทีวี",7 HD
-http://119.10.136.162:8080/live/1234/1234/36.ts
+http://119.10.136.162:8080/live/mantv01/12345/36.ts
 #EXTINF:-1 tvg-id="" tvg-name="PPTV HD" tvg-logo="http://119.10.136.162:8080/images/e647a10324280031fa9d8d1c5f2f176e.jpg" group-title="DIGITAL-ฟรีทีวี",PPTV HD
-http://119.10.136.162:8080/live/1234/1234/37.ts
+http://119.10.136.162:8080/live/mantv01/12345/37.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://119.10.136.162:8080/images/6ca605278a49e9c4b6602bf18bfeb265.jpg" group-title="MOVIE&SERIES",HBO
-http://119.10.136.162:8080/live/1234/1234/38.ts
+http://119.10.136.162:8080/live/mantv01/12345/38.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://119.10.136.162:8080/images/2e5e43649aa64db26a4b8e2cf52883ea.jpg" group-title="MOVIE&SERIES",HBO Hits
-http://119.10.136.162:8080/live/1234/1234/39.ts
+http://119.10.136.162:8080/live/mantv01/12345/39.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://119.10.136.162:8080/images/9d85908f50a4350f17d851009881ee64.jpg" group-title="MOVIE&SERIES",HBO Signature
-http://119.10.136.162:8080/live/1234/1234/40.ts
+http://119.10.136.162:8080/live/mantv01/12345/40.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://119.10.136.162:8080/images/0d2a6ed69b895464f919709739e5dfe6.jpg" group-title="MOVIE&SERIES",HBO Family
-http://119.10.136.162:8080/live/1234/1234/41.ts
+http://119.10.136.162:8080/live/mantv01/12345/41.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://119.10.136.162:8080/images/3c5a5362f881c30781df2a149f70854f.jpg" group-title="MOVIE&SERIES",CINEMAX
-http://119.10.136.162:8080/live/1234/1234/42.ts
+http://119.10.136.162:8080/live/mantv01/12345/42.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mono29 Music Station" tvg-logo="http://119.10.136.162:8080/images/a6b1ce50efe184e2c862068279723c4a.jpg" group-title="MOVIE&SERIES",Mono29 Music Station
-http://119.10.136.162:8080/live/1234/1234/43.ts
+http://119.10.136.162:8080/live/mantv01/12345/43.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mono29 Plus" tvg-logo="http://119.10.136.162:8080/images/845167c7862eca223d966682b27bb234.jpg" group-title="MOVIE&SERIES",Mono29 Plus
-http://119.10.136.162:8080/live/1234/1234/44.ts
+http://119.10.136.162:8080/live/mantv01/12345/44.ts
 #EXTINF:-1 tvg-id="" tvg-name="3BB Asian" tvg-logo="http://119.10.136.162:8080/images/2738b8076ffc93cf2ad279e798131b49.jpg" group-title="MOVIE&SERIES",3BB Asian
-http://119.10.136.162:8080/live/1234/1234/45.ts
+http://119.10.136.162:8080/live/mantv01/12345/45.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV5MONDE" tvg-logo="http://119.10.136.162:8080/images/a6266043b2dca57021ccca2b580f93a5.jpg" group-title="MOVIE&SERIES",TV5MONDE
-http://119.10.136.162:8080/live/1234/1234/46.ts
+http://119.10.136.162:8080/live/mantv01/12345/46.ts
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="http://119.10.136.162:8080/images/ef006383ecfe2f5d7ba918a5ad713f94.jpg" group-title="MOVIE&SERIES",Warner TV
-http://119.10.136.162:8080/live/1234/1234/47.ts
+http://119.10.136.162:8080/live/mantv01/12345/47.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="http://119.10.136.162:8080/images/b4fe7f1a648697c7f84ba694c9c49733.jpg" group-title="MOVIE&SERIES",Rock Action
-http://119.10.136.162:8080/live/1234/1234/48.ts
+http://119.10.136.162:8080/live/mantv01/12345/48.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="http://119.10.136.162:8080/images/caca8b905e2037549c184f072ec4fd9f.jpg" group-title="MOVIE&SERIES",Rock Entertainment
-http://119.10.136.162:8080/live/1234/1234/49.ts
+http://119.10.136.162:8080/live/mantv01/12345/49.ts
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://119.10.136.162:8080/images/98a3b4ac4defa0cf0fd43d2b94d69a79.jpg" group-title="MOVIE&SERIES",Food Network
-http://119.10.136.162:8080/live/1234/1234/50.ts
+http://119.10.136.162:8080/live/mantv01/12345/50.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="http://119.10.136.162:8080/images/aa2c4bb3caa90278197266601199d004.jpg" group-title="MOVIE&SERIES",Fashion TV
-http://119.10.136.162:8080/live/1234/1234/51.ts
+http://119.10.136.162:8080/live/mantv01/12345/51.ts
 #EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="http://119.10.136.162:8080/images/87130cc48d2aa991d13a1f5d454970e0.jpg" group-title="MOVIE&SERIES",Asian Food Network
-http://119.10.136.162:8080/live/1234/1234/52.ts
+http://119.10.136.162:8080/live/mantv01/12345/52.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cool Channel" tvg-logo="http://119.10.136.162:8080/images/e314da2df94246579c4d99887e0fc84b.jpg" group-title="MOVIE&SERIES",Cool Channel
-http://119.10.136.162:8080/live/1234/1234/53.ts
+http://119.10.136.162:8080/live/mantv01/12345/53.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rama Channel" tvg-logo="http://119.10.136.162:8080/images/ff50a851f36b9ebe26c54627e578a071.jpg" group-title="MOVIE&SERIES",Rama Channel
-http://119.10.136.162:8080/live/1234/1234/54.ts
+http://119.10.136.162:8080/live/mantv01/12345/54.ts
 #EXTINF:-1 tvg-id="" tvg-name="Monomax 1" tvg-logo="http://119.10.136.162:8080/images/76307b9e8bf00a1774f0c7443d53eb22.jpg" group-title="MONOMAX",Monomax 1
-http://119.10.136.162:8080/live/1234/1234/55.ts
+http://119.10.136.162:8080/live/mantv01/12345/55.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX 2" tvg-logo="http://119.10.136.162:8080/images/21d6b656ad62f2dbfc62c47485807804.jpg" group-title="MONOMAX",MONOMAX 2
-http://119.10.136.162:8080/live/1234/1234/56.ts
+http://119.10.136.162:8080/live/mantv01/12345/56.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX 2 HD" tvg-logo="http://119.10.136.162:8080/images/21d6b656ad62f2dbfc62c47485807804.jpg" group-title="MONOMAX",MONOMAX 2 HD
-http://119.10.136.162:8080/live/1234/1234/57.ts
+http://119.10.136.162:8080/live/mantv01/12345/57.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX 3" tvg-logo="http://119.10.136.162:8080/images/254c2a117afc16158d22863e8ca7b5b0.jpg" group-title="MONOMAX",MONOMAX 3
-http://119.10.136.162:8080/live/1234/1234/58.ts
+http://119.10.136.162:8080/live/mantv01/12345/58.ts
 #EXTINF:-1 tvg-id="" tvg-name="Monomax 4" tvg-logo="http://119.10.136.162:8080/images/da268ac54e92e737bd6d3fcd1fc757b4.jpg" group-title="MONOMAX",Monomax 4
-http://119.10.136.162:8080/live/1234/1234/59.ts
+http://119.10.136.162:8080/live/mantv01/12345/59.ts
 #EXTINF:-1 tvg-id="" tvg-name="Monomax 5" tvg-logo="http://119.10.136.162:8080/images/1133aae476ecdb75f53598c4d06c2440.jpg" group-title="MONOMAX",Monomax 5
-http://119.10.136.162:8080/live/1234/1234/60.ts
+http://119.10.136.162:8080/live/mantv01/12345/60.ts
 #EXTINF:-1 tvg-id="" tvg-name="Monomax 6" tvg-logo="http://119.10.136.162:8080/images/880ade07d0ed49abfe93cb7f3665ed65.jpg" group-title="MONOMAX",Monomax 6
-http://119.10.136.162:8080/live/1234/1234/61.ts
+http://119.10.136.162:8080/live/mantv01/12345/61.ts
 #EXTINF:-1 tvg-id="" tvg-name="Monomax 7" tvg-logo="http://119.10.136.162:8080/images/ef8ea53ec94a5db32014133101161bac.jpg" group-title="MONOMAX",Monomax 7
-http://119.10.136.162:8080/live/1234/1234/62.ts
+http://119.10.136.162:8080/live/mantv01/12345/62.ts
 #EXTINF:-1 tvg-id="" tvg-name="Monomax 8" tvg-logo="http://119.10.136.162:8080/images/56be1bf99bef503769be9ee6f4fe5e21.jpg" group-title="MONOMAX",Monomax 8
-http://119.10.136.162:8080/live/1234/1234/63.ts
+http://119.10.136.162:8080/live/mantv01/12345/63.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX  LIVE 1" tvg-logo="https://html.e-droid.net/srv/imgs/plugins/byorfb4g_c60778.png?v=10" group-title="EVENT",MONOMAX  LIVE 1
-http://119.10.136.162:8080/live/1234/1234/64.ts
+http://119.10.136.162:8080/live/mantv01/12345/64.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX  LIVE 2" tvg-logo="https://html.e-droid.net/srv/imgs/plugins/byorfb4g_c60778.png?v=10" group-title="EVENT",MONOMAX  LIVE 2
-http://119.10.136.162:8080/live/1234/1234/65.ts
+http://119.10.136.162:8080/live/mantv01/12345/65.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX  LIVE 3" tvg-logo="https://html.e-droid.net/srv/imgs/plugins/byorfb4g_c60778.png?v=10" group-title="EVENT",MONOMAX  LIVE 3
-http://119.10.136.162:8080/live/1234/1234/66.ts
+http://119.10.136.162:8080/live/mantv01/12345/66.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX  LIVE 4" tvg-logo="https://html.e-droid.net/srv/imgs/plugins/byorfb4g_c60778.png?v=10" group-title="EVENT",MONOMAX  LIVE 4
-http://119.10.136.162:8080/live/1234/1234/67.ts
+http://119.10.136.162:8080/live/mantv01/12345/67.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX  LIVE  5" tvg-logo="https://html.e-droid.net/srv/imgs/plugins/byorfb4g_c60778.png?v=10" group-title="EVENT",MONOMAX  LIVE  5
-http://119.10.136.162:8080/live/1234/1234/68.ts
+http://119.10.136.162:8080/live/mantv01/12345/68.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX  LIVE 6" tvg-logo="https://html.e-droid.net/srv/imgs/plugins/byorfb4g_c60778.png?v=10" group-title="EVENT",MONOMAX  LIVE 6
-http://119.10.136.162:8080/live/1234/1234/69.ts
+http://119.10.136.162:8080/live/mantv01/12345/69.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX  LIVE 7" tvg-logo="https://html.e-droid.net/srv/imgs/plugins/byorfb4g_c60778.png?v=10" group-title="EVENT",MONOMAX  LIVE 7
-http://119.10.136.162:8080/live/1234/1234/70.ts
+http://119.10.136.162:8080/live/mantv01/12345/70.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX  LIVE  8" tvg-logo="https://html.e-droid.net/srv/imgs/plugins/byorfb4g_c60778.png?v=10" group-title="EVENT",MONOMAX  LIVE  8
-http://119.10.136.162:8080/live/1234/1234/71.ts
+http://119.10.136.162:8080/live/mantv01/12345/71.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX  LIVE  9" tvg-logo="https://html.e-droid.net/srv/imgs/plugins/byorfb4g_c60778.png?v=10" group-title="EVENT",MONOMAX  LIVE  9
-http://119.10.136.162:8080/live/1234/1234/72.ts
+http://119.10.136.162:8080/live/mantv01/12345/72.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX  LIVE  10" tvg-logo="https://html.e-droid.net/srv/imgs/plugins/byorfb4g_c60778.png?v=10" group-title="EVENT",MONOMAX  LIVE  10
-http://119.10.136.162:8080/live/1234/1234/73.ts
+http://119.10.136.162:8080/live/mantv01/12345/73.ts
 #EXTINF:-1 tvg-id="" tvg-name="THAI LEAGUE 1" tvg-logo="https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w670h402/q80/webp" group-title="AIS SPORTS",THAI LEAGUE 1
-http://119.10.136.162:8080/live/1234/1234/74.ts
+http://119.10.136.162:8080/live/mantv01/12345/74.ts
 #EXTINF:-1 tvg-id="" tvg-name="THAI LEAGUE 2" tvg-logo="https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w670h402/q80/webp" group-title="AIS SPORTS",THAI LEAGUE 2
-http://119.10.136.162:8080/live/1234/1234/75.ts
+http://119.10.136.162:8080/live/mantv01/12345/75.ts
 #EXTINF:-1 tvg-id="" tvg-name="THAI LEAGUE 3" tvg-logo="https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w670h402/q80/webp" group-title="AIS SPORTS",THAI LEAGUE 3
-http://119.10.136.162:8080/live/1234/1234/76.ts
+http://119.10.136.162:8080/live/mantv01/12345/76.ts
 #EXTINF:-1 tvg-id="" tvg-name="THAI LEAGUE 4" tvg-logo="https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w670h402/q80/webp" group-title="AIS SPORTS",THAI LEAGUE 4
-http://119.10.136.162:8080/live/1234/1234/77.ts
+http://119.10.136.162:8080/live/mantv01/12345/77.ts
 #EXTINF:-1 tvg-id="" tvg-name="THAI LEAGUE 5" tvg-logo="https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w670h402/q80/webp" group-title="AIS SPORTS",THAI LEAGUE 5
-http://119.10.136.162:8080/live/1234/1234/78.ts
+http://119.10.136.162:8080/live/mantv01/12345/78.ts
 #EXTINF:-1 tvg-id="" tvg-name="THAI LEAGUE 6" tvg-logo="https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w670h402/q80/webp" group-title="AIS SPORTS",THAI LEAGUE 6
-http://119.10.136.162:8080/live/1234/1234/79.ts
+http://119.10.136.162:8080/live/mantv01/12345/79.ts
 #EXTINF:-1 tvg-id="" tvg-name="THAI LEAGUE 7" tvg-logo="https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w670h402/q80/webp" group-title="AIS SPORTS",THAI LEAGUE 7
-http://119.10.136.162:8080/live/1234/1234/80.ts
+http://119.10.136.162:8080/live/mantv01/12345/80.ts
 #EXTINF:-1 tvg-id="" tvg-name="THAI LEAGUE 8" tvg-logo="https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w670h402/q80/webp" group-title="AIS SPORTS",THAI LEAGUE 8
-http://119.10.136.162:8080/live/1234/1234/81.ts
+http://119.10.136.162:8080/live/mantv01/12345/81.ts
 #EXTINF:-1 tvg-id="" tvg-name="THAI LEAGUE 9" tvg-logo="https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w670h402/q80/webp" group-title="AIS SPORTS",THAI LEAGUE 9
-http://119.10.136.162:8080/live/1234/1234/82.ts
+http://119.10.136.162:8080/live/mantv01/12345/82.ts
 #EXTINF:-1 tvg-id="" tvg-name="THAI LEAGUE 10" tvg-logo="https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w670h402/q80/webp" group-title="AIS SPORTS",THAI LEAGUE 10
-http://119.10.136.162:8080/live/1234/1234/83.ts
+http://119.10.136.162:8080/live/mantv01/12345/83.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1" tvg-logo="http://119.10.136.162:8080/images/fb74514b4138fcd7947c1e3dd0adaf5c.jpg" group-title="SPORT",beIN SPORTS 1
-http://119.10.136.162:8080/live/1234/1234/84.ts
+http://119.10.136.162:8080/live/mantv01/12345/84.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2" tvg-logo="http://119.10.136.162:8080/images/9d5c22ec21124dc1c141a3610c7fa0d7.jpg" group-title="SPORT",beIN SPORTS 2
-http://119.10.136.162:8080/live/1234/1234/85.ts
+http://119.10.136.162:8080/live/mantv01/12345/85.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3" tvg-logo="http://119.10.136.162:8080/images/f94a137c1efb2d87b1e9d393434e17cc.jpg" group-title="SPORT",beIN SPORTS 3
-http://119.10.136.162:8080/live/1234/1234/86.ts
+http://119.10.136.162:8080/live/mantv01/12345/86.ts
 #EXTINF:-1 tvg-id="" tvg-name="Golf +" tvg-logo="http://119.10.136.162:8080/images/f6efa4bfc13f107b08ee1608a847293f.jpg" group-title="SPORT",Golf +
-http://119.10.136.162:8080/live/1234/1234/87.ts
+http://119.10.136.162:8080/live/mantv01/12345/87.ts
 #EXTINF:-1 tvg-id="" tvg-name="True Sport 1" tvg-logo="http://119.10.136.162:8080/images/fdcee98ee0756e9f111ac3a7e0a6c82d.jpg" group-title="SPORT",True Sport 1
-http://119.10.136.162:8080/live/1234/1234/88.ts
+http://119.10.136.162:8080/live/mantv01/12345/88.ts
 #EXTINF:-1 tvg-id="" tvg-name="True Sport 2" tvg-logo="http://119.10.136.162:8080/images/408a8439516c3e83e21834f64de3f11b.jpg" group-title="SPORT",True Sport 2
-http://119.10.136.162:8080/live/1234/1234/89.ts
+http://119.10.136.162:8080/live/mantv01/12345/89.ts
 #EXTINF:-1 tvg-id="" tvg-name="True Sport 3" tvg-logo="http://119.10.136.162:8080/images/cdae6af8778fb1113ff95028fe5e9416.jpg" group-title="SPORT",True Sport 3
-http://119.10.136.162:8080/live/1234/1234/90.ts
+http://119.10.136.162:8080/live/mantv01/12345/90.ts
 #EXTINF:-1 tvg-id="" tvg-name="True Tennis" tvg-logo="http://119.10.136.162:8080/images/59cc60e5bd3f7951465b1ce1800bcc29.jpg" group-title="SPORT",True Tennis
-http://119.10.136.162:8080/live/1234/1234/91.ts
+http://119.10.136.162:8080/live/mantv01/12345/91.ts
 #EXTINF:-1 tvg-id="" tvg-name="True Sport 5" tvg-logo="http://119.10.136.162:8080/images/06565df8039899f77dd6271a8e996dd0.jpg" group-title="SPORT",True Sport 5
-http://119.10.136.162:8080/live/1234/1234/92.ts
+http://119.10.136.162:8080/live/mantv01/12345/92.ts
 #EXTINF:-1 tvg-id="" tvg-name="True Sport 7" tvg-logo="http://119.10.136.162:8080/images/622600b84a5f0dc74c1a38c408866d32.jpg" group-title="SPORT",True Sport 7
-http://119.10.136.162:8080/live/1234/1234/93.ts
+http://119.10.136.162:8080/live/mantv01/12345/93.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="http://119.10.136.162:8080/images/6f462d7957067d050e3d60a32af3a6dc.jpg" group-title="SPORT",SPOTV 1
-http://119.10.136.162:8080/live/1234/1234/94.ts
+http://119.10.136.162:8080/live/mantv01/12345/94.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="http://119.10.136.162:8080/images/826aa3e633b3cf5a0391ba99f4189140.jpg" group-title="SPORT",SPOTV 2
-http://119.10.136.162:8080/live/1234/1234/95.ts
+http://119.10.136.162:8080/live/mantv01/12345/95.ts
 #EXTINF:-1 tvg-id="" tvg-name="W-sport" tvg-logo="http://119.10.136.162:8080/images/e7c897e3af5ab278e4e4109346c306bf.jpg" group-title="SPORT",W-sport
-http://119.10.136.162:8080/live/1234/1234/96.ts
+http://119.10.136.162:8080/live/mantv01/12345/96.ts
 #EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV" tvg-logo="http://119.10.136.162:8080/images/225cca60a1c50e86bcc2fd7827f6fe9e.jpg" group-title="SPORT",Realmadrid TV
-http://119.10.136.162:8080/live/1234/1234/98.ts
+http://119.10.136.162:8080/live/mantv01/12345/98.ts
 #EXTINF:-1 tvg-id="" tvg-name="RED BULL" tvg-logo="http://119.10.136.162:8080/images/66f81caefba52ef574532eb7590a469c.jpg" group-title="SPORT",RED BULL
-http://119.10.136.162:8080/live/1234/1234/100.ts
+http://119.10.136.162:8080/live/mantv01/12345/100.ts
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="http://119.10.136.162:8080/images/d7041eadedbdbc29521febf3493a25df.jpg" group-title="SPORT",Eurosport
-http://119.10.136.162:8080/live/1234/1234/101.ts
+http://119.10.136.162:8080/live/mantv01/12345/101.ts
 #EXTINF:-1 tvg-id="" tvg-name="BG Sports 1" tvg-logo="http://119.10.136.162:8080/images/0a9833014c056b15e25cb1eb960028a4.jpg" group-title="SPORT",BG Sports 1
-http://119.10.136.162:8080/live/1234/1234/102.ts
+http://119.10.136.162:8080/live/mantv01/12345/102.ts
 #EXTINF:-1 tvg-id="" tvg-name="BG Sports 2" tvg-logo="http://119.10.136.162:8080/images/37542dd470eb035346e78ea669c7e760.jpg" group-title="SPORT",BG Sports 2
-http://119.10.136.162:8080/live/1234/1234/103.ts
+http://119.10.136.162:8080/live/mantv01/12345/103.ts
 #EXTINF:-1 tvg-id="" tvg-name="BG Sports 3" tvg-logo="http://119.10.136.162:8080/images/fbce2712dbaad762ee36c4538a0daf49.jpg" group-title="SPORT",BG Sports 3
-http://119.10.136.162:8080/live/1234/1234/104.ts
+http://119.10.136.162:8080/live/mantv01/12345/104.ts
 #EXTINF:-1 tvg-id="" tvg-name="BG Sports 4" tvg-logo="http://119.10.136.162:8080/images/638b575a63a4269be3609348600d73d9.jpg" group-title="SPORT",BG Sports 4
-http://119.10.136.162:8080/live/1234/1234/105.ts
+http://119.10.136.162:8080/live/mantv01/12345/105.ts
 #EXTINF:-1 tvg-id="" tvg-name="BG Sports 6" tvg-logo="http://119.10.136.162:8080/images/fc86dd338480b314f36e92cdc92069d8.jpg" group-title="SPORT",BG Sports 6
-http://119.10.136.162:8080/live/1234/1234/106.ts
+http://119.10.136.162:8080/live/mantv01/12345/106.ts
 #EXTINF:-1 tvg-id="" tvg-name="BG Sports 5" tvg-logo="http://119.10.136.162:8080/images/34993d6426c854688e661436c5da6ba4.jpg" group-title="SPORT",BG Sports 5
-http://119.10.136.162:8080/live/1234/1234/107.ts
+http://119.10.136.162:8080/live/mantv01/12345/107.ts
 #EXTINF:-1 tvg-id="" tvg-name="True Premier HD 4" tvg-logo="http://119.10.136.162:8080/images/02caf5cc387427b7ea2265eaa041703e.jpg" group-title="SPORT",True Premier HD 4
-http://119.10.136.162:8080/live/1234/1234/108.ts
+http://119.10.136.162:8080/live/mantv01/12345/108.ts
 #EXTINF:-1 tvg-id="" tvg-name="LFC" tvg-logo="http://119.10.136.162:8080/images/f2f50c776bcccec81d9c666bf0177f1f.jpg" group-title="SPORT",LFC
-http://119.10.136.162:8080/live/1234/1234/109.ts
+http://119.10.136.162:8080/live/mantv01/12345/109.ts
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX SPORTS TV" tvg-logo="http://119.10.136.162:8080/images/be492e35e70ac9d97aa4646b56836657.png" group-title="MONOMAX",MONOMAX SPORTS TV
-http://119.10.136.162:8080/live/1234/1234/110.ts
+http://119.10.136.162:8080/live/mantv01/12345/110.ts
 
 
 <html>
